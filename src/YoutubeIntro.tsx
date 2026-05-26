@@ -49,23 +49,16 @@ export const YoutubeIntro: React.FC = () => {
   });
   const barOffset = interpolate(easeOutCubic(barProgress), [0, 1], [-barHeight, 0]);
 
-  const filmByOpacity = interpolate(frame, [30, 65], [0, 1], {
+  const textFadeInProgress = interpolate(frame, [30, 90], [0, 1], {
     extrapolateRight: 'clamp',
   });
-  const filmByLetterSpacing = interpolate(frame, [30, 110], [32, 16], {
-    extrapolateRight: 'clamp',
-  });
-  const filmByTranslateY = interpolate(frame, [30, 65], [12, 0], {
-    extrapolateRight: 'clamp',
-  });
+  const textOpacity = easeInOutCubic(textFadeInProgress);
+  const textTranslateY = interpolate(easeInOutCubic(textFadeInProgress), [0, 1], [14, 0]);
 
-  const nameOpacity = interpolate(frame, [80, 125], [0, 1], {
+  const filmByLetterSpacing = interpolate(frame, [30, 180], [32, 16], {
     extrapolateRight: 'clamp',
   });
-  const nameLetterSpacing = interpolate(frame, [80, 170], [24, 14], {
-    extrapolateRight: 'clamp',
-  });
-  const nameTranslateY = interpolate(frame, [80, 125], [16, 0], {
+  const nameLetterSpacing = interpolate(frame, [30, 220], [24, 14], {
     extrapolateRight: 'clamp',
   });
 
@@ -100,19 +93,18 @@ export const YoutubeIntro: React.FC = () => {
           alignItems: 'center',
           flexDirection: 'column',
           fontFamily,
-          transform: `scale(${slowZoom})`,
+          transform: `scale(${slowZoom}) translateY(${textTranslateY}px)`,
+          opacity: textOpacity,
         }}
       >
         <div
           style={{
             fontSize: 36,
             color: 'rgba(230, 220, 200, 0.7)',
-            opacity: filmByOpacity,
             letterSpacing: filmByLetterSpacing,
             textTransform: 'uppercase',
             fontWeight: 400,
             marginBottom: 52,
-            transform: `translateY(${filmByTranslateY}px)`,
           }}
         >
           film by
@@ -122,11 +114,9 @@ export const YoutubeIntro: React.FC = () => {
           style={{
             fontSize: 56,
             color: 'rgba(245, 238, 222, 0.95)',
-            opacity: nameOpacity,
             letterSpacing: nameLetterSpacing,
             textTransform: 'uppercase',
             fontWeight: 400,
-            transform: `translateY(${nameTranslateY}px)`,
             textShadow: '0 0 24px rgba(245, 238, 222, 0.12)',
           }}
         >
