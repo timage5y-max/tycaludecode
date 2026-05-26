@@ -1,0 +1,33 @@
+{
+  "name": "tycaludecode",
+  "version": "1.0.0",
+  "description": "for claude code by tamir yeshayahu",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "remotion studio",
+    "build": "remotion render HelloWorld out/video.mp4",
+    "render": "remotion render",
+    "upgrade": "remotion upgrade"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://local_proxy@127.0.0.1:40751/git/timage5y-max/tycaludecode"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@remotion/bundler": "^4.0.467",
+    "@remotion/cli": "^4.0.467",
+    "@remotion/renderer": "^4.0.467",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "remotion": "^4.0.467"
+  },
+  "devDependencies": {
+    "@types/node": "^25.9.1",
+    "@types/react": "^19.2.15",
+    "@types/react-dom": "^19.2.3",
+    "typescript": "^6.0.3"
+  }
+}
