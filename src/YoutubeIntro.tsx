@@ -72,12 +72,13 @@ export const YoutubeIntro: React.FC = () => {
   const slowZoomProgress = interpolate(frame, [0, durationInFrames], [0, 1]);
   const slowZoom = 1 + easeInOutCubic(slowZoomProgress) * 0.05;
 
-  const fadeOutOpacity = interpolate(
+  const fadeOutProgress = interpolate(
     frame,
-    [durationInFrames - 30, durationInFrames - 1],
-    [1, 0],
+    [durationInFrames - 75, durationInFrames - 1],
+    [0, 1],
     {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'},
   );
+  const fadeOutOpacity = 1 - easeInOutCubic(fadeOutProgress);
 
   const vignetteOpacity = interpolate(frame, [0, 40], [0, 1], {
     extrapolateRight: 'clamp',
