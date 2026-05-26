@@ -1,51 +1,85 @@
-import {AbsoluteFill, interpolate, spring, useCurrentFrame, useVideoConfig} from 'remotion';
+import {
+  AbsoluteFill,
+  cancelRender,
+  continueRender,
+  delayRender,
+  interpolate,
+  staticFile,
+  useCurrentFrame,
+  useVideoConfig,
+} from 'remotion';
+import {useEffect, useState} from 'react';
+
+const easeOutCubic = (t: number) => 1 - Math.pow(1 - t, 3);
+const easeInOutCubic = (t: number) =>
+  t < 0.5 ? 4 * t * t * t : 1 - Math.pow(-2 * t + 2, 3) / 2;
+
+const fontFamily = 'CinematicSerif';
+
+const loadFonts = async () => {
+  const regular = new FontFace(
+    fontFamily,
+    `url(${staticFile('fonts/CinematicSerif.ttf')}) format('truetype')`,
+    {weight: '400'},
+  );
+  const bold = new FontFace(
+    fontFamily,
+    `url(${staticFile('fonts/CinematicSerif-Bold.ttf')}) format('truetype')`,
+    {weight: '700'},
+  );
+  await Promise.all([regular.load(), bold.load()]);
+  document.fonts.add(regular);
+  document.fonts.add(bold);
+};
 
 export const YoutubeIntro: React.FC = () => {
   const frame = useCurrentFrame();
-  const {fps, durationInFrames, height} = useVideoConfig();
+  const {durationInFrames, height} = useVideoConfig();
+  const [handle] = useState(() => delayRender('Loading cinematic font'));
 
-  const barHeight = height * 0.12;
-  const barProgress = spring({
-    frame,
-    fps,
-    config: {damping: 18, stiffness: 80, mass: 1},
-  });
-  const barOffset = interpolate(barProgress, [0, 1], [-barHeight, 0]);
+  useEffect(() => {
+    loadFonts()
+      .then(() => continueRender(handle))
+      .catch((err) => cancelRender(err));
+  }, [handle]);
 
-  const filmByOpacity = interpolate(frame, [20, 35], [0, 1], {
+  const barHeight = height * 0.1;
+  const barProgress = interpolate(frame, [0, 35], [0, 1], {
     extrapolateRight: 'clamp',
   });
-  const filmByLetterSpacing = interpolate(frame, [20, 60], [40, 14], {
+  const barOffset = interpolate(easeOutCubic(barProgress), [0, 1], [-barHeight, 0]);
+
+  const filmByOpacity = interpolate(frame, [30, 65], [0, 1], {
+    extrapolateRight: 'clamp',
+  });
+  const filmByLetterSpacing = interpolate(frame, [30, 110], [32, 16], {
+    extrapolateRight: 'clamp',
+  });
+  const filmByTranslateY = interpolate(frame, [30, 65], [12, 0], {
     extrapolateRight: 'clamp',
   });
 
-  const nameReveal = spring({
-    frame: frame - 45,
-    fps,
-    config: {damping: 14, stiffness: 90},
-  });
-  const nameOpacity = interpolate(frame, [45, 65], [0, 1], {
+  const nameOpacity = interpolate(frame, [80, 125], [0, 1], {
     extrapolateRight: 'clamp',
   });
-  const nameBlur = interpolate(frame, [45, 70], [20, 0], {
+  const nameLetterSpacing = interpolate(frame, [80, 170], [24, 14], {
     extrapolateRight: 'clamp',
   });
-  const nameScale = interpolate(nameReveal, [0, 1], [0.85, 1]);
+  const nameTranslateY = interpolate(frame, [80, 125], [16, 0], {
+    extrapolateRight: 'clamp',
+  });
 
-  const sweepStart = 70;
-  const sweepProgress = interpolate(frame, [sweepStart, sweepStart + 40], [-30, 130], {
-    extrapolateLeft: 'clamp',
-    extrapolateRight: 'clamp',
-  });
+  const slowZoomProgress = interpolate(frame, [0, durationInFrames], [0, 1]);
+  const slowZoom = 1 + easeInOutCubic(slowZoomProgress) * 0.05;
 
   const fadeOutOpacity = interpolate(
     frame,
-    [durationInFrames - 15, durationInFrames - 1],
+    [durationInFrames - 30, durationInFrames - 1],
     [1, 0],
     {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'},
   );
 
-  const vignetteOpacity = interpolate(frame, [0, 30], [0, 1], {
+  const vignetteOpacity = interpolate(frame, [0, 40], [0, 1], {
     extrapolateRight: 'clamp',
   });
 
@@ -54,7 +88,7 @@ export const YoutubeIntro: React.FC = () => {
       <AbsoluteFill
         style={{
           background:
-            'radial-gradient(ellipse at center, rgba(20,20,30,1) 0%, rgba(0,0,0,1) 75%)',
+            'radial-gradient(ellipse at center, rgba(18,16,14,1) 0%, rgba(0,0,0,1) 78%)',
           opacity: vignetteOpacity,
         }}
       />
@@ -64,18 +98,20 @@ export const YoutubeIntro: React.FC = () => {
           justifyContent: 'center',
           alignItems: 'center',
           flexDirection: 'column',
-          fontFamily: 'system-ui, -apple-system, sans-serif',
+          fontFamily,
+          transform: `scale(${slowZoom})`,
         }}
       >
         <div
           style={{
-            fontSize: 44,
-            color: 'rgba(255, 255, 255, 0.55)',
+            fontSize: 36,
+            color: 'rgba(230, 220, 200, 0.7)',
             opacity: filmByOpacity,
             letterSpacing: filmByLetterSpacing,
             textTransform: 'uppercase',
-            fontWeight: 300,
-            marginBottom: 40,
+            fontWeight: 400,
+            marginBottom: 52,
+            transform: `translateY(${filmByTranslateY}px)`,
           }}
         >
           film by
@@ -83,49 +119,17 @@ export const YoutubeIntro: React.FC = () => {
 
         <div
           style={{
-            position: 'relative',
+            fontSize: 56,
+            color: 'rgba(245, 238, 222, 0.95)',
             opacity: nameOpacity,
-            transform: `scale(${nameScale})`,
-            filter: `blur(${nameBlur}px)`,
+            letterSpacing: nameLetterSpacing,
+            textTransform: 'uppercase',
+            fontWeight: 400,
+            transform: `translateY(${nameTranslateY}px)`,
+            textShadow: '0 0 24px rgba(245, 238, 222, 0.12)',
           }}
         >
-          <h1
-            style={{
-              fontSize: 130,
-              color: '#fff',
-              margin: 0,
-              fontWeight: 700,
-              letterSpacing: 6,
-              textTransform: 'uppercase',
-              textShadow: '0 0 40px rgba(255, 255, 255, 0.25)',
-            }}
-          >
-            Tamir Yeshayahu
-          </h1>
-
-          <div
-            style={{
-              position: 'absolute',
-              inset: 0,
-              overflow: 'hidden',
-              pointerEvents: 'none',
-              mixBlendMode: 'screen',
-            }}
-          >
-            <div
-              style={{
-                position: 'absolute',
-                top: 0,
-                bottom: 0,
-                left: `${sweepProgress}%`,
-                width: '25%',
-                background:
-                  'linear-gradient(90deg, transparent 0%, rgba(255,255,255,0.45) 50%, transparent 100%)',
-                transform: 'skewX(-20deg)',
-                filter: 'blur(8px)',
-              }}
-            />
-          </div>
+          Tamir Yeshayahu
         </div>
       </AbsoluteFill>
 
