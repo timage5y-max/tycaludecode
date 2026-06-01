@@ -10,7 +10,18 @@ from __future__ import annotations
 import argparse
 import sys
 
-from .pipeline import make_reels
+from .pipeline import cut_clip, make_reels
+
+
+def _parse_time(value: str) -> float:
+    """Accept seconds (\"75\") or mm:ss / hh:mm:ss (\"1:15\")."""
+    if ":" not in value:
+        return float(value)
+    parts = [float(p) for p in value.split(":")]
+    seconds = 0.0
+    for p in parts:
+        seconds = seconds * 60 + p
+    return seconds
 
 
 def main(argv=None) -> int:
@@ -30,7 +41,33 @@ def main(argv=None) -> int:
     mk.add_argument("--width", type=int, default=1080)
     mk.add_argument("--height", type=int, default=1920)
 
+    ct = sub.add_parser("cut", help="manual cut + 9:16 reframe (no transcript, no captions)")
+    ct.add_argument("input", help="source video file")
+    ct.add_argument("--out", default="out/clip.mp4", help="output file path")
+    ct.add_argument("--start", required=True, help="clip start (seconds or mm:ss)")
+    grp = ct.add_mutually_exclusive_group()
+    grp.add_argument("--end", help="clip end (seconds or mm:ss)")
+    grp.add_argument("--duration", type=float, help="clip length in seconds")
+    ct.add_argument("--reframe", choices=["crop", "blur", "none"], default="blur")
+    ct.add_argument("--width", type=int, default=1080)
+    ct.add_argument("--height", type=int, default=1920)
+
     args = parser.parse_args(argv)
+
+    if args.cmd == "cut":
+        res = cut_clip(
+            args.input,
+            args.out,
+            start=_parse_time(args.start),
+            end=_parse_time(args.end) if args.end else None,
+            duration=args.duration,
+            reframe_mode=args.reframe,
+            target_w=args.width,
+            target_h=args.height,
+        )
+        print(f"Wrote {res.path}  [{res.clip.start:.1f}s-{res.clip.end:.1f}s, "
+              f"{res.clip.duration:.1f}s, {args.width}x{args.height}, reframe={args.reframe}]")
+        return 0
 
     if args.cmd == "make":
         results = make_reels(

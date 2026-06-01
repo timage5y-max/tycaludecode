@@ -76,6 +76,40 @@ def render_clip(
     return ReelResult(path=out_path, clip=clip, text=transcript.text_between(clip.start, clip.end))
 
 
+def cut_clip(
+    src: str,
+    out_path: str,
+    *,
+    start: float,
+    end: Optional[float] = None,
+    duration: Optional[float] = None,
+    reframe_mode: str = "blur",
+    target_w: int = 1080,
+    target_h: int = 1920,
+) -> ReelResult:
+    """Manual single-clip cut + 9:16 reframe, no transcription or captions.
+
+    Use when you just want a specific time range turned into a vertical reel
+    (e.g. a music-driven highlight where there's no speech to transcribe).
+    """
+    ffmpeg.ensure_ffmpeg()
+    info = ffmpeg.probe(src)
+
+    if end is None:
+        end = start + (duration if duration is not None else 30.0)
+    end = min(end, info.duration)
+    if end <= start:
+        raise ValueError(f"empty clip: start={start} end={end} (source is {info.duration:.1f}s)")
+
+    os.makedirs(os.path.dirname(out_path) or ".", exist_ok=True)
+    clip = Clip(start=start, end=end, score=0.0, reason="manual")
+    return render_clip(
+        src, clip, Transcript(words=[]), out_path,
+        reframe_mode=reframe_mode, burn_captions=False,
+        target_w=target_w, target_h=target_h,
+    )
+
+
 def make_reels(
     src: str,
     out_dir: str = "out",
