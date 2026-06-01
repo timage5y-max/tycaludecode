@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+out/
+*.png
+
+# Generated sample artifacts (recreate with examples/make_sample.py)
+examples/sample.mp4
+examples/sample.json

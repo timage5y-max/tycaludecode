@@ -1,0 +1,7 @@
+# Core pipeline has no hard Python deps beyond the stdlib + ffmpeg (system).
+#
+# Transcription backends (install what you need):
+#   ElevenLabs Scribe (cloud, needs ELEVENLABS_API_KEY):
+requests>=2.31
+#   Local Whisper (no network at inference; downloads model once):
+# faster-whisper>=1.0
