@@ -5,13 +5,15 @@
   "main": "src/index.ts",
   "scripts": {
     "start": "remotion studio",
-    "build": "remotion render HelloWorld out/video.mp4",
+    "build": "remotion render YoutubeIntro out/youtube-intro.mp4",
     "render": "remotion render",
+    "still": "remotion still",
+    "typecheck": "tsc --noEmit",
     "upgrade": "remotion upgrade"
   },
   "repository": {
     "type": "git",
-    "url": "http://local_proxy@127.0.0.1:40751/git/timage5y-max/tycaludecode"
+    "url": "git+https://github.com/timage5y-max/tycaludecode.git"
   },
   "keywords": [],
   "author": "",
