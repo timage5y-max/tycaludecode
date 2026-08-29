@@ -15,7 +15,7 @@ import {T} from './timeline';
 /** Drop the aerial photograph here; the plan is traced onto its exact framing. */
 export const PHOTO = 'venue.png';
 
-export const VenueReveal: React.FC = () => {
+export const VenueReveal: React.FC<{showHand: boolean}> = ({showHand}) => {
   const frame = useCurrentFrame();
   const {durationInFrames} = useVideoConfig();
 
@@ -56,7 +56,7 @@ export const VenueReveal: React.FC = () => {
         </Sequence>
 
         <AbsoluteFill style={{opacity: 1 - dissolve}}>
-          <BlueprintPlan />
+          <BlueprintPlan showHand={showHand} />
         </AbsoluteFill>
       </AbsoluteFill>
 

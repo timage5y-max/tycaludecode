@@ -1,28 +1,10 @@
 import {AbsoluteFill} from 'remotion';
 import {Draw, FadeIn, useProgress} from './Draw';
+import {byKey, DRAWABLES} from './drawables';
+import {AXIS, CANVAS, lightStrings} from './layout';
+import {PencilHand} from './PencilHand';
 import {T} from './timeline';
 import {mono, theme} from './theme';
-import {
-  aisle,
-  arches,
-  AXIS,
-  CANVAS,
-  edgeTables,
-  fountain,
-  lawnEdge,
-  lightStrings,
-  longTables,
-  palms,
-  pergolas,
-  roundTables,
-  shoreline,
-  structures,
-  surfLines,
-  type Ellipse,
-  type Quad,
-} from './layout';
-
-const points = (quad: Quad) => quad.map(([x, y]) => `${x},${y}`).join(' ');
 
 /** Point at parameter t along a quadratic path of the form "M x y Q cx cy x y". */
 const pointOnQuadratic = (d: string, t: number) => {
@@ -38,11 +20,7 @@ const pointOnQuadratic = (d: string, t: number) => {
   };
 };
 
-const Ring: React.FC<{e: Ellipse}> = ({e}) => (
-  <ellipse cx={e.cx} cy={e.cy} rx={e.rx} ry={e.ry} pathLength={1} />
-);
-
-export const BlueprintPlan: React.FC = () => {
+export const BlueprintPlan: React.FC<{showHand: boolean}> = ({showHand}) => {
   const gridOpacity = useProgress(T.grid.start, T.grid.dur);
   const sweep = useProgress(T.sweep.start, T.sweep.dur);
 
@@ -85,182 +63,30 @@ export const BlueprintPlan: React.FC = () => {
           <rect width={CANVAS.width} height={CANVAS.height} fill="url(#gridMajor)" />
         </g>
 
-        {/* Everything below is stroke-only: a plan has no fills. */}
-        <g fill="none" stroke={theme.line} strokeWidth={2.2} strokeLinejoin="round">
-          {/* Context: the sea, the water's edge, the lawn boundary. */}
-          <g stroke={theme.lineFaint} strokeWidth={1.8}>
-            {surfLines.map((d, i) => (
-              <Draw key={d} start={T.surf.start + i * 10} dur={T.surf.dur}>
-                <path d={d} pathLength={1} />
-              </Draw>
-            ))}
-          </g>
-
-          <Draw start={T.shore.start} dur={T.shore.dur}>
-            <path d={shoreline} pathLength={1} stroke={theme.lineSoft} strokeWidth={2.4} />
-          </Draw>
-
-          <Draw start={T.lawn.start} dur={T.lawn.dur}>
-            <path d={lawnEdge} pathLength={1} strokeWidth={2.6} />
-          </Draw>
-
-          {/* Bar and DJ booth along the back edge. */}
-          {structures.map((quad, i) => (
-            <Draw
-              key={`structure-${i}`}
-              start={T.structures.start + i * T.structures.stagger}
-              dur={T.structures.dur}
-            >
-              <polygon points={points(quad)} pathLength={1} />
-            </Draw>
-          ))}
-
-          {/* The fountain, drawn tier by tier from the base up. */}
-          {[fountain.base, fountain.rim, fountain.bowl, fountain.stem].map((e, i) => (
-            <Draw
-              key={`fountain-${i}`}
-              start={T.fountain.start + i * T.fountain.stagger}
-              dur={T.fountain.dur}
-            >
-              <Ring e={e} />
-            </Draw>
-          ))}
-
-          {/* Banquet tables ringing the fountain. */}
-          {longTables.map((quad, i) => (
-            <Draw
-              key={`long-${i}`}
-              start={T.longTables.start + i * T.longTables.stagger}
-              dur={T.longTables.dur}
-            >
-              <polygon points={points(quad)} pathLength={1} />
-            </Draw>
-          ))}
-
-          <Draw start={T.aisle.start} dur={T.aisle.dur}>
-            <polygon
-              points={points(aisle)}
-              pathLength={1}
-              stroke={theme.lineSoft}
-              strokeWidth={1.8}
-            />
-          </Draw>
-
-          {/* Guest tables, one after another, outward from the centre. */}
-          {roundTables.map((e, i) => (
-            <Draw
-              key={`round-${i}`}
-              start={T.rounds.start + i * T.rounds.stagger}
-              dur={T.rounds.dur}
-            >
-              <Ring e={e} />
-              <ellipse
-                cx={e.cx}
-                cy={e.cy}
-                rx={e.rx * 0.28}
-                ry={e.ry * 0.28}
-                pathLength={1}
-                stroke={theme.lineFaint}
-              />
-            </Draw>
-          ))}
-
-          {edgeTables.map((quad, i) => (
-            <Draw
-              key={`edge-${i}`}
-              start={T.edgeTables.start + i * T.edgeTables.stagger}
-              dur={T.edgeTables.dur}
-            >
-              <polygon points={points(quad)} pathLength={1} />
-            </Draw>
-          ))}
-
-          {/* Foliage arches: a half-ellipse standing on the grass. */}
-          {arches.map((a, i) => (
-            <Draw
-              key={`arch-${i}`}
-              start={T.arches.start + i * T.arches.stagger}
-              dur={T.arches.dur}
-            >
+        {/* The plan itself. A drawing has no fills, only strokes. */}
+        <g fill="none" strokeLinejoin="round" strokeLinecap="round">
+          {DRAWABLES.map((item) => (
+            <Draw key={item.key} start={item.start} dur={item.dur}>
               <path
-                d={`M ${a.cx - a.rx} ${a.cy} A ${a.rx} ${a.ry} 0 0 1 ${a.cx + a.rx} ${a.cy}`}
+                d={item.d}
                 pathLength={1}
-                stroke={theme.lineSoft}
+                stroke={item.stroke}
+                strokeWidth={item.width}
               />
             </Draw>
           ))}
 
-          {pergolas.map((p, i) => (
-            <Draw
-              key={`pergola-${i}`}
-              start={T.pergolas.start + i * T.pergolas.stagger}
-              dur={T.pergolas.dur}
-            >
-              <polygon points={points(p.roof)} pathLength={1} />
-              {p.posts.map(([x1, y1, x2, y2]) => (
-                <line
-                  key={`${x1}-${y1}`}
-                  x1={x1}
-                  y1={y1}
-                  x2={x2}
-                  y2={y2}
-                  pathLength={1}
-                  stroke={theme.lineSoft}
-                />
-              ))}
-            </Draw>
-          ))}
-
-          {palms.map((p, i) => (
-            <Draw
-              key={`palm-${i}`}
-              start={T.palms.start + i * T.palms.stagger}
-              dur={T.palms.dur}
-            >
-              <path
-                d={`M ${p.base[0]} ${p.base[1]} Q ${(p.base[0] + p.top[0]) / 2 + p.bend} ${
-                  (p.base[1] + p.top[1]) / 2
-                } ${p.top[0]} ${p.top[1]}`}
-                pathLength={1}
-                stroke={theme.lineSoft}
-              />
-              {[-1, -0.62, -0.26, 0.26, 0.62, 1].map((k) => (
-                <path
-                  key={k}
-                  d={`M ${p.top[0]} ${p.top[1]} q ${k * 96} ${-34} ${k * 168} ${
-                    58 + (1 - Math.abs(k)) * 74
-                  }`}
-                  pathLength={1}
-                  stroke={theme.lineFaint}
-                />
-              ))}
-            </Draw>
-          ))}
-
-          {/* Festoon lighting, with bulbs settling onto the line after it lands. */}
+          {/* Bulbs settle onto each festoon line once the pencil has passed. */}
           {lightStrings.map((s, i) => {
-            const start = T.lights.start + i * T.lights.stagger;
+            const item = byKey(`light-${i}`);
+            if (!item) return null;
             return (
-              <g key={s.d}>
-                <Draw start={start} dur={T.lights.dur}>
-                  <path d={s.d} pathLength={1} stroke={theme.lineFaint} strokeWidth={1.6} />
-                </Draw>
-                <FadeIn start={start + T.lights.dur * 0.6} dur={20}>
-                  {Array.from({length: s.bulbs}, (_, b) => {
-                    const {x, y} = pointOnQuadratic(s.d, (b + 0.5) / s.bulbs);
-                    return (
-                      <circle
-                        key={b}
-                        cx={x}
-                        cy={y}
-                        r={4}
-                        fill={theme.accent}
-                        stroke="none"
-                      />
-                    );
-                  })}
-                </FadeIn>
-              </g>
+              <FadeIn key={s.d} start={item.start + item.dur * 0.65} dur={20}>
+                {Array.from({length: s.bulbs}, (_, b) => {
+                  const {x, y} = pointOnQuadratic(s.d, (b + 0.5) / s.bulbs);
+                  return <circle key={b} cx={x} cy={y} r={4} fill={theme.accent} />;
+                })}
+              </FadeIn>
             );
           })}
 
@@ -274,11 +100,7 @@ export const BlueprintPlan: React.FC = () => {
               <line x1={120} y1={338} x2={120} y2={366} />
               <line x1={1800} y1={338} x2={1800} y2={366} />
             </g>
-            <g
-              fill={theme.text}
-              stroke="none"
-              style={{fontFamily: mono, letterSpacing: 3}}
-            >
+            <g fill={theme.text} stroke="none" style={{fontFamily: mono, letterSpacing: 3}}>
               <text x={960} y={340} fontSize={22} textAnchor="middle">
                 28.00 m
               </text>
@@ -313,7 +135,14 @@ export const BlueprintPlan: React.FC = () => {
               <text x={92} y={1006} fontSize={15} letterSpacing={4} fill={theme.textDim}>
                 TAMIR YESHAYAHU
               </text>
-              <text x={482} y={1006} fontSize={15} letterSpacing={4} textAnchor="end" fill={theme.textDim}>
+              <text
+                x={482}
+                y={1006}
+                fontSize={15}
+                letterSpacing={4}
+                textAnchor="end"
+                fill={theme.textDim}
+              >
                 SCALE 1:100
               </text>
             </g>
@@ -328,6 +157,8 @@ export const BlueprintPlan: React.FC = () => {
           height={CANVAS.height}
           fill="url(#sweep)"
         />
+
+        {showHand ? <PencilHand /> : null}
       </svg>
     </AbsoluteFill>
   );

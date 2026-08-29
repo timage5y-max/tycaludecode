@@ -14,7 +14,7 @@ export const CalibrationOverlay: React.FC = () => (
       style={{width: '100%', height: '100%', objectFit: 'cover'}}
     />
     <AbsoluteFill style={{opacity: 0.72, mixBlendMode: 'screen'}}>
-      <BlueprintPlan />
+      <BlueprintPlan showHand={false} />
     </AbsoluteFill>
   </AbsoluteFill>
 );

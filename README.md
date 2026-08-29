@@ -44,9 +44,10 @@ Registered in `src/Root.tsx`. All are 1920x1080 at 30fps.
 - **`YoutubeIntro`** (`src/YoutubeIntro.tsx`) - 12s. Cinematic "film by" title
   card: letterbox bars slide in, a vignette fades up, the text fades in while its
   letter-spacing tightens, and the whole frame slow-zooms before fading to black.
-- **`VenueReveal`** (`src/venue/`) - 16s. A blueprint of the beach venue draws
-  itself line by line, gets dimensioned and signed, then cross-dissolves into the
-  photograph of the finished event.
+- **`VenueReveal`** (`src/venue/`) - 23s. A hand sketches a blueprint of the
+  beach venue in pencil, the plan gets dimensioned and signed, then it
+  cross-dissolves into the photograph of the finished event. Pass
+  `showHand: false` for the same choreography without the hand.
 - **`CalibrationOverlay`** (`src/venue/CalibrationOverlay.tsx`) - a development
   aid, not a deliverable. It lays the finished plan straight over the photograph
   so any drift between a drawn element and the real thing is obvious.
@@ -63,10 +64,24 @@ symmetry axis is the midpoint four independent left/right pairs agreed on. Frame
 timings are in `src/venue/timeline.ts`, so the choreography can be retimed
 without touching the drawing code.
 
+`src/venue/drawables.ts` is the single ordered list of strokes. The plan renders
+it and the hand reads it, which is what keeps the pencil tip on the line instead
+of near it. Each visual object is one path, so an object with several parts - a
+table and its centrepiece, a pergola and its posts - is traced in one pass.
+
+Within each group the strokes are ordered nearest-first. Listing tables in their
+natural left-right order sends the pencil skating back and forth across the
+sheet; this keeps it working an area at a time.
+
 `src/venue/Draw.tsx` does the pen effect. Children carry `pathLength={1}`, which
 expresses the dash pattern as a fraction of each stroke whatever its real
 length; `stroke-dasharray` and `stroke-dashoffset` inherit, so one group drives
 every shape inside it.
+
+`src/venue/PencilHand.tsx` finds the stroke being drawn on the current frame and
+asks it, via `getPointAtLength`, where its leading edge is - using the same
+easing the stroke itself uses, so the two cannot disagree. Between strokes the
+hand travels to the next start and lifts off the paper on the way.
 
 To retarget it at another venue, replace `public/venue.png`, then open
 `CalibrationOverlay` in the studio and move the shapes in `layout.ts` until they
