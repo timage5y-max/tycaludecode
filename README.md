@@ -23,6 +23,7 @@ npm ci
 | --- | --- |
 | `npm start` | Open Remotion Studio to preview and scrub compositions |
 | `npm run build` | Render `YoutubeIntro` to `out/youtube-intro.mp4` |
+| `npm run reveal` | Render `VenueReveal` to `out/venue-reveal.mp4` |
 | `npm run render <id> <out>` | Render any composition |
 | `npm run still <id> <out>` | Render a single frame as an image |
 | `npm run typecheck` | Type-check the project |
@@ -43,6 +44,33 @@ Registered in `src/Root.tsx`. All are 1920x1080 at 30fps.
 - **`YoutubeIntro`** (`src/YoutubeIntro.tsx`) - 12s. Cinematic "film by" title
   card: letterbox bars slide in, a vignette fades up, the text fades in while its
   letter-spacing tightens, and the whole frame slow-zooms before fading to black.
+- **`VenueReveal`** (`src/venue/`) - 16s. A blueprint of the beach venue draws
+  itself line by line, gets dimensioned and signed, then cross-dissolves into the
+  photograph of the finished event.
+- **`CalibrationOverlay`** (`src/venue/CalibrationOverlay.tsx`) - a development
+  aid, not a deliverable. It lays the finished plan straight over the photograph
+  so any drift between a drawn element and the real thing is obvious.
+
+### VenueReveal
+
+The plan is drawn in the photograph's own 1920x1080 coordinate space rather than
+as a top-down plan, so at the dissolve each drawn table sits on the table it
+describes and the drawing appears to fill in rather than be swapped out.
+
+Geometry lives in `src/venue/layout.ts` and was measured off the photograph, not
+estimated: table centres come from peak detection on a "not grass" mask, and the
+symmetry axis is the midpoint four independent left/right pairs agreed on. Frame
+timings are in `src/venue/timeline.ts`, so the choreography can be retimed
+without touching the drawing code.
+
+`src/venue/Draw.tsx` does the pen effect. Children carry `pathLength={1}`, which
+expresses the dash pattern as a fraction of each stroke whatever its real
+length; `stroke-dasharray` and `stroke-dashoffset` inherit, so one group drives
+every shape inside it.
+
+To retarget it at another venue, replace `public/venue.png`, then open
+`CalibrationOverlay` in the studio and move the shapes in `layout.ts` until they
+sit on the new photograph.
 
 ## Adding a composition
 

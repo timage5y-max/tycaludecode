@@ -1,6 +1,9 @@
 import {Composition} from 'remotion';
 import {HelloWorld} from './HelloWorld';
 import {YoutubeIntro} from './YoutubeIntro';
+import {VenueReveal} from './venue/VenueReveal';
+import {CalibrationOverlay} from './venue/CalibrationOverlay';
+import {DURATION} from './venue/timeline';
 
 export const RemotionRoot: React.FC = () => {
   return (
@@ -21,6 +24,22 @@ export const RemotionRoot: React.FC = () => {
         id="YoutubeIntro"
         component={YoutubeIntro}
         durationInFrames={360}
+        fps={30}
+        width={1920}
+        height={1080}
+      />
+      <Composition
+        id="VenueReveal"
+        component={VenueReveal}
+        durationInFrames={DURATION}
+        fps={30}
+        width={1920}
+        height={1080}
+      />
+      <Composition
+        id="CalibrationOverlay"
+        component={CalibrationOverlay}
+        durationInFrames={DURATION}
         fps={30}
         width={1920}
         height={1080}
