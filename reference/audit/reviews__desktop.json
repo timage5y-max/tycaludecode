@@ -1,0 +1,2387 @@
+{
+ "url": "https://www.orichayun.com/reviews",
+ "title": "ביקורות על אורי חיון",
+ "htmlLang": "en",
+ "htmlDir": "(unset)",
+ "bodyDirection": "ltr",
+ "bodyBackground": "rgb(254, 250, 250)",
+ "bodyFontFamily": "\"Times New Roman\"",
+ "viewport": {
+  "width": 1440,
+  "height": 900
+ },
+ "scrollHeight": 20157,
+ "elementCount": 1762,
+ "visibleCount": 428,
+ "colors": {
+  "background": [
+   {
+    "value": "rgb(254, 250, 250)",
+    "count": 4
+   },
+   {
+    "value": "rgb(0, 0, 0)",
+    "count": 4
+   },
+   {
+    "value": "rgb(255, 255, 255)",
+    "count": 3
+   },
+   {
+    "value": "rgba(255, 255, 255, 0)",
+    "count": 3
+   },
+   {
+    "value": "rgb(244, 244, 244)",
+    "count": 1
+   },
+   {
+    "value": "rgb(247, 247, 247)",
+    "count": 1
+   },
+   {
+    "value": "rgba(174, 25, 180, 0)",
+    "count": 1
+   }
+  ],
+  "backgroundByArea": [
+   {
+    "value": "rgb(254, 250, 250)",
+    "px": 58371525
+   },
+   {
+    "value": "rgba(255, 255, 255, 0)",
+    "px": 28584000
+   },
+   {
+    "value": "rgb(0, 0, 0)",
+    "px": 28346294
+   },
+   {
+    "value": "rgb(255, 255, 255)",
+    "px": 808560
+   },
+   {
+    "value": "rgb(247, 247, 247)",
+    "px": 87450
+   },
+   {
+    "value": "rgb(244, 244, 244)",
+    "px": 48060
+   },
+   {
+    "value": "rgba(174, 25, 180, 0)",
+    "px": 12964
+   }
+  ],
+  "text": [
+   {
+    "value": "rgb(109, 89, 111)",
+    "count": 40
+   },
+   {
+    "value": "rgb(255, 255, 255)",
+    "count": 3
+   },
+   {
+    "value": "rgb(0, 0, 0)",
+    "count": 2
+   },
+   {
+    "value": "rgb(147, 90, 90)",
+    "count": 2
+   },
+   {
+    "value": "rgb(39, 39, 39)",
+    "count": 1
+   },
+   {
+    "value": "rgba(103, 24, 106, 0.74)",
+    "count": 1
+   },
+   {
+    "value": "rgb(87, 87, 87)",
+    "count": 1
+   },
+   {
+    "value": "rgb(158, 158, 158)",
+    "count": 1
+   }
+  ],
+  "border": [
+   {
+    "value": "rgba(0, 0, 0, 0) 1px solid",
+    "count": 18
+   },
+   {
+    "value": "rgba(0, 0, 0, 0) 2px solid",
+    "count": 18
+   }
+  ],
+  "gradient": [],
+  "boxShadow": [
+   {
+    "value": "rgba(0, 0, 0, 0.05) 0px 1px 2px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "fontFamilies": [
+  {
+   "value": "Amita, cursive",
+   "count": 44
+  },
+  {
+   "value": "\"Open Sans\", sans-serif",
+   "count": 2
+  },
+  {
+   "value": "Arial",
+   "count": 2
+  },
+  {
+   "value": "\"Times New Roman\"",
+   "count": 1
+  },
+  {
+   "value": "\"Frank Ruhl Libre\", serif",
+   "count": 1
+  },
+  {
+   "value": "Yantramanav, sans-serif",
+   "count": 1
+  }
+ ],
+ "fontSizes": [
+  {
+   "value": "14px",
+   "count": 24
+  },
+  {
+   "value": "17px",
+   "count": 12
+  },
+  {
+   "value": "22px",
+   "count": 9
+  },
+  {
+   "value": "13px",
+   "count": 2
+  },
+  {
+   "value": "30px",
+   "count": 2
+  },
+  {
+   "value": "16px",
+   "count": 1
+  },
+  {
+   "value": "15px",
+   "count": 1
+  }
+ ],
+ "fontWeights": [
+  {
+   "value": "400",
+   "count": 46
+  },
+  {
+   "value": "600",
+   "count": 4
+  },
+  {
+   "value": "700",
+   "count": 1
+  }
+ ],
+ "lineHeights": [
+  {
+   "value": "28.8px",
+   "count": 42
+  },
+  {
+   "value": "normal",
+   "count": 5
+  },
+  {
+   "value": "42px",
+   "count": 2
+  },
+  {
+   "value": "21px",
+   "count": 1
+  },
+  {
+   "value": "25.2px",
+   "count": 1
+  }
+ ],
+ "letterSpacings": [
+  {
+   "value": "normal",
+   "count": 51
+  }
+ ],
+ "textTransforms": [
+  {
+   "value": "none",
+   "count": 47
+  },
+  {
+   "value": "uppercase",
+   "count": 4
+  }
+ ],
+ "loadedWebFonts": [
+  "Amita normal 400",
+  "Frank Ruhl Libre normal 400",
+  "Yantramanav normal 400"
+ ],
+ "typography": [
+  {
+   "label": "h1",
+   "selector": "h1",
+   "variants": []
+  },
+  {
+   "label": "h2",
+   "selector": "h2",
+   "variants": []
+  },
+  {
+   "label": "h3",
+   "selector": "h3",
+   "variants": [
+    {
+     "fontFamily": "Amita, cursive",
+     "fontSize": "30px",
+     "fontWeight": "400",
+     "lineHeight": "42px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(109, 89, 111)",
+     "textAlign": "center",
+     "count": 2,
+     "samples": [
+      "Couples Reviews",
+      "Follow me on Instagram"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "h4-h6",
+   "selector": "h4,h5,h6",
+   "variants": []
+  },
+  {
+   "label": "paragraph",
+   "selector": "p",
+   "variants": [
+    {
+     "fontFamily": "\"Frank Ruhl Libre\", serif",
+     "fontSize": "14px",
+     "fontWeight": "400",
+     "lineHeight": "21px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(255, 255, 255)",
+     "textAlign": "start",
+     "count": 1,
+     "samples": [
+      "This website uses cookies to ensure you get the best experie"
+     ]
+    },
+    {
+     "fontFamily": "Yantramanav, sans-serif",
+     "fontSize": "15px",
+     "fontWeight": "400",
+     "lineHeight": "normal",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(158, 158, 158)",
+     "textAlign": "center",
+     "count": 1,
+     "samples": [
+      "© Ori Chayun Photography"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "nav",
+   "selector": "nav a, header a, .navbar a, #navigation a, .menu a, .main-nav a",
+   "variants": [
+    {
+     "fontFamily": "Amita, cursive",
+     "fontSize": "17px",
+     "fontWeight": "400",
+     "lineHeight": "28.8px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(109, 89, 111)",
+     "textAlign": "left",
+     "count": 12,
+     "samples": [
+      "Romantic",
+      "Fun"
+     ]
+    },
+    {
+     "fontFamily": "Amita, cursive",
+     "fontSize": "14px",
+     "fontWeight": "400",
+     "lineHeight": "28.8px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(109, 89, 111)",
+     "textAlign": "left",
+     "count": 12,
+     "samples": [
+      "Romantic",
+      "Fun"
+     ]
+    },
+    {
+     "fontFamily": "Amita, cursive",
+     "fontSize": "22px",
+     "fontWeight": "400",
+     "lineHeight": "28.8px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(109, 89, 111)",
+     "textAlign": "right",
+     "count": 8,
+     "samples": [
+      "Home",
+      "Style"
+     ]
+    },
+    {
+     "fontFamily": "Amita, cursive",
+     "fontSize": "14px",
+     "fontWeight": "400",
+     "lineHeight": "28.8px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(109, 89, 111)",
+     "textAlign": "start",
+     "count": 8,
+     "samples": [
+      "Home",
+      "Style"
+     ]
+    },
+    {
+     "fontFamily": "Amita, cursive",
+     "fontSize": "22px",
+     "fontWeight": "400",
+     "lineHeight": "28.8px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(147, 90, 90)",
+     "textAlign": "right",
+     "count": 1,
+     "samples": [
+      "Reviews"
+     ]
+    },
+    {
+     "fontFamily": "Amita, cursive",
+     "fontSize": "14px",
+     "fontWeight": "400",
+     "lineHeight": "28.8px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(147, 90, 90)",
+     "textAlign": "start",
+     "count": 1,
+     "samples": [
+      "Reviews"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "button",
+   "selector": "button, .btn, [class*=\"button\"], a[class*=\"btn\"], input[type=submit]",
+   "variants": [
+    {
+     "fontFamily": "Arial",
+     "fontSize": "13px",
+     "fontWeight": "600",
+     "lineHeight": "normal",
+     "letterSpacing": "normal",
+     "textTransform": "uppercase",
+     "fontStyle": "normal",
+     "color": "rgb(255, 255, 255)",
+     "textAlign": "center",
+     "count": 1,
+     "samples": [
+      "VIEW CART ( 0 )"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "form-field",
+   "selector": "input, textarea, select, label",
+   "variants": []
+  },
+  {
+   "label": "inline",
+   "selector": "div, span, li",
+   "variants": [
+    {
+     "fontFamily": "Amita, cursive",
+     "fontSize": "16px",
+     "fontWeight": "400",
+     "lineHeight": "28.8px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(0, 0, 0)",
+     "textAlign": "left",
+     "count": 26,
+     "samples": [
+      "Romantic Fun Fashion Brides Beauty Truth Design Art Dance Fl",
+      "Romantic"
+     ]
+    },
+    {
+     "fontFamily": "\"Times New Roman\"",
+     "fontSize": "16px",
+     "fontWeight": "400",
+     "lineHeight": "normal",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(0, 0, 0)",
+     "textAlign": "start",
+     "count": 17,
+     "samples": [
+      "Home Style Romantic Fun Fashion Brides Beauty Truth Design A",
+      "Home Style Romantic Fun Fashion Brides Beauty Truth Design A"
+     ]
+    },
+    {
+     "fontFamily": "\"Times New Roman\"",
+     "fontSize": "16px",
+     "fontWeight": "400",
+     "lineHeight": "normal",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(0, 0, 0)",
+     "textAlign": "center",
+     "count": 10,
+     "samples": [
+      "Couples Reviews",
+      "Couples Reviews"
+     ]
+    },
+    {
+     "fontFamily": "Amita, cursive",
+     "fontSize": "16px",
+     "fontWeight": "400",
+     "lineHeight": "28.8px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(0, 0, 0)",
+     "textAlign": "right",
+     "count": 9,
+     "samples": [
+      "Home",
+      "Style Romantic Fun Fashion Brides Beauty Truth Design Art Da"
+     ]
+    },
+    {
+     "fontFamily": "Amita, cursive",
+     "fontSize": "16px",
+     "fontWeight": "400",
+     "lineHeight": "28.8px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(0, 0, 0)",
+     "textAlign": "start",
+     "count": 9,
+     "samples": [
+      "Home",
+      "Style Romantic Fun Fashion Brides Beauty Truth Design Art Da"
+     ]
+    },
+    {
+     "fontFamily": "\"Times New Roman\"",
+     "fontSize": "16px",
+     "fontWeight": "400",
+     "lineHeight": "32px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(0, 0, 0)",
+     "textAlign": "center",
+     "count": 9,
+     "samples": [
+      "Follow me on Instagram",
+      "Follow me on Instagram"
+     ]
+    }
+   ]
+  }
+ ],
+ "grids": [],
+ "imageGrid": {
+  "tileCount": 69,
+  "columns": 3,
+  "columnX": [
+   20,
+   492,
+   968
+  ],
+  "columnWidth": 453,
+  "horizontalGap": 23,
+  "verticalGap": 20,
+  "masonry": true,
+  "distinctHeights": 4,
+  "orientationMix": {
+   "landscape": 1,
+   "square-ish": 1,
+   "portrait": 67
+  },
+  "topAspectRatios": [
+   {
+    "value": 0.56,
+    "count": 66
+   },
+   {
+    "value": 1.56,
+    "count": 1
+   },
+   {
+    "value": 1.01,
+    "count": 1
+   },
+   {
+    "value": 0.57,
+    "count": 1
+   }
+  ],
+  "objectFit": [
+   "contain",
+   "fill",
+   "cover"
+  ],
+  "firstRowY": 18
+ },
+ "spacing": [
+  {
+   "value": "20px",
+   "count": 77
+  },
+  {
+   "value": "15px",
+   "count": 48
+  },
+  {
+   "value": "10px",
+   "count": 31
+  },
+  {
+   "value": "43px",
+   "count": 20
+  },
+  {
+   "value": "5px",
+   "count": 11
+  },
+  {
+   "value": "26px",
+   "count": 9
+  },
+  {
+   "value": "11px",
+   "count": 8
+  },
+  {
+   "value": "7px",
+   "count": 8
+  },
+  {
+   "value": "17px",
+   "count": 4
+  },
+  {
+   "value": "50px",
+   "count": 4
+  },
+  {
+   "value": "32px",
+   "count": 4
+  },
+  {
+   "value": "30px",
+   "count": 3
+  },
+  {
+   "value": "22px",
+   "count": 3
+  },
+  {
+   "value": "12px",
+   "count": 2
+  },
+  {
+   "value": "135px",
+   "count": 2
+  },
+  {
+   "value": "18px",
+   "count": 2
+  },
+  {
+   "value": "19px",
+   "count": 2
+  },
+  {
+   "value": "54px",
+   "count": 2
+  },
+  {
+   "value": "77px",
+   "count": 2
+  },
+  {
+   "value": "36px",
+   "count": 2
+  },
+  {
+   "value": "16px",
+   "count": 2
+  },
+  {
+   "value": "28px",
+   "count": 1
+  },
+  {
+   "value": "14px",
+   "count": 1
+  },
+  {
+   "value": "29px",
+   "count": 1
+  },
+  {
+   "value": "27px",
+   "count": 1
+  }
+ ],
+ "borderRadius": [
+  {
+   "value": "5px",
+   "count": 67
+  },
+  {
+   "value": "50%",
+   "count": 2
+  },
+  {
+   "value": "3px",
+   "count": 1
+  }
+ ],
+ "motion": {
+  "transitions": [
+   {
+    "value": "all 0.25s ease-in-out 0s",
+    "count": 120
+   },
+   {
+    "value": "all 0.15s ease-in-out 0s",
+    "count": 24
+   },
+   {
+    "value": "transform 0.3s ease-in-out 0s",
+    "count": 7
+   },
+   {
+    "value": "all 0.3s ease 0s",
+    "count": 6
+   },
+   {
+    "value": "all 0.5s ease-in-out 0s",
+    "count": 2
+   },
+   {
+    "value": "all 0.8s ease 0s",
+    "count": 2
+   },
+   {
+    "value": "transform 0.5s ease 0s",
+    "count": 2
+   },
+   {
+    "value": "all 0.5s ease 0s",
+    "count": 2
+   },
+   {
+    "value": "opacity 0.25s ease 0s",
+    "count": 1
+   }
+  ],
+  "animations": [],
+  "transforms": [
+   {
+    "value": "matrix(1, 0, 0, 1, 0, 0)",
+    "count": 2
+   },
+   {
+    "value": "matrix(1.05, 0, 0, 1.05, 0, 19.1038)",
+    "count": 1
+   }
+  ],
+  "keyframes": []
+ },
+ "mediaQueries": [
+  {
+   "value": "screen and (min-width: 1199px)",
+   "count": 1
+  },
+  {
+   "value": "screen and (min-width: 425px)",
+   "count": 1
+  },
+  {
+   "value": "screen and (max-width: 425px)",
+   "count": 1
+  }
+ ],
+ "blockedSheets": [
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/animation.css?id=5ca4bedc80057b11b07e93f8aa3306f5",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/js/swipper/swiper-bundle.min.css",
+  "https://px-themeassets.pixpa.com/assets/dynamic-bundle-css/42531/1949476.css?token=busPW1idLSMm6XNDA5urchxd&id=1784299245",
+  "https://fonts.googleapis.com/css?family=Frank%20Ruhl%20Libre:400|Yantramanav:400|Frank%20Ruhl%20Libre:300|Amita:400|Alice:300&display=swap",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/old_custom_page_assets.css?id=7ae28fb7f2c6653e741802e77e8567c6",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/themesv2.css?id=33c9fce290d274635a97489a7b272fcc",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/mixcss.css?id=e484bbc11785a6a1bfdf6e981832691e",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/common.css?id=42aec0ff4a852f5f57e752a3fa72865c",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/extended-footer.css?id=daf30ebe910ae34d728713faffafc59a",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/vendor/pixpalg_all_v2.css?id=5468c8f2f955e279c00000781b769d80",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/custom-page-v2/assets/minimalist-blocks/variable.css",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/builder_lists.css?id=c47792f8d9aa788766e8e4b474248c40",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/photo-gallery.css?id=deed9831f88bad3688bc378de65ccab6",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/light-gallery-custom.css?id=e53da6b0a64350ddd1b0ade03861d79e",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/slideshow.css?id=7696b732c136e87744696990caea2c81",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/custom-page.css?id=b6d83829e3e9231143bb54d20debf841",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/instagram.css?id=abc7a299d05b2a520d825fa45f089e6b",
+  "https://px-themeassets.pixpa.com/user-css-create/999999/42531.css?id=1768311689&global_version=1783976410",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/vendor/before_after_slider.css?id=fa71975480af4abc6da8f58f692c7320",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/button-custom-colors.css?id=b38861599ea7d50220c346343cf5d239"
+ ],
+ "containerMaxWidths": [
+  {
+   "value": "450px",
+   "count": 1
+  },
+  {
+   "value": "1200px",
+   "count": 1
+  }
+ ],
+ "direction": {
+  "rtlSamples": [],
+  "ltrSamples": [
+   {
+    "tag": "body",
+    "text": "//pinterest script",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "start",
+    "unicodeBidi": "normal",
+    "fontFamily": "\"Times New Roman\"",
+    "fontSize": "16px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "p",
+    "text": "This website uses cookies to ensure you get the be",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "start",
+    "unicodeBidi": "isolate",
+    "fontFamily": "\"Frank Ruhl Libre\", serif",
+    "fontSize": "14px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "div",
+    "text": "BUY THIS IMAGE",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "start",
+    "unicodeBidi": "isolate",
+    "fontFamily": "\"Open Sans\", sans-serif",
+    "fontSize": "14px",
+    "fontWeight": "600"
+   },
+   {
+    "tag": "button",
+    "text": "view cart ()",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "center",
+    "unicodeBidi": "normal",
+    "fontFamily": "Arial",
+    "fontSize": "13px",
+    "fontWeight": "600"
+   },
+   {
+    "tag": "span",
+    "text": "0",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "center",
+    "unicodeBidi": "normal",
+    "fontFamily": "Arial",
+    "fontSize": "13px",
+    "fontWeight": "600"
+   },
+   {
+    "tag": "div",
+    "text": "Product Info",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "start",
+    "unicodeBidi": "isolate",
+    "fontFamily": "\"Open Sans\", sans-serif",
+    "fontSize": "14px",
+    "fontWeight": "600"
+   },
+   {
+    "tag": "a",
+    "text": "Home",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "right",
+    "unicodeBidi": "normal",
+    "fontFamily": "Amita, cursive",
+    "fontSize": "22px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "a",
+    "text": "Style",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "right",
+    "unicodeBidi": "normal",
+    "fontFamily": "Amita, cursive",
+    "fontSize": "22px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "a",
+    "text": "Romantic",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "left",
+    "unicodeBidi": "normal",
+    "fontFamily": "Amita, cursive",
+    "fontSize": "17px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "a",
+    "text": "Fun",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "left",
+    "unicodeBidi": "normal",
+    "fontFamily": "Amita, cursive",
+    "fontSize": "17px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "a",
+    "text": "Fashion",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "left",
+    "unicodeBidi": "normal",
+    "fontFamily": "Amita, cursive",
+    "fontSize": "17px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "a",
+    "text": "Brides",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "left",
+    "unicodeBidi": "normal",
+    "fontFamily": "Amita, cursive",
+    "fontSize": "17px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "a",
+    "text": "Beauty",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "left",
+    "unicodeBidi": "normal",
+    "fontFamily": "Amita, cursive",
+    "fontSize": "17px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "a",
+    "text": "Truth",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "left",
+    "unicodeBidi": "normal",
+    "fontFamily": "Amita, cursive",
+    "fontSize": "17px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "a",
+    "text": "Design",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "left",
+    "unicodeBidi": "normal",
+    "fontFamily": "Amita, cursive",
+    "fontSize": "17px",
+    "fontWeight": "400"
+   }
+  ],
+  "dirAttributes": [],
+  "hasRtlText": false
+ },
+ "images": [
+  {
+   "w": 250,
+   "h": 160,
+   "ratio": 1.56,
+   "objectFit": "contain",
+   "loading": "auto",
+   "natural": "0x0",
+   "alt": "",
+   "src": "https://www.orichayun.com/reviews"
+  },
+  {
+   "w": 106,
+   "h": 105,
+   "ratio": 1.01,
+   "objectFit": "fill",
+   "loading": "auto",
+   "natural": "661x654",
+   "alt": "Ori Chayun Wedding Photography",
+   "src": "https://px-web-images-v2.pixpa.com/x3uJc90wO9b4okOPdkOlpAavsd0Jivl0lfYuyJ0cqSY/rs:fit:1000:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "566x1007",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/NOA7JVs0mTJcXnwfDGSeClICyHwVvw9i_CjK8EGoYZo/rs:fit:800:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "566x1007",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/mkZlzgOITkCoY0Zj2v7JY3FTn5atJFllidRHqh92VM4/rs:fit:800:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "566x1007",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/MLb3STpGkVOjt0daE6M-7B6r6DAhcFwOns2G1Z4bv4g/rs:fit:800:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "566x1007",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/giWAtw8vMvIp6XkfvT5oIfncqxyeivwaW3P6wYY9meo/rs:fit:800:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "566x1007",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/aYh5vFJfP-1r3cv-vfv2JZcTMPq_2eOm2E7YYaZYyNk/rs:fit:800:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "566x1007",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/piACmreoe_--kTqcGdREG9lt8O9PXn2dPifbZombKDU/rs:fit:800:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "566x1007",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/WCO9vTDA2R4SERhnkEeGCalhtEX-oZs0r8K8ivclxvM/rs:fit:800:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "566x1007",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/5dFvaJsPTeJL-JOPaKJkuhPVXvM4ZaQkxZEljQBOZ7A/rs:fit:800:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "566x1007",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/jk0P0Zz2kL37k75U1nYmATpWJvupYxoPrDa5WfzOrlM/rs:fit:800:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "566x1007",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/dCTlsocHBN6c2ffNI4poCdYWapF9DpxuZYuIMQR2kEY/rs:fit:800:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "566x1007",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/M06upWCYXBiia9rZN3i-TINpRzZadVjE3WwGIPQo5Gk/rs:fit:800:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "566x1007",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/EaLQccpyivcmp7RV9X6YqqkODXnJvgG_GDQCuLNKWCg/rs:fit:800:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "566x1007",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/kKfgfcWW0Wg8hbreUuMnFx--7Ukg7ZqTkqREA3tL47s/rs:fit:800:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "566x1007",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/85T0lsogyiGMNyv3oJLM09Eq0oLF0NZj9KGqR9_MAv4/rs:fit:800:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "566x1007",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/Ob1wEwTjZsa5thd85ae0u_3-mh2V534CddcqF9e7pgQ/rs:fit:800:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "566x1007",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/Cz6WjqnwkhDX9OPo1b2fhsYHuEk1gcG3ZGvHPdqT2UY/rs:fit:800:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "566x1007",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/XxgcWjY7hTjNTnOiy_IY8CAtKXbyFugstZy7KP-PecE/rs:fit:800:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "566x1007",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/SPqi6A2-Ku3aC-ACJwLv2T1IonxMvjU14mEJm7s9Z4M/rs:fit:800:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "530x944",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/QxHw4nnKuIk-0RqerwvrF9jxKn32LSDHVn6WzELWNP0/rs:fit:800:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "566x1007",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/28JvhGJggi8CNDjuqEuSDLppmxqn3HX-Q5qPqDeQD1g/rs:fit:800:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "566x1007",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/KZiHEQJnCcWhSDD9nWUJdhELWqUKa6LV2ik12DHxzpQ/rs:fit:800:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "566x1007",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/lmP0_lYrNY30cnvQBmV9xcr7Dxkjf-SQ1YHkeRtYptg/rs:fit:800:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "530x944",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/v1bXQZAzaHaDbn8u5ATXQKsBBKmygusSYoQD6ZUfd7A/rs:fit:800:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 801,
+   "ratio": 0.57,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "530x938",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/KZQ4s8SeoVvJFHjRzZp3WVsfRpy5CTnQSfcQgLjeuG0/rs:fit:800:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "453x805",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/5CYK9JHDfs5XIo_K8nIGwWmPMi4iXiDbqIrhAxGMR4w/rs:fit:500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "453x805",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/LFKB1iWHC9SeBXXnFIJFK3g6IVc0Wp6g9pJDiSTCH9c/rs:fit:500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "453x805",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/Qtd49Ff-V0g4Tn4FpuEcq2CD7OohA3wI_DWlkwhFb7Q/rs:fit:500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "453x805",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/J-vqtccMyefBAyiXi-KvauzUFbXQ3OamF84VHbPJj40/rs:fit:500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "453x805",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/IGiLO5LfTbO4mLgU5YhnQGS0Ebd5DutgmCSZfYq25AI/rs:fit:500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "453x805",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/--Zbl3zwTdqb5MGP6UkfaLq50g-US03MwsglhWmrRDk/rs:fit:500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "453x805",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/4jJZ2xzq5fcfc9oa3j17QvOof97JztU_vjtwMT4qVx8/rs:fit:500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "453x805",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/avi_0W6VPVkBxiWzUOwAFTyue2odTmkFG4h6ZMd36LQ/rs:fit:500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "453x805",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/tFcT1ddk1Xt-v1o_RYNl4EUUA2dBgrVR7oeQQ9LrAec/rs:fit:500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "453x805",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/OkWDrCwQeMTbO1-MMTyndWqKcMnDnpmz56Jf5yuLzmc/rs:fit:500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "453x805",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/gVVIouP0QJsNWf3XcxF2BuDkN2BQrekZFO7VMN9NSMo/rs:fit:500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "453x805",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/b8T5nM75ACFdmDfg6F8CcIlg-hAAPrBVr388zXKi_c8/rs:fit:500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "453x805",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/FZiVDk5IfjbxQ41qBAhqOf4PSB3jn7EhHiMo2htWH0M/rs:fit:500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "453x805",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/a_CtBrJSzcs6K4uImJzpUy40foVX-fxUiX-nE_nFPkQ/rs:fit:500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "453x805",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/P7lC3k8ngpUI2g6xl3ZOZO3Ceh3fnvY60R839jE1hnc/rs:fit:500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "453x805",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/GZhZ6wNgg1hHNyDdeW3C4W5B35PjNYfGq7IvF75Z_p4/rs:fit:500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "453x805",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/98qxqpGOOhcojgkc54nbu2jBcZw2cmCmXv0Rfrnll1M/rs:fit:500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "453x805",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/1eP5lFT_d2n8xqTiwnCqTe9sm56UQ4oYLPY5qHZ3H0E/rs:fit:500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "453x805",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/PDPUuY_bFLe0q1OjQ895exjsem_l3HO_xcFyjwCJ2cs/rs:fit:500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "453x805",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/JN0r7jnE1xidrwqov1st_KRsgWbTWwSl4SJhQHT2cE4/rs:fit:500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "453x805",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/9b_kVGbCuwh-Mm_ySWxzo3YKr2PwHYQkfx_C15l5Qzo/rs:fit:500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "453x805",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/8cEhHtZ9t4ZY3wFpMLR0VRraGeQyszOjeEigNbDvdnY/rs:fit:500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "453x805",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/q0GHCv4_GEtkR4qlDADtKISqhhUhJ0OLyzX3l5grFDM/rs:fit:500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "453x805",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/4bUwdz3Sg9kK01zNqk7YBqK-5Cxe1NtNX_REaCJY40I/rs:fit:500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "453x805",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/T4RQ-2k2NZBf8usMXihg9nU08if60jVkKE8MB08cFDc/rs:fit:500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "453x805",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/ysy0EA3bx02vJjGl4VR1M1fmTgTgiMOkbr4ylobWJ-s/rs:fit:500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "453x805",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/Cg1bLjhcxTK-k0NSGIPDHm8OVDocjZTQqPQkvdpkvT8/rs:fit:500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "453x805",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/xdD5luJuD6fDCsaEhh9O42baxXFmHVoMFVCN_pqJ9HU/rs:fit:500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "453x805",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/BYmxfR40FdXzAk_qEmbnDyafN4Z0ldzeE4Ap7tyYRkQ/rs:fit:500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "453x805",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/mnvnR9_FoK5z_hUeCdXjjRZjVqyw0RB1iwAcf8dYXcI/rs:fit:500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "453x805",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/48MsSb8ob-sJY-IFv9tN5krE-4sN6iJXBZHegjIjW18/rs:fit:500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "453x805",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/5vNuXC8EhU-knr8BVEHfJIKYRYP2B4Evu3qO7xyCxIo/rs:fit:500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "453x805",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/fwm_rGsOA8GUnW3QmyRC9Wq5OROFJ5VNT7ajCvnaOjU/rs:fit:500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 453,
+   "h": 806,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "453x805",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/h7SQuRQYU39FNJ-PesRJ78uNKmRI11TfaRyJpLhH_7E/rs:fit:500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  }
+ ],
+ "imageCount": 112,
+ "outline": [
+  {
+   "tag": "header",
+   "id": "header",
+   "class": "inside_header-0 4    full-header js-full-header header header-scale u42531-header-bg-color",
+   "height": 141,
+   "top": 0,
+   "background": "rgb(254, 250, 250)",
+   "paddingTop": "0px",
+   "paddingBottom": "0px",
+   "imgCount": 2,
+   "text": "Home Style Romantic Fun Fashion Brides Beauty Truth Design Art Dance Floor Lake Como Wedding Judean Desert Elopement Jaffa Hotel by Ori Chay"
+  },
+  {
+   "tag": "header",
+   "id": "header",
+   "class": "inside_header-0 full-header js-full-header header header-scale u42531-header-bg-color head",
+   "height": 81,
+   "top": -241,
+   "background": "rgb(254, 250, 250)",
+   "paddingTop": "0px",
+   "paddingBottom": "0px",
+   "imgCount": 0,
+   "text": "Home Style Romantic Fun Fashion Brides Beauty Truth Design Art Dance Floor Lake Como Wedding Judean Desert Elopement Jaffa Hotel by Ori Chay"
+  },
+  {
+   "tag": "nav",
+   "id": "",
+   "class": "header-nav-list",
+   "height": 66,
+   "top": -233,
+   "background": "rgba(0, 0, 0, 0)",
+   "paddingTop": "0px",
+   "paddingBottom": "0px",
+   "imgCount": 0,
+   "text": "Home Style Romantic Fun Fashion Brides Beauty Truth Design Art Dance Floor Lake Como Wedding Judean Desert Elopement Jaffa Hotel by Ori Chay"
+  },
+  {
+   "tag": "div",
+   "id": "",
+   "class": "is-section is-section-basic is-section-everywhere is-section-fit2width-container is-align-",
+   "height": 540,
+   "top": 141,
+   "background": "rgba(255, 255, 255, 0)",
+   "paddingTop": "0px",
+   "paddingBottom": "0px",
+   "imgCount": 0,
+   "text": "Couples Reviews"
+  },
+  {
+   "tag": "div",
+   "id": "",
+   "class": "is-section is-section-galleries is-section-everywhere is-section-fit2width-container is-al",
+   "height": 19013,
+   "top": 681,
+   "background": "rgba(255, 255, 255, 0)",
+   "paddingTop": "0px",
+   "paddingBottom": "0px",
+   "imgCount": 111,
+   "text": ""
+  },
+  {
+   "tag": "div",
+   "id": "",
+   "class": "is-section is-section-social is-section-everywhere is-section-fit2width-container is-align",
+   "height": 297,
+   "top": 19694,
+   "background": "rgba(255, 255, 255, 0)",
+   "paddingTop": "0px",
+   "paddingBottom": "0px",
+   "imgCount": 0,
+   "text": "Follow me on Instagram"
+  }
+ ],
+ "headings": [
+  {
+   "level": "H3",
+   "text": "Couples Reviews"
+  },
+  {
+   "level": "H3",
+   "text": "Follow me on Instagram"
+  }
+ ],
+ "links": [
+  {
+   "text": "",
+   "href": "https://www.orichayun.com/getjsassets"
+  },
+  {
+   "text": "Continue Shopping",
+   "href": "/store"
+  },
+  {
+   "text": "",
+   "href": "/"
+  },
+  {
+   "text": "Home",
+   "href": "/home"
+  },
+  {
+   "text": "Romantic",
+   "href": "/"
+  },
+  {
+   "text": "Fun",
+   "href": "/galleries/fun"
+  },
+  {
+   "text": "Fashion",
+   "href": "/galleries/fashion"
+  },
+  {
+   "text": "Brides",
+   "href": "/galleries/brides"
+  },
+  {
+   "text": "Beauty",
+   "href": "/galleries/beauty"
+  },
+  {
+   "text": "Truth",
+   "href": "/galleries/truth"
+  },
+  {
+   "text": "Design",
+   "href": "/galleries/style"
+  },
+  {
+   "text": "Art",
+   "href": "/galleries/art"
+  },
+  {
+   "text": "Dance Floor",
+   "href": "/galleries/dancefloor"
+  },
+  {
+   "text": "Lake Como Wedding",
+   "href": "/galleries/lake-como-wedding"
+  },
+  {
+   "text": "Judean Desert Elopement",
+   "href": "/galleries/judean-desert-elopement"
+  },
+  {
+   "text": "Jaffa Hotel by Ori Chayun",
+   "href": "/galleries/jaffa"
+  },
+  {
+   "text": "Wedding Gallery",
+   "href": "/gallery"
+  },
+  {
+   "text": "Vogue",
+   "href": "/vogue"
+  },
+  {
+   "text": "B&W",
+   "href": "/bw"
+  },
+  {
+   "text": "Pregnancy",
+   "href": "/pregnancy"
+  },
+  {
+   "text": "Instagram",
+   "href": "/instagram"
+  },
+  {
+   "text": "Reviews",
+   "href": "/reviews"
+  },
+  {
+   "text": "Contact",
+   "href": "/contact"
+  },
+  {
+   "text": "",
+   "href": "https://wa.me/972548169111"
+  },
+  {
+   "text": "",
+   "href": "https://www.facebook.com/orichayunwedding"
+  },
+  {
+   "text": "",
+   "href": "https://www.instagram.com/orichayun"
+  },
+  {
+   "text": "",
+   "href": "/"
+  },
+  {
+   "text": "Home",
+   "href": "/home"
+  },
+  {
+   "text": "Romantic",
+   "href": "/"
+  },
+  {
+   "text": "Fun",
+   "href": "/galleries/fun"
+  },
+  {
+   "text": "Fashion",
+   "href": "/galleries/fashion"
+  },
+  {
+   "text": "Brides",
+   "href": "/galleries/brides"
+  },
+  {
+   "text": "Beauty",
+   "href": "/galleries/beauty"
+  },
+  {
+   "text": "Truth",
+   "href": "/galleries/truth"
+  },
+  {
+   "text": "Design",
+   "href": "/galleries/style"
+  },
+  {
+   "text": "Art",
+   "href": "/galleries/art"
+  },
+  {
+   "text": "Dance Floor",
+   "href": "/galleries/dancefloor"
+  },
+  {
+   "text": "Lake Como Wedding",
+   "href": "/galleries/lake-como-wedding"
+  },
+  {
+   "text": "Judean Desert Elopement",
+   "href": "/galleries/judean-desert-elopement"
+  },
+  {
+   "text": "Jaffa Hotel by Ori Chayun",
+   "href": "/galleries/jaffa"
+  },
+  {
+   "text": "Wedding Gallery",
+   "href": "/gallery"
+  },
+  {
+   "text": "Vogue",
+   "href": "/vogue"
+  },
+  {
+   "text": "B&W",
+   "href": "/bw"
+  },
+  {
+   "text": "Pregnancy",
+   "href": "/pregnancy"
+  },
+  {
+   "text": "Instagram",
+   "href": "/instagram"
+  },
+  {
+   "text": "Reviews",
+   "href": "/reviews"
+  },
+  {
+   "text": "Contact",
+   "href": "/contact"
+  },
+  {
+   "text": "",
+   "href": "https://wa.me/972548169111"
+  },
+  {
+   "text": "",
+   "href": "https://www.facebook.com/orichayunwedding"
+  },
+  {
+   "text": "",
+   "href": "https://www.instagram.com/orichayun"
+  },
+  {
+   "text": "Home",
+   "href": "/home"
+  },
+  {
+   "text": "Romantic",
+   "href": "/"
+  },
+  {
+   "text": "Fun",
+   "href": "/galleries/fun"
+  },
+  {
+   "text": "Fashion",
+   "href": "/galleries/fashion"
+  },
+  {
+   "text": "Brides",
+   "href": "/galleries/brides"
+  },
+  {
+   "text": "Beauty",
+   "href": "/galleries/beauty"
+  },
+  {
+   "text": "Truth",
+   "href": "/galleries/truth"
+  },
+  {
+   "text": "Design",
+   "href": "/galleries/style"
+  },
+  {
+   "text": "Art",
+   "href": "/galleries/art"
+  },
+  {
+   "text": "Dance Floor",
+   "href": "/galleries/dancefloor"
+  },
+  {
+   "text": "Lake Como Wedding",
+   "href": "/galleries/lake-como-wedding"
+  },
+  {
+   "text": "Judean Desert Elopement",
+   "href": "/galleries/judean-desert-elopement"
+  },
+  {
+   "text": "Jaffa Hotel by Ori Chayun",
+   "href": "/galleries/jaffa"
+  },
+  {
+   "text": "Wedding Gallery",
+   "href": "/gallery"
+  },
+  {
+   "text": "Vogue",
+   "href": "/vogue"
+  },
+  {
+   "text": "B&W",
+   "href": "/bw"
+  },
+  {
+   "text": "Pregnancy",
+   "href": "/pregnancy"
+  },
+  {
+   "text": "Instagram",
+   "href": "/instagram"
+  },
+  {
+   "text": "Reviews",
+   "href": "/reviews"
+  },
+  {
+   "text": "Contact",
+   "href": "/contact"
+  },
+  {
+   "text": "",
+   "href": "https://wa.me/972548169111"
+  },
+  {
+   "text": "",
+   "href": "https://www.facebook.com/orichayunwedding"
+  },
+  {
+   "text": "",
+   "href": "https://www.instagram.com/orichayun"
+  },
+  {
+   "text": "",
+   "href": "https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.orichayun.com%2Freviews"
+  },
+  {
+   "text": "",
+   "href": "https://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.orichayun.com%2Freviews"
+  },
+  {
+   "text": "",
+   "href": "https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.orichayun.com%2Freviews"
+  },
+  {
+   "text": "",
+   "href": "https://www.tumblr.com/widgets/share/tool?posttype=link&canonicalUrl=http%3A%2F%2Fwww.orichayun.com%2Freviews"
+  },
+  {
+   "text": "",
+   "href": "https://api.whatsapp.com/send?phone=&text=http%3A%2F%2Fwww.orichayun.com%2Freviews"
+  },
+  {
+   "text": "",
+   "href": "mailto:?body=http%3A%2F%2Fwww.orichayun.com%2Freviews"
+  },
+  {
+   "text": "",
+   "href": "https://wa.me/972548169111?&text=Hi+there%21+This+is+an+inquiry+from+the+WhatsApp+Chat+on+your+website."
+  }
+ ],
+ "cssBreakpoints": {
+  "sheets": 23,
+  "conditions": [
+   {
+    "value": "screen and (max-width:767px)",
+    "count": 406
+   },
+   {
+    "value": "screen and (max-width:1024px)",
+    "count": 153
+   },
+   {
+    "value": "screen and (max-width:768px)",
+    "count": 120
+   },
+   {
+    "value": "screen and (min-width:768px)",
+    "count": 29
+   },
+   {
+    "value": "screen and (max-width:640px)",
+    "count": 24
+   },
+   {
+    "value": "screen and (min-width:1025px)",
+    "count": 16
+   },
+   {
+    "value": "screen and (max-width:425px)",
+    "count": 16
+   },
+   {
+    "value": "screen and (max-width:980px)",
+    "count": 15
+   },
+   {
+    "value": "screen and (min-width:767px)",
+    "count": 12
+   },
+   {
+    "value": "screen and (min-width:1024px)",
+    "count": 11
+   },
+   {
+    "value": "screen and (min-width:768px) and (max-width:767px)",
+    "count": 9
+   },
+   {
+    "value": "screen and (min-width:768px) and (max-width:1024px)",
+    "count": 8
+   },
+   {
+    "value": "screen and (max-width:1199px)",
+    "count": 7
+   },
+   {
+    "value": "screen and (min-width:769px)",
+    "count": 7
+   },
+   {
+    "value": "all and (max-width:1024px)",
+    "count": 6
+   },
+   {
+    "value": "screen and (min-width:1024px) and (max-width:1366px)",
+    "count": 6
+   },
+   {
+    "value": "screen and (max-width:680px)",
+    "count": 6
+   },
+   {
+    "value": "all and (max-width:540px)",
+    "count": 5
+   },
+   {
+    "value": "all and (max-width:960px)",
+    "count": 5
+   },
+   {
+    "value": "screen and (max-width:400px)",
+    "count": 5
+   },
+   {
+    "value": "screen and (max-width:960px)",
+    "count": 5
+   },
+   {
+    "value": "(min-width:768px)",
+    "count": 4
+   },
+   {
+    "value": "screen and (max-width:1024px) and (orientation:landscape)",
+    "count": 4
+   },
+   {
+    "value": "screen and (max-width:1023px)",
+    "count": 4
+   },
+   {
+    "value": "screen and (max-width:500px)",
+    "count": 4
+   },
+   {
+    "value": "all and (max-width:767px)",
+    "count": 3
+   },
+   {
+    "value": "screen and (max-width:990px)",
+    "count": 3
+   },
+   {
+    "value": "screen and (min-width:1199px)",
+    "count": 3
+   },
+   {
+    "value": "only screen and (max-width:1024px)",
+    "count": 3
+   },
+   {
+    "value": "only screen and (max-width:1024px) and (orientation:landscape)",
+    "count": 3
+   },
+   {
+    "value": "screen and (max-width:480px)",
+    "count": 3
+   },
+   {
+    "value": "screen and (min-width:1900px)",
+    "count": 3
+   },
+   {
+    "value": "",
+    "count": 3
+   },
+   {
+    "value": "all and (min-width:1280px)",
+    "count": 2
+   },
+   {
+    "value": "screen and (max-width:768px) and (max-width:1024px)",
+    "count": 2
+   },
+   {
+    "value": "screen and (max-width:1199px) and (max-width:1024px)",
+    "count": 2
+   },
+   {
+    "value": "screen and (max-width:769px)",
+    "count": 2
+   },
+   {
+    "value": "screen and (max-width:1440px)",
+    "count": 2
+   },
+   {
+    "value": "screen and (max-width:767px) and (orientation:landscape)",
+    "count": 2
+   },
+   {
+    "value": "screen and (max-width:320px)",
+    "count": 2
+   },
+   {
+    "value": "screen and (max-width:1280px)",
+    "count": 2
+   },
+   {
+    "value": "(max-width:640px)",
+    "count": 1
+   },
+   {
+    "value": "all and (max-width:480px)",
+    "count": 1
+   },
+   {
+    "value": "all and (max-width:768px)",
+    "count": 1
+   },
+   {
+    "value": "all and (max-width:1280px)",
+    "count": 1
+   },
+   {
+    "value": "all and (max-width:1025px)",
+    "count": 1
+   },
+   {
+    "value": "all and (max-width:1200px)",
+    "count": 1
+   },
+   {
+    "value": "all and (max-width:1024px) and (min-width:768px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:425px),screen and (min-width:425px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (min-width:768px) and (max-width:1199px)",
+    "count": 1
+   },
+   {
+    "value": "print",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:300px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:991px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width: 1024px)",
+    "count": 1
+   },
+   {
+    "value": "(max-width:767px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:767px) and (max-width:767px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:679px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (min-width:680px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (-webkit-min-device-pixel-ratio:0)",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:1200px)",
+    "count": 1
+   }
+  ],
+  "widths": [
+   {
+    "value": "max-width: 767px",
+    "count": 423
+   },
+   {
+    "value": "max-width: 1024px",
+    "count": 183
+   },
+   {
+    "value": "max-width: 768px",
+    "count": 124
+   },
+   {
+    "value": "min-width: 768px",
+    "count": 53
+   },
+   {
+    "value": "max-width: 640px",
+    "count": 26
+   },
+   {
+    "value": "min-width: 1024px",
+    "count": 17
+   },
+   {
+    "value": "min-width: 1025px",
+    "count": 17
+   },
+   {
+    "value": "max-width: 425px",
+    "count": 17
+   },
+   {
+    "value": "max-width: 980px",
+    "count": 15
+   },
+   {
+    "value": "min-width: 767px",
+    "count": 12
+   },
+   {
+    "value": "max-width: 960px",
+    "count": 10
+   },
+   {
+    "value": "max-width: 1199px",
+    "count": 10
+   },
+   {
+    "value": "min-width: 769px",
+    "count": 7
+   },
+   {
+    "value": "max-width: 1366px",
+    "count": 6
+   },
+   {
+    "value": "max-width: 680px",
+    "count": 6
+   },
+   {
+    "value": "max-width: 540px",
+    "count": 5
+   },
+   {
+    "value": "max-width: 400px",
+    "count": 5
+   },
+   {
+    "value": "max-width: 480px",
+    "count": 4
+   },
+   {
+    "value": "max-width: 1200px",
+    "count": 4
+   },
+   {
+    "value": "max-width: 1023px",
+    "count": 4
+   },
+   {
+    "value": "max-width: 500px",
+    "count": 4
+   },
+   {
+    "value": "max-width: 1280px",
+    "count": 3
+   },
+   {
+    "value": "max-width: 990px",
+    "count": 3
+   },
+   {
+    "value": "min-width: 1199px",
+    "count": 3
+   },
+   {
+    "value": "min-width: 1900px",
+    "count": 3
+   },
+   {
+    "value": "min-width: 1280px",
+    "count": 2
+   },
+   {
+    "value": "min-width: 425px",
+    "count": 2
+   },
+   {
+    "value": "max-width: 769px",
+    "count": 2
+   },
+   {
+    "value": "max-width: 1440px",
+    "count": 2
+   },
+   {
+    "value": "max-width: 320px",
+    "count": 2
+   },
+   {
+    "value": "max-width: 1025px",
+    "count": 1
+   },
+   {
+    "value": "max-width: 300px",
+    "count": 1
+   },
+   {
+    "value": "max-width: 991px",
+    "count": 1
+   },
+   {
+    "value": "max-width: 679px",
+    "count": 1
+   },
+   {
+    "value": "min-width: 680px",
+    "count": 1
+   },
+   {
+    "value": "max-width: 40rem",
+    "count": 1
+   },
+   {
+    "value": "min-width: 991px",
+    "count": 1
+   },
+   {
+    "value": "max-width: 800px",
+    "count": 1
+   },
+   {
+    "value": "max-width: 860px",
+    "count": 1
+   }
+  ]
+ }
+}

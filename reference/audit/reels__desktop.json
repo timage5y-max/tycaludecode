@@ -1,0 +1,1687 @@
+{
+ "url": "https://www.orichayun.com/reels",
+ "title": "Reels",
+ "htmlLang": "en",
+ "htmlDir": "(unset)",
+ "bodyDirection": "ltr",
+ "bodyBackground": "rgb(254, 250, 250)",
+ "bodyFontFamily": "\"Times New Roman\"",
+ "viewport": {
+  "width": 1440,
+  "height": 900
+ },
+ "scrollHeight": 1539,
+ "elementCount": 955,
+ "visibleCount": 222,
+ "colors": {
+  "background": [
+   {
+    "value": "rgb(254, 250, 250)",
+    "count": 4
+   },
+   {
+    "value": "rgb(255, 255, 255)",
+    "count": 3
+   },
+   {
+    "value": "rgb(0, 0, 0)",
+    "count": 2
+   },
+   {
+    "value": "rgba(255, 255, 255, 0)",
+    "count": 2
+   },
+   {
+    "value": "rgb(244, 244, 244)",
+    "count": 1
+   }
+  ],
+  "backgroundByArea": [
+   {
+    "value": "rgb(254, 250, 250)",
+    "px": 4751685
+   },
+   {
+    "value": "rgba(255, 255, 255, 0)",
+    "px": 1728000
+   },
+   {
+    "value": "rgb(255, 255, 255)",
+    "px": 808560
+   },
+   {
+    "value": "rgb(0, 0, 0)",
+    "px": 110270
+   },
+   {
+    "value": "rgb(244, 244, 244)",
+    "px": 48060
+   }
+  ],
+  "text": [
+   {
+    "value": "rgb(109, 89, 111)",
+    "count": 44
+   },
+   {
+    "value": "rgb(255, 255, 255)",
+    "count": 3
+   },
+   {
+    "value": "rgb(0, 0, 0)",
+    "count": 2
+   },
+   {
+    "value": "rgb(39, 39, 39)",
+    "count": 1
+   },
+   {
+    "value": "rgb(87, 87, 87)",
+    "count": 1
+   },
+   {
+    "value": "rgb(158, 158, 158)",
+    "count": 1
+   }
+  ],
+  "border": [
+   {
+    "value": "rgba(0, 0, 0, 0) 1px solid",
+    "count": 18
+   },
+   {
+    "value": "rgba(0, 0, 0, 0) 2px solid",
+    "count": 18
+   }
+  ],
+  "gradient": [],
+  "boxShadow": [
+   {
+    "value": "rgba(0, 0, 0, 0.05) 0px 1px 2px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "fontFamilies": [
+  {
+   "value": "Amita, cursive",
+   "count": 43
+  },
+  {
+   "value": "\"Frank Ruhl Libre\", serif",
+   "count": 3
+  },
+  {
+   "value": "\"Open Sans\", sans-serif",
+   "count": 2
+  },
+  {
+   "value": "Arial",
+   "count": 2
+  },
+  {
+   "value": "\"Times New Roman\"",
+   "count": 1
+  },
+  {
+   "value": "Yantramanav, sans-serif",
+   "count": 1
+  }
+ ],
+ "fontSizes": [
+  {
+   "value": "14px",
+   "count": 24
+  },
+  {
+   "value": "17px",
+   "count": 12
+  },
+  {
+   "value": "22px",
+   "count": 9
+  },
+  {
+   "value": "15px",
+   "count": 3
+  },
+  {
+   "value": "13px",
+   "count": 2
+  },
+  {
+   "value": "16px",
+   "count": 1
+  },
+  {
+   "value": "30px",
+   "count": 1
+  }
+ ],
+ "fontWeights": [
+  {
+   "value": "400",
+   "count": 47
+  },
+  {
+   "value": "600",
+   "count": 4
+  },
+  {
+   "value": "700",
+   "count": 1
+  }
+ ],
+ "lineHeights": [
+  {
+   "value": "28.8px",
+   "count": 42
+  },
+  {
+   "value": "normal",
+   "count": 5
+  },
+  {
+   "value": "27px",
+   "count": 2
+  },
+  {
+   "value": "21px",
+   "count": 1
+  },
+  {
+   "value": "25.2px",
+   "count": 1
+  },
+  {
+   "value": "42px",
+   "count": 1
+  }
+ ],
+ "letterSpacings": [
+  {
+   "value": "normal",
+   "count": 52
+  }
+ ],
+ "textTransforms": [
+  {
+   "value": "none",
+   "count": 48
+  },
+  {
+   "value": "uppercase",
+   "count": 4
+  }
+ ],
+ "loadedWebFonts": [
+  "Amita normal 400",
+  "Frank Ruhl Libre normal 400",
+  "Yantramanav normal 400"
+ ],
+ "typography": [
+  {
+   "label": "h1",
+   "selector": "h1",
+   "variants": []
+  },
+  {
+   "label": "h2",
+   "selector": "h2",
+   "variants": []
+  },
+  {
+   "label": "h3",
+   "selector": "h3",
+   "variants": [
+    {
+     "fontFamily": "Amita, cursive",
+     "fontSize": "30px",
+     "fontWeight": "400",
+     "lineHeight": "42px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(109, 89, 111)",
+     "textAlign": "center",
+     "count": 1,
+     "samples": [
+      "Follow me on Instagram"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "h4-h6",
+   "selector": "h4,h5,h6",
+   "variants": []
+  },
+  {
+   "label": "paragraph",
+   "selector": "p",
+   "variants": [
+    {
+     "fontFamily": "\"Frank Ruhl Libre\", serif",
+     "fontSize": "14px",
+     "fontWeight": "400",
+     "lineHeight": "21px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(255, 255, 255)",
+     "textAlign": "start",
+     "count": 1,
+     "samples": [
+      "This website uses cookies to ensure you get the best experie"
+     ]
+    },
+    {
+     "fontFamily": "Yantramanav, sans-serif",
+     "fontSize": "15px",
+     "fontWeight": "400",
+     "lineHeight": "normal",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(158, 158, 158)",
+     "textAlign": "center",
+     "count": 1,
+     "samples": [
+      "© Ori Chayun Photography"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "nav",
+   "selector": "nav a, header a, .navbar a, #navigation a, .menu a, .main-nav a",
+   "variants": [
+    {
+     "fontFamily": "Amita, cursive",
+     "fontSize": "17px",
+     "fontWeight": "400",
+     "lineHeight": "28.8px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(109, 89, 111)",
+     "textAlign": "left",
+     "count": 12,
+     "samples": [
+      "Romantic",
+      "Fun"
+     ]
+    },
+    {
+     "fontFamily": "Amita, cursive",
+     "fontSize": "14px",
+     "fontWeight": "400",
+     "lineHeight": "28.8px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(109, 89, 111)",
+     "textAlign": "left",
+     "count": 12,
+     "samples": [
+      "Romantic",
+      "Fun"
+     ]
+    },
+    {
+     "fontFamily": "Amita, cursive",
+     "fontSize": "22px",
+     "fontWeight": "400",
+     "lineHeight": "28.8px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(109, 89, 111)",
+     "textAlign": "right",
+     "count": 9,
+     "samples": [
+      "Home",
+      "Style"
+     ]
+    },
+    {
+     "fontFamily": "Amita, cursive",
+     "fontSize": "14px",
+     "fontWeight": "400",
+     "lineHeight": "28.8px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(109, 89, 111)",
+     "textAlign": "start",
+     "count": 9,
+     "samples": [
+      "Home",
+      "Style"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "button",
+   "selector": "button, .btn, [class*=\"button\"], a[class*=\"btn\"], input[type=submit]",
+   "variants": [
+    {
+     "fontFamily": "Arial",
+     "fontSize": "13px",
+     "fontWeight": "600",
+     "lineHeight": "normal",
+     "letterSpacing": "normal",
+     "textTransform": "uppercase",
+     "fontStyle": "normal",
+     "color": "rgb(255, 255, 255)",
+     "textAlign": "center",
+     "count": 1,
+     "samples": [
+      "VIEW CART ( 0 )"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "form-field",
+   "selector": "input, textarea, select, label",
+   "variants": []
+  },
+  {
+   "label": "inline",
+   "selector": "div, span, li",
+   "variants": [
+    {
+     "fontFamily": "Amita, cursive",
+     "fontSize": "16px",
+     "fontWeight": "400",
+     "lineHeight": "28.8px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(0, 0, 0)",
+     "textAlign": "left",
+     "count": 26,
+     "samples": [
+      "Romantic Fun Fashion Brides Beauty Truth Design Art Dance Fl",
+      "Romantic"
+     ]
+    },
+    {
+     "fontFamily": "\"Times New Roman\"",
+     "fontSize": "16px",
+     "fontWeight": "400",
+     "lineHeight": "normal",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(0, 0, 0)",
+     "textAlign": "start",
+     "count": 17,
+     "samples": [
+      "Home Style Romantic Fun Fashion Brides Beauty Truth Design A",
+      "Home Style Romantic Fun Fashion Brides Beauty Truth Design A"
+     ]
+    },
+    {
+     "fontFamily": "Amita, cursive",
+     "fontSize": "16px",
+     "fontWeight": "400",
+     "lineHeight": "28.8px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(0, 0, 0)",
+     "textAlign": "right",
+     "count": 9,
+     "samples": [
+      "Home",
+      "Style Romantic Fun Fashion Brides Beauty Truth Design Art Da"
+     ]
+    },
+    {
+     "fontFamily": "Amita, cursive",
+     "fontSize": "16px",
+     "fontWeight": "400",
+     "lineHeight": "28.8px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(0, 0, 0)",
+     "textAlign": "start",
+     "count": 9,
+     "samples": [
+      "Home",
+      "Style Romantic Fun Fashion Brides Beauty Truth Design Art Da"
+     ]
+    },
+    {
+     "fontFamily": "\"Times New Roman\"",
+     "fontSize": "16px",
+     "fontWeight": "400",
+     "lineHeight": "32px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(0, 0, 0)",
+     "textAlign": "center",
+     "count": 9,
+     "samples": [
+      "Follow me on Instagram",
+      "Follow me on Instagram"
+     ]
+    },
+    {
+     "fontFamily": "\"Frank Ruhl Libre\", serif",
+     "fontSize": "15px",
+     "fontWeight": "400",
+     "lineHeight": "27px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(109, 89, 111)",
+     "textAlign": "center",
+     "count": 3,
+     "samples": [
+      "Previous Next",
+      "Next"
+     ]
+    }
+   ]
+  }
+ ],
+ "grids": [],
+ "spacing": [
+  {
+   "value": "10px",
+   "count": 31
+  },
+  {
+   "value": "43px",
+   "count": 20
+  },
+  {
+   "value": "5px",
+   "count": 13
+  },
+  {
+   "value": "7px",
+   "count": 10
+  },
+  {
+   "value": "26px",
+   "count": 9
+  },
+  {
+   "value": "11px",
+   "count": 8
+  },
+  {
+   "value": "20px",
+   "count": 8
+  },
+  {
+   "value": "17px",
+   "count": 4
+  },
+  {
+   "value": "30px",
+   "count": 3
+  },
+  {
+   "value": "22px",
+   "count": 3
+  },
+  {
+   "value": "12px",
+   "count": 2
+  },
+  {
+   "value": "135px",
+   "count": 2
+  },
+  {
+   "value": "18px",
+   "count": 2
+  },
+  {
+   "value": "19px",
+   "count": 2
+  },
+  {
+   "value": "15px",
+   "count": 2
+  },
+  {
+   "value": "32px",
+   "count": 2
+  },
+  {
+   "value": "40px",
+   "count": 2
+  },
+  {
+   "value": "36px",
+   "count": 2
+  },
+  {
+   "value": "16px",
+   "count": 2
+  },
+  {
+   "value": "28px",
+   "count": 1
+  },
+  {
+   "value": "14px",
+   "count": 1
+  },
+  {
+   "value": "29px",
+   "count": 1
+  },
+  {
+   "value": "27px",
+   "count": 1
+  }
+ ],
+ "borderRadius": [
+  {
+   "value": "50%",
+   "count": 2
+  },
+  {
+   "value": "3px",
+   "count": 1
+  },
+  {
+   "value": "5px",
+   "count": 1
+  }
+ ],
+ "motion": {
+  "transitions": [
+   {
+    "value": "all 0.25s ease-in-out 0s",
+    "count": 14
+   },
+   {
+    "value": "transform 0.3s ease-in-out 0s",
+    "count": 7
+   },
+   {
+    "value": "all 0.5s ease-in-out 0s",
+    "count": 2
+   },
+   {
+    "value": "all 0.8s ease 0s",
+    "count": 2
+   },
+   {
+    "value": "transform 0.5s ease 0s",
+    "count": 2
+   },
+   {
+    "value": "all 0.3s ease 0s",
+    "count": 2
+   },
+   {
+    "value": "opacity 0.25s ease 0s",
+    "count": 1
+   },
+   {
+    "value": "all 0.15s ease-in-out 0s",
+    "count": 1
+   },
+   {
+    "value": "all 0.5s ease 0s",
+    "count": 1
+   }
+  ],
+  "animations": [],
+  "transforms": [
+   {
+    "value": "matrix(1, 0, 0, 1, 0, 0)",
+    "count": 2
+   }
+  ],
+  "keyframes": []
+ },
+ "mediaQueries": [
+  {
+   "value": "screen and (max-width: 767px)",
+   "count": 1
+  },
+  {
+   "value": "screen and (max-width: 1024px)",
+   "count": 1
+  }
+ ],
+ "blockedSheets": [
+  "https://px-themeassets.pixpa.com/assets/banner-css/42531/1733926.css?id=1784299245",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/js/swipper/swiper-bundle.min.css",
+  "https://fonts.googleapis.com/css?family=Frank%20Ruhl%20Libre:400|Yantramanav:400|Frank%20Ruhl%20Libre:300|Amita:400|Alice:300&display=swap",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/mixcss.css?id=e484bbc11785a6a1bfdf6e981832691e",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/common.css?id=42aec0ff4a852f5f57e752a3fa72865c",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/light-gallery-custom.css?id=e53da6b0a64350ddd1b0ade03861d79e",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/themesv2.css?id=33c9fce290d274635a97489a7b272fcc",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/vendor/pixpalg_all_v2.css?id=5468c8f2f955e279c00000781b769d80",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/custom-page-v2/assets/minimalist-blocks/variable.css",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/photo-gallery.css?id=deed9831f88bad3688bc378de65ccab6",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/slideshow.css?id=7696b732c136e87744696990caea2c81",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/vendor/jquery.Jcrop.css?id=d368b750e4c820ca3863878889ec737b",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/store.css?id=57dfcc0c0599e35b8aea22fef8b7d103",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/proofing.css?id=80a7480624114a846c21c76cd172962a",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/builder_lists.css?id=c47792f8d9aa788766e8e4b474248c40",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/cover-design.css?id=21fe432c3a391c2418bca462feb44dcf",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/old_custom_page_assets.css?id=7ae28fb7f2c6653e741802e77e8567c6",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/custom-page.css?id=b6d83829e3e9231143bb54d20debf841",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/instagram.css?id=abc7a299d05b2a520d825fa45f089e6b",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/extended-footer.css?id=daf30ebe910ae34d728713faffafc59a"
+ ],
+ "containerMaxWidths": [
+  {
+   "value": "450px",
+   "count": 1
+  }
+ ],
+ "direction": {
+  "rtlSamples": [],
+  "ltrSamples": [
+   {
+    "tag": "body",
+    "text": "//pinterest script",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "start",
+    "unicodeBidi": "normal",
+    "fontFamily": "\"Times New Roman\"",
+    "fontSize": "16px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "p",
+    "text": "This website uses cookies to ensure you get the be",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "start",
+    "unicodeBidi": "isolate",
+    "fontFamily": "\"Frank Ruhl Libre\", serif",
+    "fontSize": "14px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "div",
+    "text": "BUY THIS IMAGE",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "start",
+    "unicodeBidi": "isolate",
+    "fontFamily": "\"Open Sans\", sans-serif",
+    "fontSize": "14px",
+    "fontWeight": "600"
+   },
+   {
+    "tag": "button",
+    "text": "view cart ()",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "center",
+    "unicodeBidi": "normal",
+    "fontFamily": "Arial",
+    "fontSize": "13px",
+    "fontWeight": "600"
+   },
+   {
+    "tag": "span",
+    "text": "0",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "center",
+    "unicodeBidi": "normal",
+    "fontFamily": "Arial",
+    "fontSize": "13px",
+    "fontWeight": "600"
+   },
+   {
+    "tag": "div",
+    "text": "Product Info",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "start",
+    "unicodeBidi": "isolate",
+    "fontFamily": "\"Open Sans\", sans-serif",
+    "fontSize": "14px",
+    "fontWeight": "600"
+   },
+   {
+    "tag": "a",
+    "text": "Home",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "right",
+    "unicodeBidi": "normal",
+    "fontFamily": "Amita, cursive",
+    "fontSize": "22px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "a",
+    "text": "Style",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "right",
+    "unicodeBidi": "normal",
+    "fontFamily": "Amita, cursive",
+    "fontSize": "22px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "a",
+    "text": "Romantic",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "left",
+    "unicodeBidi": "normal",
+    "fontFamily": "Amita, cursive",
+    "fontSize": "17px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "a",
+    "text": "Fun",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "left",
+    "unicodeBidi": "normal",
+    "fontFamily": "Amita, cursive",
+    "fontSize": "17px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "a",
+    "text": "Fashion",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "left",
+    "unicodeBidi": "normal",
+    "fontFamily": "Amita, cursive",
+    "fontSize": "17px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "a",
+    "text": "Brides",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "left",
+    "unicodeBidi": "normal",
+    "fontFamily": "Amita, cursive",
+    "fontSize": "17px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "a",
+    "text": "Beauty",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "left",
+    "unicodeBidi": "normal",
+    "fontFamily": "Amita, cursive",
+    "fontSize": "17px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "a",
+    "text": "Truth",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "left",
+    "unicodeBidi": "normal",
+    "fontFamily": "Amita, cursive",
+    "fontSize": "17px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "a",
+    "text": "Design",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "left",
+    "unicodeBidi": "normal",
+    "fontFamily": "Amita, cursive",
+    "fontSize": "17px",
+    "fontWeight": "400"
+   }
+  ],
+  "dirAttributes": [],
+  "hasRtlText": false
+ },
+ "images": [
+  {
+   "w": 250,
+   "h": 160,
+   "ratio": 1.56,
+   "objectFit": "contain",
+   "loading": "auto",
+   "natural": "0x0",
+   "alt": "",
+   "src": "https://www.orichayun.com/reels"
+  },
+  {
+   "w": 106,
+   "h": 105,
+   "ratio": 1.01,
+   "objectFit": "fill",
+   "loading": "auto",
+   "natural": "661x654",
+   "alt": "Ori Chayun Wedding Photography",
+   "src": "https://px-web-images-v2.pixpa.com/x3uJc90wO9b4okOPdkOlpAavsd0Jivl0lfYuyJ0cqSY/rs:fit:1000:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 837,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1181x2101",
+   "alt": "Pixpa",
+   "src": "https://px-web-images-v2.pixpa.com/pisnihAzdvtFnC1MnYPsKWOMV8MzdmOVxy20Mk0hUaY/rs:fit:1500:0/q:80/wmu:aHR0cHM6Ly9weC1zMy1pbWcucGl4cGEuY29tL3"
+  }
+ ],
+ "imageCount": 3,
+ "outline": [
+  {
+   "tag": "header",
+   "id": "header",
+   "class": "inside_header-0 4    full-header js-full-header header header-scale u42531-header-bg-color",
+   "height": 141,
+   "top": 0,
+   "background": "rgb(254, 250, 250)",
+   "paddingTop": "0px",
+   "paddingBottom": "0px",
+   "imgCount": 2,
+   "text": "Home Style Romantic Fun Fashion Brides Beauty Truth Design Art Dance Floor Lake Como Wedding Judean Desert Elopement Jaffa Hotel by Ori Chay"
+  },
+  {
+   "tag": "header",
+   "id": "header",
+   "class": "inside_header-0 full-header js-full-header header header-scale u42531-header-bg-color head",
+   "height": 81,
+   "top": -241,
+   "background": "rgb(254, 250, 250)",
+   "paddingTop": "0px",
+   "paddingBottom": "0px",
+   "imgCount": 0,
+   "text": "Home Style Romantic Fun Fashion Brides Beauty Truth Design Art Dance Floor Lake Como Wedding Judean Desert Elopement Jaffa Hotel by Ori Chay"
+  },
+  {
+   "tag": "nav",
+   "id": "",
+   "class": "header-nav-list",
+   "height": 66,
+   "top": -233,
+   "background": "rgba(0, 0, 0, 0)",
+   "paddingTop": "0px",
+   "paddingBottom": "0px",
+   "imgCount": 0,
+   "text": "Home Style Romantic Fun Fashion Brides Beauty Truth Design Art Dance Floor Lake Como Wedding Judean Desert Elopement Jaffa Hotel by Ori Chay"
+  },
+  {
+   "tag": "div",
+   "id": "",
+   "class": "is-section is-section-social is-section-everywhere is-section-fit2width-container is-align",
+   "height": 297,
+   "top": 1076,
+   "background": "rgba(255, 255, 255, 0)",
+   "paddingTop": "0px",
+   "paddingBottom": "0px",
+   "imgCount": 0,
+   "text": "Follow me on Instagram"
+  }
+ ],
+ "headings": [
+  {
+   "level": "H3",
+   "text": "Follow me on Instagram"
+  }
+ ],
+ "links": [
+  {
+   "text": "",
+   "href": "https://www.orichayun.com/getjsassets"
+  },
+  {
+   "text": "Continue Shopping",
+   "href": "/store"
+  },
+  {
+   "text": "",
+   "href": "/"
+  },
+  {
+   "text": "Home",
+   "href": "/home"
+  },
+  {
+   "text": "Romantic",
+   "href": "/"
+  },
+  {
+   "text": "Fun",
+   "href": "/galleries/fun"
+  },
+  {
+   "text": "Fashion",
+   "href": "/galleries/fashion"
+  },
+  {
+   "text": "Brides",
+   "href": "/galleries/brides"
+  },
+  {
+   "text": "Beauty",
+   "href": "/galleries/beauty"
+  },
+  {
+   "text": "Truth",
+   "href": "/galleries/truth"
+  },
+  {
+   "text": "Design",
+   "href": "/galleries/style"
+  },
+  {
+   "text": "Art",
+   "href": "/galleries/art"
+  },
+  {
+   "text": "Dance Floor",
+   "href": "/galleries/dancefloor"
+  },
+  {
+   "text": "Lake Como Wedding",
+   "href": "/galleries/lake-como-wedding"
+  },
+  {
+   "text": "Judean Desert Elopement",
+   "href": "/galleries/judean-desert-elopement"
+  },
+  {
+   "text": "Jaffa Hotel by Ori Chayun",
+   "href": "/galleries/jaffa"
+  },
+  {
+   "text": "Wedding Gallery",
+   "href": "/gallery"
+  },
+  {
+   "text": "Vogue",
+   "href": "/vogue"
+  },
+  {
+   "text": "B&W",
+   "href": "/bw"
+  },
+  {
+   "text": "Pregnancy",
+   "href": "/pregnancy"
+  },
+  {
+   "text": "Instagram",
+   "href": "/instagram"
+  },
+  {
+   "text": "Reviews",
+   "href": "/reviews"
+  },
+  {
+   "text": "Contact",
+   "href": "/contact"
+  },
+  {
+   "text": "",
+   "href": "https://wa.me/972548169111"
+  },
+  {
+   "text": "",
+   "href": "https://www.facebook.com/orichayunwedding"
+  },
+  {
+   "text": "",
+   "href": "https://www.instagram.com/orichayun"
+  },
+  {
+   "text": "",
+   "href": "/"
+  },
+  {
+   "text": "Home",
+   "href": "/home"
+  },
+  {
+   "text": "Romantic",
+   "href": "/"
+  },
+  {
+   "text": "Fun",
+   "href": "/galleries/fun"
+  },
+  {
+   "text": "Fashion",
+   "href": "/galleries/fashion"
+  },
+  {
+   "text": "Brides",
+   "href": "/galleries/brides"
+  },
+  {
+   "text": "Beauty",
+   "href": "/galleries/beauty"
+  },
+  {
+   "text": "Truth",
+   "href": "/galleries/truth"
+  },
+  {
+   "text": "Design",
+   "href": "/galleries/style"
+  },
+  {
+   "text": "Art",
+   "href": "/galleries/art"
+  },
+  {
+   "text": "Dance Floor",
+   "href": "/galleries/dancefloor"
+  },
+  {
+   "text": "Lake Como Wedding",
+   "href": "/galleries/lake-como-wedding"
+  },
+  {
+   "text": "Judean Desert Elopement",
+   "href": "/galleries/judean-desert-elopement"
+  },
+  {
+   "text": "Jaffa Hotel by Ori Chayun",
+   "href": "/galleries/jaffa"
+  },
+  {
+   "text": "Wedding Gallery",
+   "href": "/gallery"
+  },
+  {
+   "text": "Vogue",
+   "href": "/vogue"
+  },
+  {
+   "text": "B&W",
+   "href": "/bw"
+  },
+  {
+   "text": "Pregnancy",
+   "href": "/pregnancy"
+  },
+  {
+   "text": "Instagram",
+   "href": "/instagram"
+  },
+  {
+   "text": "Reviews",
+   "href": "/reviews"
+  },
+  {
+   "text": "Contact",
+   "href": "/contact"
+  },
+  {
+   "text": "",
+   "href": "https://wa.me/972548169111"
+  },
+  {
+   "text": "",
+   "href": "https://www.facebook.com/orichayunwedding"
+  },
+  {
+   "text": "",
+   "href": "https://www.instagram.com/orichayun"
+  },
+  {
+   "text": "Home",
+   "href": "/home"
+  },
+  {
+   "text": "Romantic",
+   "href": "/"
+  },
+  {
+   "text": "Fun",
+   "href": "/galleries/fun"
+  },
+  {
+   "text": "Fashion",
+   "href": "/galleries/fashion"
+  },
+  {
+   "text": "Brides",
+   "href": "/galleries/brides"
+  },
+  {
+   "text": "Beauty",
+   "href": "/galleries/beauty"
+  },
+  {
+   "text": "Truth",
+   "href": "/galleries/truth"
+  },
+  {
+   "text": "Design",
+   "href": "/galleries/style"
+  },
+  {
+   "text": "Art",
+   "href": "/galleries/art"
+  },
+  {
+   "text": "Dance Floor",
+   "href": "/galleries/dancefloor"
+  },
+  {
+   "text": "Lake Como Wedding",
+   "href": "/galleries/lake-como-wedding"
+  },
+  {
+   "text": "Judean Desert Elopement",
+   "href": "/galleries/judean-desert-elopement"
+  },
+  {
+   "text": "Jaffa Hotel by Ori Chayun",
+   "href": "/galleries/jaffa"
+  },
+  {
+   "text": "Wedding Gallery",
+   "href": "/gallery"
+  },
+  {
+   "text": "Vogue",
+   "href": "/vogue"
+  },
+  {
+   "text": "B&W",
+   "href": "/bw"
+  },
+  {
+   "text": "Pregnancy",
+   "href": "/pregnancy"
+  },
+  {
+   "text": "Instagram",
+   "href": "/instagram"
+  },
+  {
+   "text": "Reviews",
+   "href": "/reviews"
+  },
+  {
+   "text": "Contact",
+   "href": "/contact"
+  },
+  {
+   "text": "",
+   "href": "/hidden-pages"
+  },
+  {
+   "text": "Next",
+   "href": "/hidden-pages/italy-destination-weddings"
+  },
+  {
+   "text": "",
+   "href": "https://wa.me/972548169111"
+  },
+  {
+   "text": "",
+   "href": "https://www.facebook.com/orichayunwedding"
+  },
+  {
+   "text": "",
+   "href": "https://www.instagram.com/orichayun"
+  },
+  {
+   "text": "",
+   "href": "https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.orichayun.com%2Fhidden-pages%2Freels"
+  },
+  {
+   "text": "",
+   "href": "https://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.orichayun.com%2Fhidden-pages%2Freels"
+  },
+  {
+   "text": "",
+   "href": "https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.orichayun.com%2Fhidden-pages%2Freels"
+  },
+  {
+   "text": "",
+   "href": "https://www.tumblr.com/widgets/share/tool?posttype=link&canonicalUrl=http%3A%2F%2Fwww.orichayun.com%2Fhidden-pages%2Freels"
+  },
+  {
+   "text": "",
+   "href": "https://api.whatsapp.com/send?phone=&text=http%3A%2F%2Fwww.orichayun.com%2Fhidden-pages%2Freels"
+  },
+  {
+   "text": "",
+   "href": "mailto:?body=http%3A%2F%2Fwww.orichayun.com%2Fhidden-pages%2Freels"
+  },
+  {
+   "text": "",
+   "href": "https://wa.me/972548169111?&text=Hi+there%21+This+is+an+inquiry+from+the+WhatsApp+Chat+on+your+website."
+  }
+ ],
+ "cssBreakpoints": {
+  "sheets": 29,
+  "conditions": [
+   {
+    "value": "screen and (max-width:767px)",
+    "count": 587
+   },
+   {
+    "value": "screen and (max-width:1024px)",
+    "count": 194
+   },
+   {
+    "value": "screen and (max-width:768px)",
+    "count": 167
+   },
+   {
+    "value": "screen and (max-width:640px)",
+    "count": 58
+   },
+   {
+    "value": "screen and (max-width:980px)",
+    "count": 44
+   },
+   {
+    "value": "screen and (min-width:768px)",
+    "count": 40
+   },
+   {
+    "value": "screen and (max-width:425px)",
+    "count": 21
+   },
+   {
+    "value": "screen and (min-width:1025px)",
+    "count": 17
+   },
+   {
+    "value": "screen and (min-width:767px)",
+    "count": 13
+   },
+   {
+    "value": "screen and (min-width:1024px)",
+    "count": 11
+   },
+   {
+    "value": "screen and (max-width:480px)",
+    "count": 10
+   },
+   {
+    "value": "screen and (max-width:680px)",
+    "count": 10
+   },
+   {
+    "value": "screen and (min-width:768px) and (max-width:767px)",
+    "count": 9
+   },
+   {
+    "value": "screen and (min-width:768px) and (max-width:1024px)",
+    "count": 8
+   },
+   {
+    "value": "screen and (min-width:769px)",
+    "count": 7
+   },
+   {
+    "value": "screen and (max-width:1199px)",
+    "count": 7
+   },
+   {
+    "value": "screen and (max-width:500px)",
+    "count": 6
+   },
+   {
+    "value": "screen and (min-width:1024px) and (max-width:1366px)",
+    "count": 6
+   },
+   {
+    "value": "all and (max-width:1024px)",
+    "count": 6
+   },
+   {
+    "value": "screen and (max-width:400px)",
+    "count": 5
+   },
+   {
+    "value": "screen and (max-width:960px)",
+    "count": 5
+   },
+   {
+    "value": "all and (max-width:540px)",
+    "count": 5
+   },
+   {
+    "value": "all and (max-width:960px)",
+    "count": 5
+   },
+   {
+    "value": "(min-width:768px)",
+    "count": 4
+   },
+   {
+    "value": "screen and (max-width:1023px)",
+    "count": 4
+   },
+   {
+    "value": "screen and (max-width:1024px) and (orientation:landscape)",
+    "count": 4
+   },
+   {
+    "value": "screen and (max-width:1280px)",
+    "count": 4
+   },
+   {
+    "value": "screen and (min-width:1900px)",
+    "count": 3
+   },
+   {
+    "value": "screen and (max-width:990px)",
+    "count": 3
+   },
+   {
+    "value": "",
+    "count": 3
+   },
+   {
+    "value": "only screen and (max-width:1024px)",
+    "count": 3
+   },
+   {
+    "value": "screen and (min-width:1199px)",
+    "count": 3
+   },
+   {
+    "value": "only screen and (max-width:1024px) and (orientation:landscape)",
+    "count": 3
+   },
+   {
+    "value": "all and (max-width:767px)",
+    "count": 3
+   },
+   {
+    "value": "screen and (max-width:767px) and (orientation:landscape)",
+    "count": 2
+   },
+   {
+    "value": "screen and (max-width:320px)",
+    "count": 2
+   },
+   {
+    "value": "screen and (max-width:769px)",
+    "count": 2
+   },
+   {
+    "value": "screen and (max-width:1440px)",
+    "count": 2
+   },
+   {
+    "value": "screen and (max-width:768px) and (max-width:1024px)",
+    "count": 2
+   },
+   {
+    "value": "screen and (max-width:1199px) and (max-width:1024px)",
+    "count": 2
+   },
+   {
+    "value": "screen and (max-width:1260px)",
+    "count": 2
+   },
+   {
+    "value": "all and (min-width:1280px)",
+    "count": 2
+   },
+   {
+    "value": "screen and (max-width: 1024px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:767px) and (max-width:767px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:679px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (min-width:680px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (-webkit-min-device-pixel-ratio:0)",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:600px)",
+    "count": 1
+   },
+   {
+    "value": "only screen and (min-device-width:1024px) and (max-device-width:1365px) and (orientation:landscape)",
+    "count": 1
+   },
+   {
+    "value": "screen and (min-width:991px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (min-width:1025px) and (max-width:1200px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (min-width:768px) and (max-width:1200px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (min-width:425px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:800px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:860px)",
+    "count": 1
+   },
+   {
+    "value": "print",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:300px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:991px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:425px),screen and (min-width:425px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (min-width:768px) and (max-width:1199px)",
+    "count": 1
+   }
+  ],
+  "widths": [
+   {
+    "value": "max-width: 767px",
+    "count": 604
+   },
+   {
+    "value": "max-width: 1024px",
+    "count": 224
+   },
+   {
+    "value": "max-width: 768px",
+    "count": 171
+   },
+   {
+    "value": "min-width: 768px",
+    "count": 65
+   },
+   {
+    "value": "max-width: 640px",
+    "count": 60
+   },
+   {
+    "value": "max-width: 980px",
+    "count": 45
+   },
+   {
+    "value": "max-width: 425px",
+    "count": 22
+   },
+   {
+    "value": "min-width: 1025px",
+    "count": 18
+   },
+   {
+    "value": "min-width: 1024px",
+    "count": 17
+   },
+   {
+    "value": "min-width: 767px",
+    "count": 13
+   },
+   {
+    "value": "max-width: 480px",
+    "count": 11
+   },
+   {
+    "value": "max-width: 960px",
+    "count": 10
+   },
+   {
+    "value": "max-width: 1199px",
+    "count": 10
+   },
+   {
+    "value": "max-width: 680px",
+    "count": 10
+   },
+   {
+    "value": "min-width: 769px",
+    "count": 7
+   },
+   {
+    "value": "max-width: 500px",
+    "count": 6
+   },
+   {
+    "value": "max-width: 1366px",
+    "count": 6
+   },
+   {
+    "value": "max-width: 400px",
+    "count": 5
+   },
+   {
+    "value": "max-width: 540px",
+    "count": 5
+   },
+   {
+    "value": "max-width: 1280px",
+    "count": 5
+   },
+   {
+    "value": "max-width: 1023px",
+    "count": 4
+   },
+   {
+    "value": "max-width: 1200px",
+    "count": 4
+   },
+   {
+    "value": "min-width: 1900px",
+    "count": 3
+   },
+   {
+    "value": "max-width: 990px",
+    "count": 3
+   },
+   {
+    "value": "min-width: 1199px",
+    "count": 3
+   },
+   {
+    "value": "max-width: 320px",
+    "count": 2
+   },
+   {
+    "value": "min-width: 425px",
+    "count": 2
+   },
+   {
+    "value": "max-width: 769px",
+    "count": 2
+   },
+   {
+    "value": "max-width: 1440px",
+    "count": 2
+   },
+   {
+    "value": "max-width: 1260px",
+    "count": 2
+   },
+   {
+    "value": "min-width: 1280px",
+    "count": 2
+   },
+   {
+    "value": "max-width: 679px",
+    "count": 1
+   },
+   {
+    "value": "min-width: 680px",
+    "count": 1
+   },
+   {
+    "value": "max-width: 600px",
+    "count": 1
+   },
+   {
+    "value": "min-width: 991px",
+    "count": 1
+   },
+   {
+    "value": "max-width: 800px",
+    "count": 1
+   },
+   {
+    "value": "max-width: 860px",
+    "count": 1
+   },
+   {
+    "value": "max-width: 300px",
+    "count": 1
+   },
+   {
+    "value": "max-width: 991px",
+    "count": 1
+   },
+   {
+    "value": "min-width: 992px",
+    "count": 1
+   }
+  ]
+ }
+}

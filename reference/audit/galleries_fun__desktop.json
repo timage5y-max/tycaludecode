@@ -1,0 +1,2454 @@
+{
+ "url": "https://www.orichayun.com/galleries/fun",
+ "title": "Fun Wedding Photography | Ori Chayun",
+ "htmlLang": "en",
+ "htmlDir": "(unset)",
+ "bodyDirection": "ltr",
+ "bodyBackground": "rgb(254, 250, 250)",
+ "bodyFontFamily": "\"Times New Roman\"",
+ "viewport": {
+  "width": 1440,
+  "height": 900
+ },
+ "scrollHeight": 11462,
+ "elementCount": 1629,
+ "visibleCount": 356,
+ "colors": {
+  "background": [
+   {
+    "value": "rgba(127, 127, 127, 0.02)",
+    "count": 5
+   },
+   {
+    "value": "rgb(254, 250, 250)",
+    "count": 4
+   },
+   {
+    "value": "rgb(255, 255, 255)",
+    "count": 3
+   },
+   {
+    "value": "rgb(0, 0, 0)",
+    "count": 2
+   },
+   {
+    "value": "rgba(255, 255, 255, 0)",
+    "count": 2
+   },
+   {
+    "value": "rgb(244, 244, 244)",
+    "count": 1
+   },
+   {
+    "value": "rgba(67, 193, 214, 0.02)",
+    "count": 1
+   },
+   {
+    "value": "rgba(157, 123, 97, 0.02)",
+    "count": 1
+   },
+   {
+    "value": "rgba(177, 190, 88, 0.02)",
+    "count": 1
+   },
+   {
+    "value": "rgba(216, 74, 60, 0.02)",
+    "count": 1
+   },
+   {
+    "value": "rgba(204, 89, 57, 0.02)",
+    "count": 1
+   },
+   {
+    "value": "rgba(152, 180, 53, 0.02)",
+    "count": 1
+   },
+   {
+    "value": "rgba(164, 60, 47, 0.02)",
+    "count": 1
+   },
+   {
+    "value": "rgba(198, 135, 130, 0.02)",
+    "count": 1
+   },
+   {
+    "value": "rgba(140, 76, 62, 0.02)",
+    "count": 1
+   },
+   {
+    "value": "rgba(100, 121, 154, 0.02)",
+    "count": 1
+   },
+   {
+    "value": "rgba(149, 176, 204, 0.02)",
+    "count": 1
+   },
+   {
+    "value": "rgba(180, 66, 64, 0.02)",
+    "count": 1
+   },
+   {
+    "value": "rgba(134, 84, 60, 0.02)",
+    "count": 1
+   },
+   {
+    "value": "rgba(33, 148, 165, 0.02)",
+    "count": 1
+   },
+   {
+    "value": "rgba(125, 77, 44, 0.02)",
+    "count": 1
+   },
+   {
+    "value": "rgba(86, 81, 173, 0.02)",
+    "count": 1
+   },
+   {
+    "value": "rgba(148, 87, 68, 0.02)",
+    "count": 1
+   },
+   {
+    "value": "rgba(84, 164, 180, 0.02)",
+    "count": 1
+   },
+   {
+    "value": "rgba(177, 119, 77, 0.02)",
+    "count": 1
+   },
+   {
+    "value": "rgba(117, 65, 44, 0.02)",
+    "count": 1
+   },
+   {
+    "value": "rgba(116, 132, 52, 0.02)",
+    "count": 1
+   },
+   {
+    "value": "rgba(34, 79, 200, 0.02)",
+    "count": 1
+   },
+   {
+    "value": "rgba(99, 136, 194, 0.02)",
+    "count": 1
+   },
+   {
+    "value": "rgba(4, 53, 160, 0.02)",
+    "count": 1
+   }
+  ],
+  "backgroundByArea": [
+   {
+    "value": "rgb(254, 250, 250)",
+    "px": 33329925
+   },
+   {
+    "value": "rgba(255, 255, 255, 0)",
+    "px": 16063200
+   },
+   {
+    "value": "rgba(127, 127, 127, 0.02)",
+    "px": 1151111
+   },
+   {
+    "value": "rgb(255, 255, 255)",
+    "px": 808560
+   },
+   {
+    "value": "rgba(180, 84, 108, 0.02)",
+    "px": 354839
+   },
+   {
+    "value": "rgba(206, 33, 30, 0.02)",
+    "px": 333191
+   },
+   {
+    "value": "rgba(177, 190, 88, 0.02)",
+    "px": 331780
+   },
+   {
+    "value": "rgba(152, 180, 53, 0.02)",
+    "px": 331780
+   },
+   {
+    "value": "rgba(164, 60, 47, 0.02)",
+    "px": 331780
+   },
+   {
+    "value": "rgba(180, 66, 64, 0.02)",
+    "px": 331780
+   },
+   {
+    "value": "rgba(84, 164, 180, 0.02)",
+    "px": 331780
+   },
+   {
+    "value": "rgba(117, 65, 44, 0.02)",
+    "px": 331780
+   },
+   {
+    "value": "rgba(4, 53, 160, 0.02)",
+    "px": 331780
+   },
+   {
+    "value": "rgba(68, 124, 145, 0.02)",
+    "px": 331780
+   },
+   {
+    "value": "rgba(147, 130, 107, 0.02)",
+    "px": 331780
+   }
+  ],
+  "text": [
+   {
+    "value": "rgb(109, 89, 111)",
+    "count": 38
+   },
+   {
+    "value": "rgb(147, 90, 90)",
+    "count": 4
+   },
+   {
+    "value": "rgb(255, 255, 255)",
+    "count": 3
+   },
+   {
+    "value": "rgb(0, 0, 0)",
+    "count": 2
+   },
+   {
+    "value": "rgb(39, 39, 39)",
+    "count": 1
+   },
+   {
+    "value": "rgb(87, 87, 87)",
+    "count": 1
+   },
+   {
+    "value": "rgb(158, 158, 158)",
+    "count": 1
+   }
+  ],
+  "border": [
+   {
+    "value": "rgba(0, 0, 0, 0) 1px solid",
+    "count": 18
+   },
+   {
+    "value": "rgba(0, 0, 0, 0) 2px solid",
+    "count": 18
+   }
+  ],
+  "gradient": [],
+  "boxShadow": [
+   {
+    "value": "rgba(0, 0, 0, 0.05) 0px 1px 2px 0px",
+    "count": 1
+   }
+  ]
+ },
+ "fontFamilies": [
+  {
+   "value": "Amita, cursive",
+   "count": 43
+  },
+  {
+   "value": "\"Open Sans\", sans-serif",
+   "count": 2
+  },
+  {
+   "value": "Arial",
+   "count": 2
+  },
+  {
+   "value": "\"Times New Roman\"",
+   "count": 1
+  },
+  {
+   "value": "\"Frank Ruhl Libre\", serif",
+   "count": 1
+  },
+  {
+   "value": "Yantramanav, sans-serif",
+   "count": 1
+  }
+ ],
+ "fontSizes": [
+  {
+   "value": "14px",
+   "count": 24
+  },
+  {
+   "value": "17px",
+   "count": 12
+  },
+  {
+   "value": "22px",
+   "count": 9
+  },
+  {
+   "value": "13px",
+   "count": 2
+  },
+  {
+   "value": "16px",
+   "count": 1
+  },
+  {
+   "value": "30px",
+   "count": 1
+  },
+  {
+   "value": "15px",
+   "count": 1
+  }
+ ],
+ "fontWeights": [
+  {
+   "value": "400",
+   "count": 45
+  },
+  {
+   "value": "600",
+   "count": 4
+  },
+  {
+   "value": "700",
+   "count": 1
+  }
+ ],
+ "lineHeights": [
+  {
+   "value": "28.8px",
+   "count": 42
+  },
+  {
+   "value": "normal",
+   "count": 5
+  },
+  {
+   "value": "21px",
+   "count": 1
+  },
+  {
+   "value": "25.2px",
+   "count": 1
+  },
+  {
+   "value": "42px",
+   "count": 1
+  }
+ ],
+ "letterSpacings": [
+  {
+   "value": "normal",
+   "count": 50
+  }
+ ],
+ "textTransforms": [
+  {
+   "value": "none",
+   "count": 46
+  },
+  {
+   "value": "uppercase",
+   "count": 4
+  }
+ ],
+ "loadedWebFonts": [
+  "Amita normal 400",
+  "Frank Ruhl Libre normal 400",
+  "Yantramanav normal 400"
+ ],
+ "typography": [
+  {
+   "label": "h1",
+   "selector": "h1",
+   "variants": []
+  },
+  {
+   "label": "h2",
+   "selector": "h2",
+   "variants": []
+  },
+  {
+   "label": "h3",
+   "selector": "h3",
+   "variants": [
+    {
+     "fontFamily": "Amita, cursive",
+     "fontSize": "30px",
+     "fontWeight": "400",
+     "lineHeight": "42px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(109, 89, 111)",
+     "textAlign": "center",
+     "count": 1,
+     "samples": [
+      "Follow me on Instagram"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "h4-h6",
+   "selector": "h4,h5,h6",
+   "variants": []
+  },
+  {
+   "label": "paragraph",
+   "selector": "p",
+   "variants": [
+    {
+     "fontFamily": "\"Frank Ruhl Libre\", serif",
+     "fontSize": "14px",
+     "fontWeight": "400",
+     "lineHeight": "21px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(255, 255, 255)",
+     "textAlign": "start",
+     "count": 1,
+     "samples": [
+      "This website uses cookies to ensure you get the best experie"
+     ]
+    },
+    {
+     "fontFamily": "Yantramanav, sans-serif",
+     "fontSize": "15px",
+     "fontWeight": "400",
+     "lineHeight": "normal",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(158, 158, 158)",
+     "textAlign": "center",
+     "count": 1,
+     "samples": [
+      "© Ori Chayun Photography"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "nav",
+   "selector": "nav a, header a, .navbar a, #navigation a, .menu a, .main-nav a",
+   "variants": [
+    {
+     "fontFamily": "Amita, cursive",
+     "fontSize": "17px",
+     "fontWeight": "400",
+     "lineHeight": "28.8px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(109, 89, 111)",
+     "textAlign": "left",
+     "count": 11,
+     "samples": [
+      "Romantic",
+      "Fashion"
+     ]
+    },
+    {
+     "fontFamily": "Amita, cursive",
+     "fontSize": "14px",
+     "fontWeight": "400",
+     "lineHeight": "28.8px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(109, 89, 111)",
+     "textAlign": "left",
+     "count": 11,
+     "samples": [
+      "Romantic",
+      "Fashion"
+     ]
+    },
+    {
+     "fontFamily": "Amita, cursive",
+     "fontSize": "22px",
+     "fontWeight": "400",
+     "lineHeight": "28.8px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(109, 89, 111)",
+     "textAlign": "right",
+     "count": 8,
+     "samples": [
+      "Home",
+      "Wedding Gallery"
+     ]
+    },
+    {
+     "fontFamily": "Amita, cursive",
+     "fontSize": "14px",
+     "fontWeight": "400",
+     "lineHeight": "28.8px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(109, 89, 111)",
+     "textAlign": "start",
+     "count": 8,
+     "samples": [
+      "Home",
+      "Wedding Gallery"
+     ]
+    },
+    {
+     "fontFamily": "Amita, cursive",
+     "fontSize": "22px",
+     "fontWeight": "400",
+     "lineHeight": "28.8px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(147, 90, 90)",
+     "textAlign": "right",
+     "count": 1,
+     "samples": [
+      "Style"
+     ]
+    },
+    {
+     "fontFamily": "Amita, cursive",
+     "fontSize": "17px",
+     "fontWeight": "400",
+     "lineHeight": "28.8px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(147, 90, 90)",
+     "textAlign": "left",
+     "count": 1,
+     "samples": [
+      "Fun"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "button",
+   "selector": "button, .btn, [class*=\"button\"], a[class*=\"btn\"], input[type=submit]",
+   "variants": [
+    {
+     "fontFamily": "Arial",
+     "fontSize": "13px",
+     "fontWeight": "600",
+     "lineHeight": "normal",
+     "letterSpacing": "normal",
+     "textTransform": "uppercase",
+     "fontStyle": "normal",
+     "color": "rgb(255, 255, 255)",
+     "textAlign": "center",
+     "count": 1,
+     "samples": [
+      "VIEW CART ( 0 )"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "form-field",
+   "selector": "input, textarea, select, label",
+   "variants": []
+  },
+  {
+   "label": "inline",
+   "selector": "div, span, li",
+   "variants": [
+    {
+     "fontFamily": "Amita, cursive",
+     "fontSize": "16px",
+     "fontWeight": "400",
+     "lineHeight": "28.8px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(0, 0, 0)",
+     "textAlign": "left",
+     "count": 26,
+     "samples": [
+      "Romantic Fun Fashion Brides Beauty Truth Design Art Dance Fl",
+      "Romantic"
+     ]
+    },
+    {
+     "fontFamily": "\"Times New Roman\"",
+     "fontSize": "16px",
+     "fontWeight": "400",
+     "lineHeight": "normal",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(0, 0, 0)",
+     "textAlign": "start",
+     "count": 13,
+     "samples": [
+      "Home Style Romantic Fun Fashion Brides Beauty Truth Design A",
+      "Home Style Romantic Fun Fashion Brides Beauty Truth Design A"
+     ]
+    },
+    {
+     "fontFamily": "Amita, cursive",
+     "fontSize": "16px",
+     "fontWeight": "400",
+     "lineHeight": "28.8px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(0, 0, 0)",
+     "textAlign": "right",
+     "count": 9,
+     "samples": [
+      "Home",
+      "Style Romantic Fun Fashion Brides Beauty Truth Design Art Da"
+     ]
+    },
+    {
+     "fontFamily": "Amita, cursive",
+     "fontSize": "16px",
+     "fontWeight": "400",
+     "lineHeight": "28.8px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(0, 0, 0)",
+     "textAlign": "start",
+     "count": 9,
+     "samples": [
+      "Home",
+      "Style Romantic Fun Fashion Brides Beauty Truth Design Art Da"
+     ]
+    },
+    {
+     "fontFamily": "\"Times New Roman\"",
+     "fontSize": "16px",
+     "fontWeight": "400",
+     "lineHeight": "32px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(0, 0, 0)",
+     "textAlign": "center",
+     "count": 9,
+     "samples": [
+      "Follow me on Instagram",
+      "Follow me on Instagram"
+     ]
+    },
+    {
+     "fontFamily": "Yantramanav, sans-serif",
+     "fontSize": "15px",
+     "fontWeight": "400",
+     "lineHeight": "normal",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(158, 158, 158)",
+     "textAlign": "start",
+     "count": 3,
+     "samples": [
+      "© Ori Chayun Photography",
+      "© Ori Chayun Photography"
+     ]
+    }
+   ]
+  }
+ ],
+ "grids": [],
+ "imageGrid": {
+  "tileCount": 78,
+  "columns": 3,
+  "columnX": [
+   8,
+   484,
+   964
+  ],
+  "columnWidth": 471,
+  "horizontalGap": 9,
+  "verticalGap": 7,
+  "masonry": true,
+  "distinctHeights": 15,
+  "orientationMix": {
+   "landscape": 56,
+   "square-ish": 2,
+   "portrait": 20
+  },
+  "topAspectRatios": [
+   {
+    "value": 1.5,
+    "count": 51
+   },
+   {
+    "value": 0.67,
+    "count": 16
+   },
+   {
+    "value": 1.56,
+    "count": 2
+   },
+   {
+    "value": 1.01,
+    "count": 1
+   },
+   {
+    "value": 0.8,
+    "count": 1
+   },
+   {
+    "value": 0.56,
+    "count": 1
+   }
+  ],
+  "objectFit": [
+   "contain",
+   "fill",
+   "cover"
+  ],
+  "firstRowY": 18
+ },
+ "spacing": [
+  {
+   "value": "7px",
+   "count": 85
+  },
+  {
+   "value": "10px",
+   "count": 31
+  },
+  {
+   "value": "43px",
+   "count": 18
+  },
+  {
+   "value": "5px",
+   "count": 11
+  },
+  {
+   "value": "26px",
+   "count": 9
+  },
+  {
+   "value": "11px",
+   "count": 8
+  },
+  {
+   "value": "20px",
+   "count": 8
+  },
+  {
+   "value": "17px",
+   "count": 4
+  },
+  {
+   "value": "30px",
+   "count": 3
+  },
+  {
+   "value": "22px",
+   "count": 3
+  },
+  {
+   "value": "12px",
+   "count": 2
+  },
+  {
+   "value": "135px",
+   "count": 2
+  },
+  {
+   "value": "18px",
+   "count": 2
+  },
+  {
+   "value": "19px",
+   "count": 2
+  },
+  {
+   "value": "36px",
+   "count": 2
+  },
+  {
+   "value": "16px",
+   "count": 2
+  },
+  {
+   "value": "28px",
+   "count": 1
+  },
+  {
+   "value": "14px",
+   "count": 1
+  },
+  {
+   "value": "29px",
+   "count": 1
+  },
+  {
+   "value": "27px",
+   "count": 1
+  }
+ ],
+ "borderRadius": [
+  {
+   "value": "5px",
+   "count": 76
+  },
+  {
+   "value": "50%",
+   "count": 2
+  },
+  {
+   "value": "3px",
+   "count": 1
+  }
+ ],
+ "motion": {
+  "transitions": [
+   {
+    "value": "all 0.25s ease-in-out 0s",
+    "count": 86
+   },
+   {
+    "value": "transform 0.3s ease-in-out 0s",
+    "count": 7
+   },
+   {
+    "value": "all 0.5s ease-in-out 0s",
+    "count": 2
+   },
+   {
+    "value": "all 0.8s ease 0s",
+    "count": 2
+   },
+   {
+    "value": "transform 0.5s ease 0s",
+    "count": 2
+   },
+   {
+    "value": "all 0.3s ease 0s",
+    "count": 2
+   },
+   {
+    "value": "opacity 0.25s ease 0s",
+    "count": 1
+   },
+   {
+    "value": "all 0.5s ease 0s",
+    "count": 1
+   }
+  ],
+  "animations": [],
+  "transforms": [
+   {
+    "value": "matrix(1, 0, 0, 1, 0, 0)",
+    "count": 2
+   }
+  ],
+  "keyframes": []
+ },
+ "mediaQueries": [
+  {
+   "value": "screen and (max-width: 767px)",
+   "count": 1
+  },
+  {
+   "value": "screen and (max-width: 1024px)",
+   "count": 1
+  }
+ ],
+ "blockedSheets": [
+  "https://px-themeassets.pixpa.com/assets/banner-css/42531/636907.css?id=1784299245",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/js/swipper/swiper-bundle.min.css",
+  "https://fonts.googleapis.com/css?family=Frank%20Ruhl%20Libre:400|Yantramanav:400|Frank%20Ruhl%20Libre:300|Amita:400|Alice:300&display=swap",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/mixcss.css?id=e484bbc11785a6a1bfdf6e981832691e",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/common.css?id=42aec0ff4a852f5f57e752a3fa72865c",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/light-gallery-custom.css?id=e53da6b0a64350ddd1b0ade03861d79e",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/themesv2.css?id=33c9fce290d274635a97489a7b272fcc",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/vendor/pixpalg_all_v2.css?id=5468c8f2f955e279c00000781b769d80",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/custom-page-v2/assets/minimalist-blocks/variable.css",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/photo-gallery.css?id=deed9831f88bad3688bc378de65ccab6",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/slideshow.css?id=7696b732c136e87744696990caea2c81",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/vendor/jquery.Jcrop.css?id=d368b750e4c820ca3863878889ec737b",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/store.css?id=57dfcc0c0599e35b8aea22fef8b7d103",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/proofing.css?id=80a7480624114a846c21c76cd172962a",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/builder_lists.css?id=c47792f8d9aa788766e8e4b474248c40",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/cover-design.css?id=21fe432c3a391c2418bca462feb44dcf",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/old_custom_page_assets.css?id=7ae28fb7f2c6653e741802e77e8567c6",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/custom-page.css?id=b6d83829e3e9231143bb54d20debf841",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/instagram.css?id=abc7a299d05b2a520d825fa45f089e6b",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/extended-footer.css?id=daf30ebe910ae34d728713faffafc59a"
+ ],
+ "containerMaxWidths": [
+  {
+   "value": "450px",
+   "count": 1
+  }
+ ],
+ "direction": {
+  "rtlSamples": [],
+  "ltrSamples": [
+   {
+    "tag": "body",
+    "text": "//pinterest script",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "start",
+    "unicodeBidi": "normal",
+    "fontFamily": "\"Times New Roman\"",
+    "fontSize": "16px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "p",
+    "text": "This website uses cookies to ensure you get the be",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "start",
+    "unicodeBidi": "isolate",
+    "fontFamily": "\"Frank Ruhl Libre\", serif",
+    "fontSize": "14px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "div",
+    "text": "BUY THIS IMAGE",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "start",
+    "unicodeBidi": "isolate",
+    "fontFamily": "\"Open Sans\", sans-serif",
+    "fontSize": "14px",
+    "fontWeight": "600"
+   },
+   {
+    "tag": "button",
+    "text": "view cart ()",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "center",
+    "unicodeBidi": "normal",
+    "fontFamily": "Arial",
+    "fontSize": "13px",
+    "fontWeight": "600"
+   },
+   {
+    "tag": "span",
+    "text": "0",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "center",
+    "unicodeBidi": "normal",
+    "fontFamily": "Arial",
+    "fontSize": "13px",
+    "fontWeight": "600"
+   },
+   {
+    "tag": "div",
+    "text": "Product Info",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "start",
+    "unicodeBidi": "isolate",
+    "fontFamily": "\"Open Sans\", sans-serif",
+    "fontSize": "14px",
+    "fontWeight": "600"
+   },
+   {
+    "tag": "a",
+    "text": "Home",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "right",
+    "unicodeBidi": "normal",
+    "fontFamily": "Amita, cursive",
+    "fontSize": "22px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "a",
+    "text": "Style",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "right",
+    "unicodeBidi": "normal",
+    "fontFamily": "Amita, cursive",
+    "fontSize": "22px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "a",
+    "text": "Romantic",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "left",
+    "unicodeBidi": "normal",
+    "fontFamily": "Amita, cursive",
+    "fontSize": "17px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "a",
+    "text": "Fun",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "left",
+    "unicodeBidi": "normal",
+    "fontFamily": "Amita, cursive",
+    "fontSize": "17px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "a",
+    "text": "Fashion",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "left",
+    "unicodeBidi": "normal",
+    "fontFamily": "Amita, cursive",
+    "fontSize": "17px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "a",
+    "text": "Brides",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "left",
+    "unicodeBidi": "normal",
+    "fontFamily": "Amita, cursive",
+    "fontSize": "17px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "a",
+    "text": "Beauty",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "left",
+    "unicodeBidi": "normal",
+    "fontFamily": "Amita, cursive",
+    "fontSize": "17px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "a",
+    "text": "Truth",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "left",
+    "unicodeBidi": "normal",
+    "fontFamily": "Amita, cursive",
+    "fontSize": "17px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "a",
+    "text": "Design",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "left",
+    "unicodeBidi": "normal",
+    "fontFamily": "Amita, cursive",
+    "fontSize": "17px",
+    "fontWeight": "400"
+   }
+  ],
+  "dirAttributes": [],
+  "hasRtlText": false
+ },
+ "images": [
+  {
+   "w": 250,
+   "h": 160,
+   "ratio": 1.56,
+   "objectFit": "contain",
+   "loading": "auto",
+   "natural": "0x0",
+   "alt": "",
+   "src": "https://www.orichayun.com/galleries/fun"
+  },
+  {
+   "w": 106,
+   "h": 105,
+   "ratio": 1.01,
+   "objectFit": "fill",
+   "loading": "auto",
+   "natural": "661x654",
+   "alt": "Ori Chayun Wedding Photography",
+   "src": "https://px-web-images-v2.pixpa.com/x3uJc90wO9b4okOPdkOlpAavsd0Jivl0lfYuyJ0cqSY/rs:fit:1000:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 588,
+   "ratio": 0.8,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x1875",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/iekzD2VlhThBhyj6FXVWCVcizNFqPBtILOKFBMArwHU/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 313,
+   "ratio": 1.5,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x1000",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/MoweBAZcgRbdvQ-c1lMqyiYA6SXfKGdeJVGrTM0HmSo/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 705,
+   "ratio": 0.67,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x2250",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/832L_4pRuC_lkqHGTHVUT_t9lI72TOEXbwtb43T1nwU/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 313,
+   "ratio": 1.5,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x1000",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/h9ApKLemJiTpSoW6ab2AJNhlmidwHnsxKSM9w8hDaUM/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 313,
+   "ratio": 1.5,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x1000",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/tgkgnXF3PqZmuRt5nr5z0Eh1xkDs1EV6bBY8yHJLrFc/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 705,
+   "ratio": 0.67,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x2249",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/bCSWboyBlkF42dKV_0-161rQFosvjkue2ayCqNw5vJE/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 705,
+   "ratio": 0.67,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x2250",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/7s2YXWdrXd1njtMr0rjg5ICGr-D1QWPVTi4ZGSkHKlo/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 313,
+   "ratio": 1.5,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x1000",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/jEb3zEIPht5gPIKRIImBW_nRJBg8bxvhWsEkaeQ0OPo/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 313,
+   "ratio": 1.5,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x1000",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/fKcvXnX_sHwL9FN6gr9Jv9Cfh6YPfxXmGsba3ReSZHs/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 313,
+   "ratio": 1.5,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x1000",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/aE9Cr_Lx-nUDjYHC8lw45J96dkNveP7rnX60kvMGQF4/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 313,
+   "ratio": 1.5,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x1000",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/GjsFMHZo8dsj9zLcVA0Jo31_BRxOV_iJ6E-b9T2IGYQ/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 705,
+   "ratio": 0.67,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x2250",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/TMu3J-Who_PU5aOQkAXZNOV9fFqSpmU7pkynZoiK2pM/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 313,
+   "ratio": 1.5,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x1000",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/pEFTtpa3yhaZ_j_q7v6tnROy6zgXzRWuLAVBrvx2xA8/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 313,
+   "ratio": 1.5,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x1000",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/LF7X6UGMNrZ9NsNIa6z-52XgjuRFdnmOU2lwY-FmcKo/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 313,
+   "ratio": 1.5,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x1000",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/_0MVkpbKi7rsz3Vcchks8sC2KxAYodgoQnCl6bPnuJM/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 313,
+   "ratio": 1.5,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x1000",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/X-rxzUm2O4CLSRjkdSpmCQYT6xA13qObHRj3FK46uAI/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 313,
+   "ratio": 1.5,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x1000",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/1Qbf_kA-qVWvMGP6O4tRyL1L0jaR-7CsIj0Fi_xAlzc/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 705,
+   "ratio": 0.67,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x2248",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/AHndttsst6WWx6nR1wCs71yXBecYKOnnflH2ATA1vV4/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 836,
+   "ratio": 0.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x2667",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/709Cp4_tMMk2c1EwHpx3PuKSNexj3J2qjwvbk2M13uo/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 313,
+   "ratio": 1.5,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x1000",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/dKf_r7zFXk2JYgv0SWhw7-o5iz-cKRh2Jd9dJLUbv2w/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 705,
+   "ratio": 0.67,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x2249",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/hq1eG6ypGRw1vlxpjrd1iO3ANZajDsP1pFv0w-qlP-U/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 705,
+   "ratio": 0.67,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x2249",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/T3EADn4NIcV9enwjgmVp7YMR7uLge0d1GvojpivIdfs/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 313,
+   "ratio": 1.5,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1400x933",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/pq27lx5HAdk8A2rynG3qNlhn5GdDi9BPi5N9q7lsRjk/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 314,
+   "ratio": 1.5,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x1001",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/Q4nWSzjYmygpWTtueFDPJ5zC2t9rWgHwBv0OVrwe1ro/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 313,
+   "ratio": 1.5,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x1000",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/2oUAzZvG5UceMB1vATkz48ERXkYEKyBpImIXaRVluAI/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 705,
+   "ratio": 0.67,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x2250",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/kfWZelpQr6T64C8OrQDRTZfS8e1mkrQ54i1RIgHyyws/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 679,
+   "ratio": 0.69,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x2167",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/h_3zdRGA91u_YPTWvKzyMU9AlB3C6Yi8y-2R9J0ECH0/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 705,
+   "ratio": 0.67,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x2250",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/XEaxJwWiWDjdENijK7vW1XAH2ghBdG6R9NS26A6A4FY/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 313,
+   "ratio": 1.5,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x1000",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/pIyP-gZ3VgKlj7Xyt5WJlKflwHwQZIjLmAUyUZPerMQ/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 313,
+   "ratio": 1.5,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x1000",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/abB8Kv46WB4IkPnSfY1Si4tCax9zolPo1BVzOjcPfAE/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 313,
+   "ratio": 1.5,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x1000",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/CUlPI7QyqGs8enMmc2_Lv9u37HE2uz3fnyrqRCsDvgI/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 313,
+   "ratio": 1.5,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x1000",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/tWy13sx7rvyheUCE2C5FiBecgSrjUScwKmePlsZ6VEM/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 302,
+   "ratio": 1.56,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x963",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/AOmdFMTWlKxw0IwhgbG4NTZHXWM6vrruenQeiqRddr0/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 313,
+   "ratio": 1.5,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x1000",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/w0H40z3UYCcmFU10P4yMkKArN13oVOP6PZ7vrYae1RI/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 313,
+   "ratio": 1.5,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x1000",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/gxB0BoulhfCe8wqsywI62SA-uLk5O4LvefBw_7BQQaI/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 313,
+   "ratio": 1.5,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x1000",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/U6GyszQYJD-1UVKw3a4bFGvkZKqi0MYuudZHoeqUifc/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 313,
+   "ratio": 1.5,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x1000",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/G57Q9R9cX1lF9PYhmS_h97IGgVYsxMhHs4gDMWAvJms/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 705,
+   "ratio": 0.67,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x2250",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/UEO6Ef74b996nLbut-aAB6OIbvcS-eu1_HXGFurxGO0/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 705,
+   "ratio": 0.67,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x2250",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/aNhwMnKc65RtSxeqoTyzbDsbrUXKGuacrSfPb23wtmo/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 313,
+   "ratio": 1.5,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x1000",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/R9qtDxkd9sfF6wFDbCulDnSPYRhoz-gxrBm7Kw3QQF4/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 313,
+   "ratio": 1.5,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x1000",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/teGl2HjxsziIszh2fqohPO6VRND0Qff6CZEHH1XzR3E/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 313,
+   "ratio": 1.5,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x1000",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/RGSIi3VQY0xc7jaKg8t2J-tW9fQRRfaJLbToh8K9uXw/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 323,
+   "ratio": 1.46,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x1031",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/3Dr__AI8l4w3ovNJi_oC_tmUC2IgcE5mFXfbC2tyk9A/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 313,
+   "ratio": 1.5,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x1000",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/WS8BdvP6_zv0lV6VEvKzaGEuYZN33p65mcDVu9bUBuY/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 705,
+   "ratio": 0.67,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x2250",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/N9bvq8rLOHrt3_i4cGjZzFbXIQtwEwL-hOgXmaVwBUo/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 705,
+   "ratio": 0.67,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x2250",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/wqDP7X3WtEuheXiAeI8vC3iZU2w-V9Ih8IYnRFOpHbQ/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 313,
+   "ratio": 1.5,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x1000",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/mZbuOxWkwjjaSLfNBR2RM4xzcAlqix8AbmXLgSGAXrc/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 705,
+   "ratio": 0.67,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x2250",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/4SbXJ-0f5OmEVAl6s0L2G9FwdO3UXDPzBv00eW6nmpY/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 313,
+   "ratio": 1.5,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x1000",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/3oxUH0pVTm-6IecgoUOBiixNZHE12M0zR7rHQzP4EUU/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 313,
+   "ratio": 1.5,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1400x933",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/tglw-5mDSPRwDNVQWiROYdb2MdydcW-fxX_hn3DT77s/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 313,
+   "ratio": 1.5,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x1000",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/3nSZ8hFLGGKzKLlReKnMj3bRNqY6KSPHGWCn0jURLKk/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 313,
+   "ratio": 1.5,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x1000",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/3Vy3iqPtZaDJaytWbyFRduI7xquOEPYqM5Tv0q4_gbw/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 313,
+   "ratio": 1.5,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x1000",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/hJ-e3bIoLabadj6VB3y03nLAfdYzvCE5QTfBjKutsaA/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 313,
+   "ratio": 1.5,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1400x933",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/7AHqdi5ePVU9R33g2Gt125sivCyIfRLZlSKlJX4ifMs/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 313,
+   "ratio": 1.5,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x1000",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/9HubJ9MESME3ofJpDDZiX9cIwbMeMp_lk0gtXJ5_d0U/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 407,
+   "ratio": 1.16,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x1300",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/m1i8MK4moU-Lg55RhI8bXqYWAUdp2xPa3TKJ7puMZLE/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 313,
+   "ratio": 1.5,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x1000",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/pGLVnDH1eoDjMBrv8ZMJHHunfJYt2MB8hy4loJWRcpU/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 471,
+   "h": 271,
+   "ratio": 1.74,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "1500x864",
+   "alt": "",
+   "src": "https://px-web-images-v2.pixpa.com/fn0sTuM_ym--KsCiGOCJ1rDm_xXsfE2G_gA4LRldkmQ/rs:fit:1500:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  }
+ ],
+ "imageCount": 82,
+ "outline": [
+  {
+   "tag": "header",
+   "id": "header",
+   "class": "inside_header-0 4    full-header js-full-header header header-scale u42531-header-bg-color",
+   "height": 141,
+   "top": 0,
+   "background": "rgb(254, 250, 250)",
+   "paddingTop": "0px",
+   "paddingBottom": "0px",
+   "imgCount": 2,
+   "text": "Home Style Romantic Fun Fashion Brides Beauty Truth Design Art Dance Floor Lake Como Wedding Judean Desert Elopement Jaffa Hotel by Ori Chay"
+  },
+  {
+   "tag": "header",
+   "id": "header",
+   "class": "inside_header-0 full-header js-full-header header header-scale u42531-header-bg-color head",
+   "height": 81,
+   "top": -241,
+   "background": "rgb(254, 250, 250)",
+   "paddingTop": "0px",
+   "paddingBottom": "0px",
+   "imgCount": 0,
+   "text": "Home Style Romantic Fun Fashion Brides Beauty Truth Design Art Dance Floor Lake Como Wedding Judean Desert Elopement Jaffa Hotel by Ori Chay"
+  },
+  {
+   "tag": "nav",
+   "id": "",
+   "class": "header-nav-list",
+   "height": 66,
+   "top": -233,
+   "background": "rgba(0, 0, 0, 0)",
+   "paddingTop": "0px",
+   "paddingBottom": "0px",
+   "imgCount": 0,
+   "text": "Home Style Romantic Fun Fashion Brides Beauty Truth Design Art Dance Floor Lake Como Wedding Judean Desert Elopement Jaffa Hotel by Ori Chay"
+  },
+  {
+   "tag": "div",
+   "id": "",
+   "class": "is-section is-section-social is-section-everywhere is-section-fit2width-container is-align",
+   "height": 297,
+   "top": 10999,
+   "background": "rgba(255, 255, 255, 0)",
+   "paddingTop": "0px",
+   "paddingBottom": "0px",
+   "imgCount": 0,
+   "text": "Follow me on Instagram"
+  }
+ ],
+ "headings": [
+  {
+   "level": "H3",
+   "text": "Follow me on Instagram"
+  }
+ ],
+ "links": [
+  {
+   "text": "",
+   "href": "https://www.orichayun.com/getjsassets"
+  },
+  {
+   "text": "Continue Shopping",
+   "href": "/store"
+  },
+  {
+   "text": "",
+   "href": "/"
+  },
+  {
+   "text": "Home",
+   "href": "/home"
+  },
+  {
+   "text": "Romantic",
+   "href": "/"
+  },
+  {
+   "text": "Fun",
+   "href": "/galleries/fun"
+  },
+  {
+   "text": "Fashion",
+   "href": "/galleries/fashion"
+  },
+  {
+   "text": "Brides",
+   "href": "/galleries/brides"
+  },
+  {
+   "text": "Beauty",
+   "href": "/galleries/beauty"
+  },
+  {
+   "text": "Truth",
+   "href": "/galleries/truth"
+  },
+  {
+   "text": "Design",
+   "href": "/galleries/style"
+  },
+  {
+   "text": "Art",
+   "href": "/galleries/art"
+  },
+  {
+   "text": "Dance Floor",
+   "href": "/galleries/dancefloor"
+  },
+  {
+   "text": "Lake Como Wedding",
+   "href": "/galleries/lake-como-wedding"
+  },
+  {
+   "text": "Judean Desert Elopement",
+   "href": "/galleries/judean-desert-elopement"
+  },
+  {
+   "text": "Jaffa Hotel by Ori Chayun",
+   "href": "/galleries/jaffa"
+  },
+  {
+   "text": "Wedding Gallery",
+   "href": "/gallery"
+  },
+  {
+   "text": "Vogue",
+   "href": "/vogue"
+  },
+  {
+   "text": "B&W",
+   "href": "/bw"
+  },
+  {
+   "text": "Pregnancy",
+   "href": "/pregnancy"
+  },
+  {
+   "text": "Instagram",
+   "href": "/instagram"
+  },
+  {
+   "text": "Reviews",
+   "href": "/reviews"
+  },
+  {
+   "text": "Contact",
+   "href": "/contact"
+  },
+  {
+   "text": "",
+   "href": "https://wa.me/972548169111"
+  },
+  {
+   "text": "",
+   "href": "https://www.facebook.com/orichayunwedding"
+  },
+  {
+   "text": "",
+   "href": "https://www.instagram.com/orichayun"
+  },
+  {
+   "text": "",
+   "href": "/"
+  },
+  {
+   "text": "Home",
+   "href": "/home"
+  },
+  {
+   "text": "Romantic",
+   "href": "/"
+  },
+  {
+   "text": "Fun",
+   "href": "/galleries/fun"
+  },
+  {
+   "text": "Fashion",
+   "href": "/galleries/fashion"
+  },
+  {
+   "text": "Brides",
+   "href": "/galleries/brides"
+  },
+  {
+   "text": "Beauty",
+   "href": "/galleries/beauty"
+  },
+  {
+   "text": "Truth",
+   "href": "/galleries/truth"
+  },
+  {
+   "text": "Design",
+   "href": "/galleries/style"
+  },
+  {
+   "text": "Art",
+   "href": "/galleries/art"
+  },
+  {
+   "text": "Dance Floor",
+   "href": "/galleries/dancefloor"
+  },
+  {
+   "text": "Lake Como Wedding",
+   "href": "/galleries/lake-como-wedding"
+  },
+  {
+   "text": "Judean Desert Elopement",
+   "href": "/galleries/judean-desert-elopement"
+  },
+  {
+   "text": "Jaffa Hotel by Ori Chayun",
+   "href": "/galleries/jaffa"
+  },
+  {
+   "text": "Wedding Gallery",
+   "href": "/gallery"
+  },
+  {
+   "text": "Vogue",
+   "href": "/vogue"
+  },
+  {
+   "text": "B&W",
+   "href": "/bw"
+  },
+  {
+   "text": "Pregnancy",
+   "href": "/pregnancy"
+  },
+  {
+   "text": "Instagram",
+   "href": "/instagram"
+  },
+  {
+   "text": "Reviews",
+   "href": "/reviews"
+  },
+  {
+   "text": "Contact",
+   "href": "/contact"
+  },
+  {
+   "text": "",
+   "href": "https://wa.me/972548169111"
+  },
+  {
+   "text": "",
+   "href": "https://www.facebook.com/orichayunwedding"
+  },
+  {
+   "text": "",
+   "href": "https://www.instagram.com/orichayun"
+  },
+  {
+   "text": "Home",
+   "href": "/home"
+  },
+  {
+   "text": "Romantic",
+   "href": "/"
+  },
+  {
+   "text": "Fun",
+   "href": "/galleries/fun"
+  },
+  {
+   "text": "Fashion",
+   "href": "/galleries/fashion"
+  },
+  {
+   "text": "Brides",
+   "href": "/galleries/brides"
+  },
+  {
+   "text": "Beauty",
+   "href": "/galleries/beauty"
+  },
+  {
+   "text": "Truth",
+   "href": "/galleries/truth"
+  },
+  {
+   "text": "Design",
+   "href": "/galleries/style"
+  },
+  {
+   "text": "Art",
+   "href": "/galleries/art"
+  },
+  {
+   "text": "Dance Floor",
+   "href": "/galleries/dancefloor"
+  },
+  {
+   "text": "Lake Como Wedding",
+   "href": "/galleries/lake-como-wedding"
+  },
+  {
+   "text": "Judean Desert Elopement",
+   "href": "/galleries/judean-desert-elopement"
+  },
+  {
+   "text": "Jaffa Hotel by Ori Chayun",
+   "href": "/galleries/jaffa"
+  },
+  {
+   "text": "Wedding Gallery",
+   "href": "/gallery"
+  },
+  {
+   "text": "Vogue",
+   "href": "/vogue"
+  },
+  {
+   "text": "B&W",
+   "href": "/bw"
+  },
+  {
+   "text": "Pregnancy",
+   "href": "/pregnancy"
+  },
+  {
+   "text": "Instagram",
+   "href": "/instagram"
+  },
+  {
+   "text": "Reviews",
+   "href": "/reviews"
+  },
+  {
+   "text": "Contact",
+   "href": "/contact"
+  },
+  {
+   "text": "",
+   "href": "https://wa.me/972548169111"
+  },
+  {
+   "text": "",
+   "href": "https://www.facebook.com/orichayunwedding"
+  },
+  {
+   "text": "",
+   "href": "https://www.instagram.com/orichayun"
+  },
+  {
+   "text": "",
+   "href": "https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.orichayun.com%2Fgalleries%2Ffun"
+  },
+  {
+   "text": "",
+   "href": "https://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.orichayun.com%2Fgalleries%2Ffun"
+  },
+  {
+   "text": "",
+   "href": "https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.orichayun.com%2Fgalleries%2Ffun"
+  },
+  {
+   "text": "",
+   "href": "https://www.tumblr.com/widgets/share/tool?posttype=link&canonicalUrl=http%3A%2F%2Fwww.orichayun.com%2Fgalleries%2Ffun"
+  },
+  {
+   "text": "",
+   "href": "https://api.whatsapp.com/send?phone=&text=http%3A%2F%2Fwww.orichayun.com%2Fgalleries%2Ffun"
+  },
+  {
+   "text": "",
+   "href": "mailto:?body=http%3A%2F%2Fwww.orichayun.com%2Fgalleries%2Ffun"
+  },
+  {
+   "text": "",
+   "href": "https://wa.me/972548169111?&text=Hi+there%21+This+is+an+inquiry+from+the+WhatsApp+Chat+on+your+website."
+  }
+ ],
+ "cssBreakpoints": {
+  "sheets": 29,
+  "conditions": [
+   {
+    "value": "screen and (max-width:767px)",
+    "count": 587
+   },
+   {
+    "value": "screen and (max-width:1024px)",
+    "count": 194
+   },
+   {
+    "value": "screen and (max-width:768px)",
+    "count": 167
+   },
+   {
+    "value": "screen and (max-width:640px)",
+    "count": 58
+   },
+   {
+    "value": "screen and (max-width:980px)",
+    "count": 44
+   },
+   {
+    "value": "screen and (min-width:768px)",
+    "count": 40
+   },
+   {
+    "value": "screen and (max-width:425px)",
+    "count": 21
+   },
+   {
+    "value": "screen and (min-width:1025px)",
+    "count": 17
+   },
+   {
+    "value": "screen and (min-width:767px)",
+    "count": 13
+   },
+   {
+    "value": "screen and (min-width:1024px)",
+    "count": 11
+   },
+   {
+    "value": "screen and (max-width:480px)",
+    "count": 10
+   },
+   {
+    "value": "screen and (max-width:680px)",
+    "count": 10
+   },
+   {
+    "value": "screen and (min-width:768px) and (max-width:767px)",
+    "count": 9
+   },
+   {
+    "value": "screen and (min-width:768px) and (max-width:1024px)",
+    "count": 8
+   },
+   {
+    "value": "screen and (min-width:769px)",
+    "count": 7
+   },
+   {
+    "value": "screen and (max-width:1199px)",
+    "count": 7
+   },
+   {
+    "value": "screen and (max-width:500px)",
+    "count": 6
+   },
+   {
+    "value": "screen and (min-width:1024px) and (max-width:1366px)",
+    "count": 6
+   },
+   {
+    "value": "all and (max-width:1024px)",
+    "count": 6
+   },
+   {
+    "value": "screen and (max-width:400px)",
+    "count": 5
+   },
+   {
+    "value": "screen and (max-width:960px)",
+    "count": 5
+   },
+   {
+    "value": "all and (max-width:540px)",
+    "count": 5
+   },
+   {
+    "value": "all and (max-width:960px)",
+    "count": 5
+   },
+   {
+    "value": "(min-width:768px)",
+    "count": 4
+   },
+   {
+    "value": "screen and (max-width:1023px)",
+    "count": 4
+   },
+   {
+    "value": "screen and (max-width:1024px) and (orientation:landscape)",
+    "count": 4
+   },
+   {
+    "value": "screen and (max-width:1280px)",
+    "count": 4
+   },
+   {
+    "value": "screen and (min-width:1900px)",
+    "count": 3
+   },
+   {
+    "value": "screen and (max-width:990px)",
+    "count": 3
+   },
+   {
+    "value": "",
+    "count": 3
+   },
+   {
+    "value": "only screen and (max-width:1024px)",
+    "count": 3
+   },
+   {
+    "value": "screen and (min-width:1199px)",
+    "count": 3
+   },
+   {
+    "value": "only screen and (max-width:1024px) and (orientation:landscape)",
+    "count": 3
+   },
+   {
+    "value": "all and (max-width:767px)",
+    "count": 3
+   },
+   {
+    "value": "screen and (max-width:767px) and (orientation:landscape)",
+    "count": 2
+   },
+   {
+    "value": "screen and (max-width:320px)",
+    "count": 2
+   },
+   {
+    "value": "screen and (max-width:769px)",
+    "count": 2
+   },
+   {
+    "value": "screen and (max-width:1440px)",
+    "count": 2
+   },
+   {
+    "value": "screen and (max-width:768px) and (max-width:1024px)",
+    "count": 2
+   },
+   {
+    "value": "screen and (max-width:1199px) and (max-width:1024px)",
+    "count": 2
+   },
+   {
+    "value": "screen and (max-width:1260px)",
+    "count": 2
+   },
+   {
+    "value": "all and (min-width:1280px)",
+    "count": 2
+   },
+   {
+    "value": "screen and (max-width: 1024px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:767px) and (max-width:767px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:679px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (min-width:680px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (-webkit-min-device-pixel-ratio:0)",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:600px)",
+    "count": 1
+   },
+   {
+    "value": "only screen and (min-device-width:1024px) and (max-device-width:1365px) and (orientation:landscape)",
+    "count": 1
+   },
+   {
+    "value": "screen and (min-width:991px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (min-width:1025px) and (max-width:1200px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (min-width:768px) and (max-width:1200px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (min-width:425px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:800px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:860px)",
+    "count": 1
+   },
+   {
+    "value": "print",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:300px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:991px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:425px),screen and (min-width:425px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (min-width:768px) and (max-width:1199px)",
+    "count": 1
+   }
+  ],
+  "widths": [
+   {
+    "value": "max-width: 767px",
+    "count": 604
+   },
+   {
+    "value": "max-width: 1024px",
+    "count": 224
+   },
+   {
+    "value": "max-width: 768px",
+    "count": 171
+   },
+   {
+    "value": "min-width: 768px",
+    "count": 65
+   },
+   {
+    "value": "max-width: 640px",
+    "count": 60
+   },
+   {
+    "value": "max-width: 980px",
+    "count": 45
+   },
+   {
+    "value": "max-width: 425px",
+    "count": 22
+   },
+   {
+    "value": "min-width: 1025px",
+    "count": 18
+   },
+   {
+    "value": "min-width: 1024px",
+    "count": 17
+   },
+   {
+    "value": "min-width: 767px",
+    "count": 13
+   },
+   {
+    "value": "max-width: 480px",
+    "count": 11
+   },
+   {
+    "value": "max-width: 960px",
+    "count": 10
+   },
+   {
+    "value": "max-width: 1199px",
+    "count": 10
+   },
+   {
+    "value": "max-width: 680px",
+    "count": 10
+   },
+   {
+    "value": "min-width: 769px",
+    "count": 7
+   },
+   {
+    "value": "max-width: 500px",
+    "count": 6
+   },
+   {
+    "value": "max-width: 1366px",
+    "count": 6
+   },
+   {
+    "value": "max-width: 400px",
+    "count": 5
+   },
+   {
+    "value": "max-width: 540px",
+    "count": 5
+   },
+   {
+    "value": "max-width: 1280px",
+    "count": 5
+   },
+   {
+    "value": "max-width: 1023px",
+    "count": 4
+   },
+   {
+    "value": "max-width: 1200px",
+    "count": 4
+   },
+   {
+    "value": "min-width: 1900px",
+    "count": 3
+   },
+   {
+    "value": "max-width: 990px",
+    "count": 3
+   },
+   {
+    "value": "min-width: 1199px",
+    "count": 3
+   },
+   {
+    "value": "max-width: 320px",
+    "count": 2
+   },
+   {
+    "value": "min-width: 425px",
+    "count": 2
+   },
+   {
+    "value": "max-width: 769px",
+    "count": 2
+   },
+   {
+    "value": "max-width: 1440px",
+    "count": 2
+   },
+   {
+    "value": "max-width: 1260px",
+    "count": 2
+   },
+   {
+    "value": "min-width: 1280px",
+    "count": 2
+   },
+   {
+    "value": "max-width: 679px",
+    "count": 1
+   },
+   {
+    "value": "min-width: 680px",
+    "count": 1
+   },
+   {
+    "value": "max-width: 600px",
+    "count": 1
+   },
+   {
+    "value": "min-width: 991px",
+    "count": 1
+   },
+   {
+    "value": "max-width: 800px",
+    "count": 1
+   },
+   {
+    "value": "max-width: 860px",
+    "count": 1
+   },
+   {
+    "value": "max-width: 300px",
+    "count": 1
+   },
+   {
+    "value": "max-width: 991px",
+    "count": 1
+   },
+   {
+    "value": "min-width: 992px",
+    "count": 1
+   }
+  ]
+ }
+}

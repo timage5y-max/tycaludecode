@@ -1,0 +1,1689 @@
+{
+ "url": "https://www.orichayun.com/contact",
+ "title": "Ori Chayun Wedding Photography | Contact",
+ "htmlLang": "en",
+ "htmlDir": "(unset)",
+ "bodyDirection": "ltr",
+ "bodyBackground": "rgb(254, 250, 250)",
+ "bodyFontFamily": "\"Times New Roman\"",
+ "viewport": {
+  "width": 390,
+  "height": 844
+ },
+ "scrollHeight": 1166,
+ "elementCount": 1030,
+ "visibleCount": 129,
+ "colors": {
+  "background": [
+   {
+    "value": "rgb(255, 255, 255)",
+    "count": 9
+   },
+   {
+    "value": "rgb(254, 250, 250)",
+    "count": 3
+   },
+   {
+    "value": "rgb(0, 0, 0)",
+    "count": 3
+   },
+   {
+    "value": "rgba(255, 255, 255, 0)",
+    "count": 2
+   },
+   {
+    "value": "rgb(244, 244, 244)",
+    "count": 1
+   },
+   {
+    "value": "rgb(43, 43, 43)",
+    "count": 1
+   }
+  ],
+  "backgroundByArea": [
+   {
+    "value": "rgb(254, 250, 250)",
+    "px": 745143
+   },
+   {
+    "value": "rgb(255, 255, 255)",
+    "px": 578318
+   },
+   {
+    "value": "rgba(255, 255, 255, 0)",
+    "px": 210021
+   },
+   {
+    "value": "rgb(0, 0, 0)",
+    "px": 144636
+   },
+   {
+    "value": "rgb(244, 244, 244)",
+    "px": 26910
+   },
+   {
+    "value": "rgb(43, 43, 43)",
+    "px": 5115
+   }
+  ],
+  "text": [
+   {
+    "value": "rgb(255, 255, 255)",
+    "count": 7
+   },
+   {
+    "value": "rgb(109, 89, 111)",
+    "count": 6
+   },
+   {
+    "value": "rgb(0, 0, 0)",
+    "count": 1
+   },
+   {
+    "value": "rgb(39, 39, 39)",
+    "count": 1
+   },
+   {
+    "value": "rgb(87, 87, 87)",
+    "count": 1
+   },
+   {
+    "value": "rgb(158, 158, 158)",
+    "count": 1
+   }
+  ],
+  "border": [
+   {
+    "value": "rgba(109, 89, 111, 0.2) 1px solid",
+    "count": 24
+   },
+   {
+    "value": "rgba(255, 255, 255, 0.5) 1px solid",
+    "count": 8
+   }
+  ],
+  "gradient": [],
+  "boxShadow": []
+ },
+ "fontFamilies": [
+  {
+   "value": "\"Frank Ruhl Libre\", serif",
+   "count": 10
+  },
+  {
+   "value": "Arial",
+   "count": 2
+  },
+  {
+   "value": "Amita, cursive",
+   "count": 2
+  },
+  {
+   "value": "\"Times New Roman\"",
+   "count": 1
+  },
+  {
+   "value": "\"Open Sans\", sans-serif",
+   "count": 1
+  },
+  {
+   "value": "Yantramanav, sans-serif",
+   "count": 1
+  }
+ ],
+ "fontSizes": [
+  {
+   "value": "16px",
+   "count": 9
+  },
+  {
+   "value": "14px",
+   "count": 2
+  },
+  {
+   "value": "13px",
+   "count": 2
+  },
+  {
+   "value": "40px",
+   "count": 1
+  },
+  {
+   "value": "12.6px",
+   "count": 1
+  },
+  {
+   "value": "25px",
+   "count": 1
+  },
+  {
+   "value": "13.5px",
+   "count": 1
+  }
+ ],
+ "fontWeights": [
+  {
+   "value": "400",
+   "count": 12
+  },
+  {
+   "value": "600",
+   "count": 3
+  },
+  {
+   "value": "700",
+   "count": 2
+  }
+ ],
+ "lineHeights": [
+  {
+   "value": "28.8px",
+   "count": 8
+  },
+  {
+   "value": "normal",
+   "count": 6
+  },
+  {
+   "value": "21px",
+   "count": 1
+  },
+  {
+   "value": "56px",
+   "count": 1
+  },
+  {
+   "value": "35px",
+   "count": 1
+  }
+ ],
+ "letterSpacings": [
+  {
+   "value": "normal",
+   "count": 17
+  }
+ ],
+ "textTransforms": [
+  {
+   "value": "none",
+   "count": 14
+  },
+  {
+   "value": "uppercase",
+   "count": 3
+  }
+ ],
+ "loadedWebFonts": [
+  "Amita normal 400",
+  "Frank Ruhl Libre normal 400",
+  "Yantramanav normal 400"
+ ],
+ "typography": [
+  {
+   "label": "h1",
+   "selector": "h1",
+   "variants": [
+    {
+     "fontFamily": "Amita, cursive",
+     "fontSize": "40px",
+     "fontWeight": "400",
+     "lineHeight": "56px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(255, 255, 255)",
+     "textAlign": "left",
+     "count": 1,
+     "samples": [
+      "Get in Touch"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "h2",
+   "selector": "h2",
+   "variants": []
+  },
+  {
+   "label": "h3",
+   "selector": "h3",
+   "variants": [
+    {
+     "fontFamily": "Amita, cursive",
+     "fontSize": "25px",
+     "fontWeight": "400",
+     "lineHeight": "35px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(109, 89, 111)",
+     "textAlign": "center",
+     "count": 1,
+     "samples": [
+      "Follow me on Instagram"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "h4-h6",
+   "selector": "h4,h5,h6",
+   "variants": []
+  },
+  {
+   "label": "paragraph",
+   "selector": "p",
+   "variants": [
+    {
+     "fontFamily": "\"Frank Ruhl Libre\", serif",
+     "fontSize": "14px",
+     "fontWeight": "400",
+     "lineHeight": "21px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(255, 255, 255)",
+     "textAlign": "start",
+     "count": 1,
+     "samples": [
+      "This website uses cookies to ensure you get the best experie"
+     ]
+    },
+    {
+     "fontFamily": "\"Frank Ruhl Libre\", serif",
+     "fontSize": "16px",
+     "fontWeight": "400",
+     "lineHeight": "28.8px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(255, 255, 255)",
+     "textAlign": "left",
+     "count": 1,
+     "samples": [
+      "Ori Chayun Wedding Photography Cell : 054-8169111 Internatio"
+     ]
+    },
+    {
+     "fontFamily": "Yantramanav, sans-serif",
+     "fontSize": "13.5px",
+     "fontWeight": "400",
+     "lineHeight": "normal",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(158, 158, 158)",
+     "textAlign": "center",
+     "count": 1,
+     "samples": [
+      "© Ori Chayun Photography"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "nav",
+   "selector": "nav a, header a, .navbar a, #navigation a, .menu a, .main-nav a",
+   "variants": []
+  },
+  {
+   "label": "button",
+   "selector": "button, .btn, [class*=\"button\"], a[class*=\"btn\"], input[type=submit]",
+   "variants": [
+    {
+     "fontFamily": "Arial",
+     "fontSize": "13px",
+     "fontWeight": "600",
+     "lineHeight": "normal",
+     "letterSpacing": "normal",
+     "textTransform": "uppercase",
+     "fontStyle": "normal",
+     "color": "rgb(255, 255, 255)",
+     "textAlign": "center",
+     "count": 1,
+     "samples": [
+      "VIEW CART ( 0 )"
+     ]
+    },
+    {
+     "fontFamily": "\"Frank Ruhl Libre\", serif",
+     "fontSize": "16px",
+     "fontWeight": "400",
+     "lineHeight": "28.8px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(109, 89, 111)",
+     "textAlign": "left",
+     "count": 1,
+     "samples": [
+      "Submit"
+     ]
+    },
+    {
+     "fontFamily": "\"Frank Ruhl Libre\", serif",
+     "fontSize": "12.6px",
+     "fontWeight": "400",
+     "lineHeight": "normal",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(255, 255, 255)",
+     "textAlign": "center",
+     "count": 1,
+     "samples": [
+      "Submit"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "form-field",
+   "selector": "input, textarea, select, label",
+   "variants": [
+    {
+     "fontFamily": "\"Frank Ruhl Libre\", serif",
+     "fontSize": "16px",
+     "fontWeight": "400",
+     "lineHeight": "28.8px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(109, 89, 111)",
+     "textAlign": "left",
+     "count": 6,
+     "samples": [
+      "Full name / שמות מלאים *",
+      "*"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "inline",
+   "selector": "div, span, li",
+   "variants": [
+    {
+     "fontFamily": "\"Times New Roman\"",
+     "fontSize": "16px",
+     "fontWeight": "400",
+     "lineHeight": "normal",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(255, 255, 255)",
+     "textAlign": "left",
+     "count": 19,
+     "samples": [
+      "Get in Touch Ori Chayun Wedding Photography Cell : 054-81691",
+      "Get in Touch Ori Chayun Wedding Photography Cell : 054-81691"
+     ]
+    },
+    {
+     "fontFamily": "\"Frank Ruhl Libre\", serif",
+     "fontSize": "16px",
+     "fontWeight": "400",
+     "lineHeight": "28.8px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(109, 89, 111)",
+     "textAlign": "left",
+     "count": 10,
+     "samples": [
+      "Ori Chayun Wedding Photography Cell : 054-8169111 Internatio",
+      "Ori Chayun Wedding Photography Cell : 054-8169111 Internatio"
+     ]
+    },
+    {
+     "fontFamily": "\"Times New Roman\"",
+     "fontSize": "16px",
+     "fontWeight": "400",
+     "lineHeight": "32px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(0, 0, 0)",
+     "textAlign": "center",
+     "count": 9,
+     "samples": [
+      "Follow me on Instagram",
+      "Follow me on Instagram"
+     ]
+    },
+    {
+     "fontFamily": "\"Open Sans\", sans-serif",
+     "fontSize": "13px",
+     "fontWeight": "400",
+     "lineHeight": "normal",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(39, 39, 39)",
+     "textAlign": "start",
+     "count": 2,
+     "samples": [
+      "BUY THIS IMAGE VIEW CART ( 0 )",
+      "BUY THIS IMAGE VIEW CART ( 0 )"
+     ]
+    },
+    {
+     "fontFamily": "Yantramanav, sans-serif",
+     "fontSize": "15px",
+     "fontWeight": "400",
+     "lineHeight": "normal",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(158, 158, 158)",
+     "textAlign": "start",
+     "count": 2,
+     "samples": [
+      "© Ori Chayun Photography",
+      "© Ori Chayun Photography"
+     ]
+    },
+    {
+     "fontFamily": "Yantramanav, sans-serif",
+     "fontSize": "13.5px",
+     "fontWeight": "400",
+     "lineHeight": "normal",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(158, 158, 158)",
+     "textAlign": "center",
+     "count": 2,
+     "samples": [
+      "© Ori Chayun Photography",
+      "© Ori Chayun Photography"
+     ]
+    }
+   ]
+  }
+ ],
+ "grids": [],
+ "spacing": [
+  {
+   "value": "10px",
+   "count": 20
+  },
+  {
+   "value": "16px",
+   "count": 15
+  },
+  {
+   "value": "18px",
+   "count": 12
+  },
+  {
+   "value": "9px",
+   "count": 12
+  },
+  {
+   "value": "11px",
+   "count": 8
+  },
+  {
+   "value": "2px",
+   "count": 8
+  },
+  {
+   "value": "5px",
+   "count": 7
+  },
+  {
+   "value": "25px",
+   "count": 7
+  },
+  {
+   "value": "17px",
+   "count": 4
+  },
+  {
+   "value": "32px",
+   "count": 3
+  },
+  {
+   "value": "6px",
+   "count": 3
+  },
+  {
+   "value": "20px",
+   "count": 2
+  },
+  {
+   "value": "12px",
+   "count": 2
+  },
+  {
+   "value": "60px",
+   "count": 2
+  },
+  {
+   "value": "63px",
+   "count": 2
+  },
+  {
+   "value": "30px",
+   "count": 2
+  },
+  {
+   "value": "34px",
+   "count": 2
+  },
+  {
+   "value": "15px",
+   "count": 1
+  },
+  {
+   "value": "203px",
+   "count": 1
+  },
+  {
+   "value": "14px",
+   "count": 1
+  },
+  {
+   "value": "24px",
+   "count": 1
+  },
+  {
+   "value": "21px",
+   "count": 1
+  }
+ ],
+ "borderRadius": [
+  {
+   "value": "50%",
+   "count": 2
+  },
+  {
+   "value": "3px",
+   "count": 1
+  }
+ ],
+ "motion": {
+  "transitions": [
+   {
+    "value": "all 0.25s ease-in-out 0s",
+    "count": 7
+   },
+   {
+    "value": "all 0.3s ease 0s",
+    "count": 4
+   },
+   {
+    "value": "transform 0.3s ease-in-out 0s",
+    "count": 4
+   },
+   {
+    "value": "opacity 0.25s ease 0s",
+    "count": 1
+   },
+   {
+    "value": "all 0.5s ease-in-out 0s",
+    "count": 1
+   },
+   {
+    "value": "all 0.8s ease 0s",
+    "count": 1
+   },
+   {
+    "value": "all 0.5s ease 0s",
+    "count": 1
+   }
+  ],
+  "animations": [],
+  "transforms": [],
+  "keyframes": []
+ },
+ "mediaQueries": [
+  {
+   "value": "screen and (min-width: 1199px)",
+   "count": 1
+  },
+  {
+   "value": "screen and (min-width: 425px)",
+   "count": 1
+  },
+  {
+   "value": "screen and (max-width: 425px)",
+   "count": 1
+  }
+ ],
+ "blockedSheets": [
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/animation.css?id=5ca4bedc80057b11b07e93f8aa3306f5",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/js/swipper/swiper-bundle.min.css",
+  "https://px-themeassets.pixpa.com/assets/dynamic-bundle-css/42531/3115183.css?token=NFxEuMLUhdt4hts9v4UfKbPh&id=1784299245",
+  "https://fonts.googleapis.com/css?family=Frank%20Ruhl%20Libre:400|Yantramanav:400|Frank%20Ruhl%20Libre:300|Amita:400|Alice:300&display=swap",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/old_custom_page_assets.css?id=7ae28fb7f2c6653e741802e77e8567c6",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/themesv2.css?id=33c9fce290d274635a97489a7b272fcc",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/mixcss.css?id=e484bbc11785a6a1bfdf6e981832691e",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/common.css?id=42aec0ff4a852f5f57e752a3fa72865c",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/extended-footer.css?id=daf30ebe910ae34d728713faffafc59a",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/vendor/pixpalg_all_v2.css?id=5468c8f2f955e279c00000781b769d80",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/custom-page-v2/assets/minimalist-blocks/variable.css",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/form-page.css?id=b0d0548003764ceb2ba61a573ab52b40",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/builder_lists.css?id=c47792f8d9aa788766e8e4b474248c40",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/custom-page.css?id=b6d83829e3e9231143bb54d20debf841",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/instagram.css?id=abc7a299d05b2a520d825fa45f089e6b",
+  "https://px-themeassets.pixpa.com/user-css-create/999999/42531.css?id=1768311689&global_version=1783976410",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/vendor/before_after_slider.css?id=fa71975480af4abc6da8f58f692c7320",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/button-custom-colors.css?id=b38861599ea7d50220c346343cf5d239",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/vendor/flexslider.css?id=15d83b0d3ce361490f6507aed600c1c1",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/focuspoint.css?id=f5b4ebc29f4c96ae432aac222c32a766"
+ ],
+ "containerMaxWidths": [
+  {
+   "value": "450px",
+   "count": 1
+  },
+  {
+   "value": "1200px",
+   "count": 1
+  }
+ ],
+ "direction": {
+  "rtlSamples": [
+   {
+    "tag": "label",
+    "text": "Full name / שמות מלאים *",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "left",
+    "unicodeBidi": "normal",
+    "fontFamily": "\"Frank Ruhl Libre\", serif",
+    "fontSize": "16px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "label",
+    "text": "Phone Number / מספר טלפון *",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "left",
+    "unicodeBidi": "normal",
+    "fontFamily": "\"Frank Ruhl Libre\", serif",
+    "fontSize": "16px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "label",
+    "text": "Date of your event / תאריך האירוע *",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "left",
+    "unicodeBidi": "normal",
+    "fontFamily": "\"Frank Ruhl Libre\", serif",
+    "fontSize": "16px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "label",
+    "text": "Email / כתובת מייל *",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "left",
+    "unicodeBidi": "normal",
+    "fontFamily": "\"Frank Ruhl Libre\", serif",
+    "fontSize": "16px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "label",
+    "text": "Tell me about your event / ספר לי על האירוע שלך * ",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "left",
+    "unicodeBidi": "normal",
+    "fontFamily": "\"Frank Ruhl Libre\", serif",
+    "fontSize": "16px",
+    "fontWeight": "400"
+   }
+  ],
+  "ltrSamples": [
+   {
+    "tag": "body",
+    "text": "//pinterest script",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "start",
+    "unicodeBidi": "normal",
+    "fontFamily": "\"Times New Roman\"",
+    "fontSize": "16px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "p",
+    "text": "This website uses cookies to ensure you get the be",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "start",
+    "unicodeBidi": "isolate",
+    "fontFamily": "\"Frank Ruhl Libre\", serif",
+    "fontSize": "14px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "div",
+    "text": "BUY THIS IMAGE",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "start",
+    "unicodeBidi": "isolate",
+    "fontFamily": "\"Open Sans\", sans-serif",
+    "fontSize": "14px",
+    "fontWeight": "600"
+   },
+   {
+    "tag": "button",
+    "text": "view cart ()",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "center",
+    "unicodeBidi": "normal",
+    "fontFamily": "Arial",
+    "fontSize": "13px",
+    "fontWeight": "600"
+   },
+   {
+    "tag": "span",
+    "text": "0",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "center",
+    "unicodeBidi": "normal",
+    "fontFamily": "Arial",
+    "fontSize": "13px",
+    "fontWeight": "600"
+   },
+   {
+    "tag": "h1",
+    "text": "Get in Touch",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "left",
+    "unicodeBidi": "isolate",
+    "fontFamily": "Amita, cursive",
+    "fontSize": "40px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "p",
+    "text": "Cell : 054-8169111International Call : +9725481691",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "left",
+    "unicodeBidi": "isolate",
+    "fontFamily": "\"Frank Ruhl Libre\", serif",
+    "fontSize": "16px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "strong",
+    "text": "Ori Chayun Wedding Photography",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "left",
+    "unicodeBidi": "normal",
+    "fontFamily": "\"Frank Ruhl Libre\", serif",
+    "fontSize": "16px",
+    "fontWeight": "700"
+   },
+   {
+    "tag": "label",
+    "text": "*",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "left",
+    "unicodeBidi": "normal",
+    "fontFamily": "\"Frank Ruhl Libre\", serif",
+    "fontSize": "16px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "button",
+    "text": "Submit",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "center",
+    "unicodeBidi": "normal",
+    "fontFamily": "\"Frank Ruhl Libre\", serif",
+    "fontSize": "12.6px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "b",
+    "text": "Follow me on Instagram",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "center",
+    "unicodeBidi": "normal",
+    "fontFamily": "Amita, cursive",
+    "fontSize": "25px",
+    "fontWeight": "700"
+   },
+   {
+    "tag": "p",
+    "text": "© Ori Chayun Photography",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "center",
+    "unicodeBidi": "isolate",
+    "fontFamily": "Yantramanav, sans-serif",
+    "fontSize": "13.5px",
+    "fontWeight": "400"
+   }
+  ],
+  "dirAttributes": [],
+  "hasRtlText": true
+ },
+ "images": [
+  {
+   "w": 250,
+   "h": 160,
+   "ratio": 1.56,
+   "objectFit": "contain",
+   "loading": "auto",
+   "natural": "0x0",
+   "alt": "",
+   "src": "https://www.orichayun.com/contact"
+  },
+  {
+   "w": 102,
+   "h": 101,
+   "ratio": 1.01,
+   "objectFit": "fill",
+   "loading": "auto",
+   "natural": "661x654",
+   "alt": "Ori Chayun Wedding Photography",
+   "src": "https://px-web-images-v2.pixpa.com/x3uJc90wO9b4okOPdkOlpAavsd0Jivl0lfYuyJ0cqSY/rs:fit:1000:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 390,
+   "h": 260,
+   "ratio": 1.5,
+   "objectFit": "fill",
+   "loading": "auto",
+   "natural": "390x260",
+   "alt": "undefined",
+   "src": "https://px-web-images8.pixpa.com/Wvhd17sV1OYRpZwAYdMPxdGce7mV6MA9ncC9CpNsjpM/rs:fit:1200:0/q:90/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS80"
+  }
+ ],
+ "imageCount": 3,
+ "outline": [
+  {
+   "tag": "header",
+   "id": "header",
+   "class": "inside_header-0 4    full-header js-full-header header header-scale u42531-header-bg-color",
+   "height": 152,
+   "top": 0,
+   "background": "rgb(254, 250, 250)",
+   "paddingTop": "0px",
+   "paddingBottom": "0px",
+   "imgCount": 2,
+   "text": ""
+  },
+  {
+   "tag": "nav",
+   "id": "",
+   "class": "header-nav-list",
+   "height": 356,
+   "top": 197,
+   "background": "rgba(0, 0, 0, 0)",
+   "paddingTop": "0px",
+   "paddingBottom": "0px",
+   "imgCount": 0,
+   "text": ""
+  },
+  {
+   "tag": "div",
+   "id": "",
+   "class": "is-section is-section-contact is-section-everywhere is-section-fit2width-container is-sect",
+   "height": 260,
+   "top": 152,
+   "background": "rgba(255, 255, 255, 0)",
+   "paddingTop": "0px",
+   "paddingBottom": "0px",
+   "imgCount": 1,
+   "text": "Get in Touch Ori Chayun Wedding Photography Cell : 054-8169111 International Call : +972548169111 Full name / שמות מלאים * * Phone Number / "
+  },
+  {
+   "tag": "div",
+   "id": "",
+   "class": "is-section is-section-social is-section-everywhere is-section-fit2width-container is-align",
+   "height": 279,
+   "top": 412,
+   "background": "rgba(255, 255, 255, 0)",
+   "paddingTop": "0px",
+   "paddingBottom": "0px",
+   "imgCount": 0,
+   "text": "Follow me on Instagram"
+  }
+ ],
+ "headings": [
+  {
+   "level": "H1",
+   "text": "Get in Touch"
+  },
+  {
+   "level": "H3",
+   "text": "Follow me on Instagram"
+  }
+ ],
+ "links": [
+  {
+   "text": "",
+   "href": "https://www.orichayun.com/getjsassets"
+  },
+  {
+   "text": "Continue Shopping",
+   "href": "/store"
+  },
+  {
+   "text": "",
+   "href": "/"
+  },
+  {
+   "text": "Home",
+   "href": "/home"
+  },
+  {
+   "text": "Romantic",
+   "href": "/"
+  },
+  {
+   "text": "Fun",
+   "href": "/galleries/fun"
+  },
+  {
+   "text": "Fashion",
+   "href": "/galleries/fashion"
+  },
+  {
+   "text": "Brides",
+   "href": "/galleries/brides"
+  },
+  {
+   "text": "Beauty",
+   "href": "/galleries/beauty"
+  },
+  {
+   "text": "Truth",
+   "href": "/galleries/truth"
+  },
+  {
+   "text": "Design",
+   "href": "/galleries/style"
+  },
+  {
+   "text": "Art",
+   "href": "/galleries/art"
+  },
+  {
+   "text": "Dance Floor",
+   "href": "/galleries/dancefloor"
+  },
+  {
+   "text": "Lake Como Wedding",
+   "href": "/galleries/lake-como-wedding"
+  },
+  {
+   "text": "Judean Desert Elopement",
+   "href": "/galleries/judean-desert-elopement"
+  },
+  {
+   "text": "Jaffa Hotel by Ori Chayun",
+   "href": "/galleries/jaffa"
+  },
+  {
+   "text": "Wedding Gallery",
+   "href": "/gallery"
+  },
+  {
+   "text": "Vogue",
+   "href": "/vogue"
+  },
+  {
+   "text": "B&W",
+   "href": "/bw"
+  },
+  {
+   "text": "Pregnancy",
+   "href": "/pregnancy"
+  },
+  {
+   "text": "Instagram",
+   "href": "/instagram"
+  },
+  {
+   "text": "Reviews",
+   "href": "/reviews"
+  },
+  {
+   "text": "Contact",
+   "href": "/contact"
+  },
+  {
+   "text": "",
+   "href": "https://wa.me/972548169111"
+  },
+  {
+   "text": "",
+   "href": "https://www.facebook.com/orichayunwedding"
+  },
+  {
+   "text": "",
+   "href": "https://www.instagram.com/orichayun"
+  },
+  {
+   "text": "",
+   "href": "/"
+  },
+  {
+   "text": "",
+   "href": "/home"
+  },
+  {
+   "text": "Romantic",
+   "href": "/"
+  },
+  {
+   "text": "Fun",
+   "href": "/galleries/fun"
+  },
+  {
+   "text": "Fashion",
+   "href": "/galleries/fashion"
+  },
+  {
+   "text": "Brides",
+   "href": "/galleries/brides"
+  },
+  {
+   "text": "Beauty",
+   "href": "/galleries/beauty"
+  },
+  {
+   "text": "Truth",
+   "href": "/galleries/truth"
+  },
+  {
+   "text": "Design",
+   "href": "/galleries/style"
+  },
+  {
+   "text": "Art",
+   "href": "/galleries/art"
+  },
+  {
+   "text": "Dance Floor",
+   "href": "/galleries/dancefloor"
+  },
+  {
+   "text": "Lake Como Wedding",
+   "href": "/galleries/lake-como-wedding"
+  },
+  {
+   "text": "Judean Desert Elopement",
+   "href": "/galleries/judean-desert-elopement"
+  },
+  {
+   "text": "Jaffa Hotel by Ori Chayun",
+   "href": "/galleries/jaffa"
+  },
+  {
+   "text": "",
+   "href": "/gallery"
+  },
+  {
+   "text": "",
+   "href": "/vogue"
+  },
+  {
+   "text": "",
+   "href": "/bw"
+  },
+  {
+   "text": "",
+   "href": "/pregnancy"
+  },
+  {
+   "text": "",
+   "href": "/instagram"
+  },
+  {
+   "text": "",
+   "href": "/reviews"
+  },
+  {
+   "text": "",
+   "href": "/contact"
+  },
+  {
+   "text": "",
+   "href": "https://wa.me/972548169111"
+  },
+  {
+   "text": "",
+   "href": "https://www.facebook.com/orichayunwedding"
+  },
+  {
+   "text": "",
+   "href": "https://www.instagram.com/orichayun"
+  },
+  {
+   "text": "Home",
+   "href": "/home"
+  },
+  {
+   "text": "Romantic",
+   "href": "/"
+  },
+  {
+   "text": "Fun",
+   "href": "/galleries/fun"
+  },
+  {
+   "text": "Fashion",
+   "href": "/galleries/fashion"
+  },
+  {
+   "text": "Brides",
+   "href": "/galleries/brides"
+  },
+  {
+   "text": "Beauty",
+   "href": "/galleries/beauty"
+  },
+  {
+   "text": "Truth",
+   "href": "/galleries/truth"
+  },
+  {
+   "text": "Design",
+   "href": "/galleries/style"
+  },
+  {
+   "text": "Art",
+   "href": "/galleries/art"
+  },
+  {
+   "text": "Dance Floor",
+   "href": "/galleries/dancefloor"
+  },
+  {
+   "text": "Lake Como Wedding",
+   "href": "/galleries/lake-como-wedding"
+  },
+  {
+   "text": "Judean Desert Elopement",
+   "href": "/galleries/judean-desert-elopement"
+  },
+  {
+   "text": "Jaffa Hotel by Ori Chayun",
+   "href": "/galleries/jaffa"
+  },
+  {
+   "text": "Wedding Gallery",
+   "href": "/gallery"
+  },
+  {
+   "text": "Vogue",
+   "href": "/vogue"
+  },
+  {
+   "text": "B&W",
+   "href": "/bw"
+  },
+  {
+   "text": "Pregnancy",
+   "href": "/pregnancy"
+  },
+  {
+   "text": "Instagram",
+   "href": "/instagram"
+  },
+  {
+   "text": "Reviews",
+   "href": "/reviews"
+  },
+  {
+   "text": "Contact",
+   "href": "/contact"
+  },
+  {
+   "text": "",
+   "href": "https://wa.me/972548169111"
+  },
+  {
+   "text": "",
+   "href": "https://www.facebook.com/orichayunwedding"
+  },
+  {
+   "text": "",
+   "href": "https://www.instagram.com/orichayun"
+  },
+  {
+   "text": "",
+   "href": "https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.orichayun.com%2Fcontact"
+  },
+  {
+   "text": "",
+   "href": "https://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.orichayun.com%2Fcontact"
+  },
+  {
+   "text": "",
+   "href": "https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.orichayun.com%2Fcontact"
+  },
+  {
+   "text": "",
+   "href": "https://www.tumblr.com/widgets/share/tool?posttype=link&canonicalUrl=http%3A%2F%2Fwww.orichayun.com%2Fcontact"
+  },
+  {
+   "text": "",
+   "href": "https://api.whatsapp.com/send?phone=&text=http%3A%2F%2Fwww.orichayun.com%2Fcontact"
+  },
+  {
+   "text": "",
+   "href": "mailto:?body=http%3A%2F%2Fwww.orichayun.com%2Fcontact"
+  },
+  {
+   "text": "",
+   "href": "https://wa.me/972548169111?&text=Hi+there%21+This+is+an+inquiry+from+the+WhatsApp+Chat+on+your+website."
+  }
+ ],
+ "cssBreakpoints": {
+  "sheets": 21,
+  "conditions": [
+   {
+    "value": "screen and (max-width:767px)",
+    "count": 376
+   },
+   {
+    "value": "screen and (max-width:1024px)",
+    "count": 103
+   },
+   {
+    "value": "screen and (max-width:768px)",
+    "count": 75
+   },
+   {
+    "value": "screen and (max-width:640px)",
+    "count": 44
+   },
+   {
+    "value": "screen and (max-width:980px)",
+    "count": 15
+   },
+   {
+    "value": "screen and (min-width:768px)",
+    "count": 14
+   },
+   {
+    "value": "screen and (max-width:425px)",
+    "count": 13
+   },
+   {
+    "value": "screen and (min-width:767px)",
+    "count": 12
+   },
+   {
+    "value": "screen and (min-width:1025px)",
+    "count": 12
+   },
+   {
+    "value": "screen and (min-width:1024px)",
+    "count": 7
+   },
+   {
+    "value": "screen and (max-width:1199px)",
+    "count": 7
+   },
+   {
+    "value": "all and (max-width:1024px)",
+    "count": 6
+   },
+   {
+    "value": "screen and (max-width:680px)",
+    "count": 6
+   },
+   {
+    "value": "all and (max-width:540px)",
+    "count": 5
+   },
+   {
+    "value": "all and (max-width:960px)",
+    "count": 5
+   },
+   {
+    "value": "screen and (min-width:769px)",
+    "count": 5
+   },
+   {
+    "value": "(min-width:768px)",
+    "count": 4
+   },
+   {
+    "value": "screen and (max-width:960px)",
+    "count": 4
+   },
+   {
+    "value": "all and (max-width:767px)",
+    "count": 3
+   },
+   {
+    "value": "screen and (min-width:1199px)",
+    "count": 3
+   },
+   {
+    "value": "only screen and (max-width:1024px) and (orientation:landscape)",
+    "count": 3
+   },
+   {
+    "value": "screen and (max-width:480px)",
+    "count": 3
+   },
+   {
+    "value": "all and (min-width:1280px)",
+    "count": 2
+   },
+   {
+    "value": "screen and (max-width:990px)",
+    "count": 2
+   },
+   {
+    "value": "screen and (min-width:768px) and (max-width:1024px)",
+    "count": 2
+   },
+   {
+    "value": "screen and (max-width:768px) and (max-width:1024px)",
+    "count": 2
+   },
+   {
+    "value": "screen and (max-width:1199px) and (max-width:1024px)",
+    "count": 2
+   },
+   {
+    "value": "screen and (max-width:769px)",
+    "count": 2
+   },
+   {
+    "value": "screen and (max-width:1440px)",
+    "count": 2
+   },
+   {
+    "value": "screen and (max-width:1280px)",
+    "count": 2
+   },
+   {
+    "value": "(max-width:640px)",
+    "count": 1
+   },
+   {
+    "value": "all and (max-width:480px)",
+    "count": 1
+   },
+   {
+    "value": "all and (max-width:768px)",
+    "count": 1
+   },
+   {
+    "value": "all and (max-width:1280px)",
+    "count": 1
+   },
+   {
+    "value": "all and (max-width:1025px)",
+    "count": 1
+   },
+   {
+    "value": "all and (max-width:1200px)",
+    "count": 1
+   },
+   {
+    "value": "all and (max-width:1024px) and (min-width:768px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:1024px) and (orientation:landscape)",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:425px),screen and (min-width:425px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:1023px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (min-width:768px) and (max-width:1199px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:400px)",
+    "count": 1
+   },
+   {
+    "value": "only screen and (max-width:1024px)",
+    "count": 1
+   },
+   {
+    "value": "print",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:500px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:300px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:991px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (min-width:1900px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width: 1024px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:600px)",
+    "count": 1
+   },
+   {
+    "value": "(max-width:767px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:1200px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:40rem)",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:768px) and (max-width:640px)",
+    "count": 1
+   },
+   {
+    "value": "only screen and (min-device-width:1024px) and (max-device-width:1365px) and (orientation:landscape)",
+    "count": 1
+   },
+   {
+    "value": "screen and (min-width:991px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (min-width:1025px) and (max-width:1200px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (min-width:768px) and (max-width:1200px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (min-width:425px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:800px)",
+    "count": 1
+   }
+  ],
+  "widths": [
+   {
+    "value": "max-width: 767px",
+    "count": 380
+   },
+   {
+    "value": "max-width: 1024px",
+    "count": 122
+   },
+   {
+    "value": "max-width: 768px",
+    "count": 79
+   },
+   {
+    "value": "max-width: 640px",
+    "count": 46
+   },
+   {
+    "value": "min-width: 768px",
+    "count": 23
+   },
+   {
+    "value": "max-width: 980px",
+    "count": 15
+   },
+   {
+    "value": "max-width: 425px",
+    "count": 14
+   },
+   {
+    "value": "min-width: 1025px",
+    "count": 13
+   },
+   {
+    "value": "min-width: 767px",
+    "count": 12
+   },
+   {
+    "value": "max-width: 1199px",
+    "count": 10
+   },
+   {
+    "value": "max-width: 960px",
+    "count": 9
+   },
+   {
+    "value": "min-width: 1024px",
+    "count": 7
+   },
+   {
+    "value": "max-width: 680px",
+    "count": 6
+   },
+   {
+    "value": "max-width: 540px",
+    "count": 5
+   },
+   {
+    "value": "min-width: 769px",
+    "count": 5
+   },
+   {
+    "value": "max-width: 480px",
+    "count": 4
+   },
+   {
+    "value": "max-width: 1200px",
+    "count": 4
+   },
+   {
+    "value": "max-width: 1280px",
+    "count": 3
+   },
+   {
+    "value": "min-width: 1199px",
+    "count": 3
+   },
+   {
+    "value": "min-width: 1280px",
+    "count": 2
+   },
+   {
+    "value": "max-width: 990px",
+    "count": 2
+   },
+   {
+    "value": "min-width: 425px",
+    "count": 2
+   },
+   {
+    "value": "max-width: 769px",
+    "count": 2
+   },
+   {
+    "value": "max-width: 1440px",
+    "count": 2
+   },
+   {
+    "value": "max-width: 1025px",
+    "count": 1
+   },
+   {
+    "value": "max-width: 1023px",
+    "count": 1
+   },
+   {
+    "value": "max-width: 400px",
+    "count": 1
+   },
+   {
+    "value": "max-width: 500px",
+    "count": 1
+   },
+   {
+    "value": "max-width: 300px",
+    "count": 1
+   },
+   {
+    "value": "max-width: 991px",
+    "count": 1
+   },
+   {
+    "value": "min-width: 1900px",
+    "count": 1
+   },
+   {
+    "value": "max-width: 600px",
+    "count": 1
+   },
+   {
+    "value": "max-width: 40rem",
+    "count": 1
+   },
+   {
+    "value": "min-width: 991px",
+    "count": 1
+   },
+   {
+    "value": "max-width: 800px",
+    "count": 1
+   },
+   {
+    "value": "max-width: 860px",
+    "count": 1
+   }
+  ]
+ }
+}

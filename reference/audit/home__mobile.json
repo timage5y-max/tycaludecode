@@ -1,0 +1,2137 @@
+{
+ "url": "https://www.orichayun.com/home",
+ "title": "Ori Chayun Photography | אורי חיון צלם חתונות",
+ "htmlLang": "en",
+ "htmlDir": "(unset)",
+ "bodyDirection": "ltr",
+ "bodyBackground": "rgb(254, 250, 250)",
+ "bodyFontFamily": "\"Times New Roman\"",
+ "viewport": {
+  "width": 390,
+  "height": 844
+ },
+ "scrollHeight": 5934,
+ "elementCount": 1243,
+ "visibleCount": 318,
+ "colors": {
+  "background": [
+   {
+    "value": "rgba(0, 0, 0, 0.14)",
+    "count": 10
+   },
+   {
+    "value": "rgba(0, 0, 0, 0.2)",
+    "count": 5
+   },
+   {
+    "value": "rgba(0, 0, 0, 0.3)",
+    "count": 5
+   },
+   {
+    "value": "rgb(0, 0, 0)",
+    "count": 3
+   },
+   {
+    "value": "rgb(255, 255, 255)",
+    "count": 3
+   },
+   {
+    "value": "rgba(255, 255, 255, 0)",
+    "count": 3
+   },
+   {
+    "value": "rgb(254, 250, 250)",
+    "count": 2
+   },
+   {
+    "value": "rgb(244, 244, 244)",
+    "count": 1
+   },
+   {
+    "value": "rgba(254, 250, 250, 0)",
+    "count": 1
+   },
+   {
+    "value": "rgba(0, 0, 0, 0.06)",
+    "count": 1
+   },
+   {
+    "value": "rgb(247, 247, 247)",
+    "count": 1
+   },
+   {
+    "value": "rgb(43, 43, 43)",
+    "count": 1
+   },
+   {
+    "value": "rgb(17, 17, 17)",
+    "count": 1
+   }
+  ],
+  "backgroundByArea": [
+   {
+    "value": "rgb(254, 250, 250)",
+    "px": 4628264
+   },
+   {
+    "value": "rgba(0, 0, 0, 0.14)",
+    "px": 3291600
+   },
+   {
+    "value": "rgb(247, 247, 247)",
+    "px": 1119946
+   },
+   {
+    "value": "rgba(255, 255, 255, 0)",
+    "px": 955701
+   },
+   {
+    "value": "rgba(0, 0, 0, 0.2)",
+    "px": 944050
+   },
+   {
+    "value": "rgb(0, 0, 0)",
+    "px": 561156
+   },
+   {
+    "value": "rgb(255, 255, 255)",
+    "px": 462930
+   },
+   {
+    "value": "rgba(0, 0, 0, 0.06)",
+    "px": 329160
+   },
+   {
+    "value": "rgb(17, 17, 17)",
+    "px": 164580
+   },
+   {
+    "value": "rgba(0, 0, 0, 0.3)",
+    "px": 112320
+   },
+   {
+    "value": "rgba(254, 250, 250, 0)",
+    "px": 59097
+   },
+   {
+    "value": "rgb(244, 244, 244)",
+    "px": 26910
+   },
+   {
+    "value": "rgb(43, 43, 43)",
+    "px": 9610
+   }
+  ],
+  "text": [
+   {
+    "value": "rgb(255, 255, 255)",
+    "count": 11
+   },
+   {
+    "value": "rgb(191, 191, 191)",
+    "count": 10
+   },
+   {
+    "value": "rgb(89, 89, 89)",
+    "count": 10
+   },
+   {
+    "value": "rgb(0, 0, 0)",
+    "count": 1
+   },
+   {
+    "value": "rgb(39, 39, 39)",
+    "count": 1
+   },
+   {
+    "value": "rgb(109, 89, 111)",
+    "count": 1
+   },
+   {
+    "value": "rgb(87, 87, 87)",
+    "count": 1
+   },
+   {
+    "value": "rgb(158, 158, 158)",
+    "count": 1
+   }
+  ],
+  "border": [],
+  "gradient": [],
+  "boxShadow": [
+   {
+    "value": "rgba(128, 128, 128, 0) 0px 0px 0px 1px inset",
+    "count": 5
+   }
+  ]
+ },
+ "fontFamilies": [
+  {
+   "value": "\"Frank Ruhl Libre\", serif",
+   "count": 22
+  },
+  {
+   "value": "Alice, serif",
+   "count": 7
+  },
+  {
+   "value": "Arial",
+   "count": 2
+  },
+  {
+   "value": "Amita, cursive",
+   "count": 2
+  },
+  {
+   "value": "\"Times New Roman\"",
+   "count": 1
+  },
+  {
+   "value": "\"Open Sans\", sans-serif",
+   "count": 1
+  },
+  {
+   "value": "Yantramanav, sans-serif",
+   "count": 1
+  }
+ ],
+ "fontSizes": [
+  {
+   "value": "16px",
+   "count": 28
+  },
+  {
+   "value": "14px",
+   "count": 2
+  },
+  {
+   "value": "13px",
+   "count": 2
+  },
+  {
+   "value": "25px",
+   "count": 2
+  },
+  {
+   "value": "14.4px",
+   "count": 1
+  },
+  {
+   "value": "13.5px",
+   "count": 1
+  }
+ ],
+ "fontWeights": [
+  {
+   "value": "400",
+   "count": 25
+  },
+  {
+   "value": "300",
+   "count": 7
+  },
+  {
+   "value": "600",
+   "count": 3
+  },
+  {
+   "value": "700",
+   "count": 1
+  }
+ ],
+ "lineHeights": [
+  {
+   "value": "28.8px",
+   "count": 10
+  },
+  {
+   "value": "23.4px",
+   "count": 10
+  },
+  {
+   "value": "25.6px",
+   "count": 7
+  },
+  {
+   "value": "normal",
+   "count": 6
+  },
+  {
+   "value": "35px",
+   "count": 2
+  },
+  {
+   "value": "21px",
+   "count": 1
+  }
+ ],
+ "letterSpacings": [
+  {
+   "value": "normal",
+   "count": 36
+  }
+ ],
+ "textTransforms": [
+  {
+   "value": "none",
+   "count": 33
+  },
+  {
+   "value": "uppercase",
+   "count": 3
+  }
+ ],
+ "loadedWebFonts": [
+  "Amita normal 400",
+  "Frank Ruhl Libre normal 400",
+  "Yantramanav normal 400"
+ ],
+ "typography": [
+  {
+   "label": "h1",
+   "selector": "h1",
+   "variants": []
+  },
+  {
+   "label": "h2",
+   "selector": "h2",
+   "variants": []
+  },
+  {
+   "label": "h3",
+   "selector": "h3",
+   "variants": [
+    {
+     "fontFamily": "Amita, cursive",
+     "fontSize": "25px",
+     "fontWeight": "400",
+     "lineHeight": "35px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(255, 255, 255)",
+     "textAlign": "center",
+     "count": 1,
+     "samples": [
+      "\" Find a job you love and you’ll never work a day in your li"
+     ]
+    },
+    {
+     "fontFamily": "Amita, cursive",
+     "fontSize": "25px",
+     "fontWeight": "400",
+     "lineHeight": "35px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(109, 89, 111)",
+     "textAlign": "center",
+     "count": 1,
+     "samples": [
+      "Follow me on Instagram"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "h4-h6",
+   "selector": "h4,h5,h6",
+   "variants": [
+    {
+     "fontFamily": "Alice, serif",
+     "fontSize": "16px",
+     "fontWeight": "300",
+     "lineHeight": "25.6px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(255, 255, 255)",
+     "textAlign": "center",
+     "count": 6,
+     "samples": [
+      "FUN",
+      "LOVE"
+     ]
+    },
+    {
+     "fontFamily": "Alice, serif",
+     "fontSize": "16px",
+     "fontWeight": "300",
+     "lineHeight": "25.6px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(109, 89, 111)",
+     "textAlign": "center",
+     "count": 1,
+     "samples": [
+      "BROWSE MY WORK"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "paragraph",
+   "selector": "p",
+   "variants": [
+    {
+     "fontFamily": "\"Frank Ruhl Libre\", serif",
+     "fontSize": "16px",
+     "fontWeight": "400",
+     "lineHeight": "28.8px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(255, 255, 255)",
+     "textAlign": "center",
+     "count": 10,
+     "samples": [
+      "\"Your talent is God's gift to you. What you do with it is yo",
+      "\"Your talent is God's gift to you. What you do with it is yo"
+     ]
+    },
+    {
+     "fontFamily": "\"Frank Ruhl Libre\", serif",
+     "fontSize": "13px",
+     "fontWeight": "400",
+     "lineHeight": "23.4px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(255, 255, 255)",
+     "textAlign": "center",
+     "count": 10,
+     "samples": [
+      "WWW.ORICHAYUN.COM",
+      "WWW.ORICHAYUN.COM"
+     ]
+    },
+    {
+     "fontFamily": "\"Frank Ruhl Libre\", serif",
+     "fontSize": "14px",
+     "fontWeight": "400",
+     "lineHeight": "21px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(255, 255, 255)",
+     "textAlign": "start",
+     "count": 1,
+     "samples": [
+      "This website uses cookies to ensure you get the best experie"
+     ]
+    },
+    {
+     "fontFamily": "Yantramanav, sans-serif",
+     "fontSize": "13.5px",
+     "fontWeight": "400",
+     "lineHeight": "normal",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(158, 158, 158)",
+     "textAlign": "center",
+     "count": 1,
+     "samples": [
+      "© Ori Chayun Photography"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "nav",
+   "selector": "nav a, header a, .navbar a, #navigation a, .menu a, .main-nav a",
+   "variants": []
+  },
+  {
+   "label": "button",
+   "selector": "button, .btn, [class*=\"button\"], a[class*=\"btn\"], input[type=submit]",
+   "variants": [
+    {
+     "fontFamily": "Arial",
+     "fontSize": "13px",
+     "fontWeight": "600",
+     "lineHeight": "normal",
+     "letterSpacing": "normal",
+     "textTransform": "uppercase",
+     "fontStyle": "normal",
+     "color": "rgb(255, 255, 255)",
+     "textAlign": "center",
+     "count": 1,
+     "samples": [
+      "VIEW CART ( 0 )"
+     ]
+    },
+    {
+     "fontFamily": "\"Times New Roman\"",
+     "fontSize": "16px",
+     "fontWeight": "400",
+     "lineHeight": "normal",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(17, 17, 17)",
+     "textAlign": "center",
+     "count": 1,
+     "samples": [
+      "See More Work"
+     ]
+    },
+    {
+     "fontFamily": "\"Frank Ruhl Libre\", serif",
+     "fontSize": "14.4px",
+     "fontWeight": "400",
+     "lineHeight": "normal",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(255, 255, 255)",
+     "textAlign": "center",
+     "count": 1,
+     "samples": [
+      "See More Work"
+     ]
+    }
+   ]
+  },
+  {
+   "label": "form-field",
+   "selector": "input, textarea, select, label",
+   "variants": []
+  },
+  {
+   "label": "inline",
+   "selector": "div, span, li",
+   "variants": [
+    {
+     "fontFamily": "\"Frank Ruhl Libre\", serif",
+     "fontSize": "16px",
+     "fontWeight": "400",
+     "lineHeight": "28.8px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(109, 89, 111)",
+     "textAlign": "center",
+     "count": 40,
+     "samples": [
+      "\"Your talent is God's gift to you. What you do with it is yo",
+      "\"Your talent is God's gift to you. What you do with it is yo"
+     ]
+    },
+    {
+     "fontFamily": "\"Times New Roman\"",
+     "fontSize": "16px",
+     "fontWeight": "400",
+     "lineHeight": "normal",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(17, 17, 17)",
+     "textAlign": "center",
+     "count": 34,
+     "samples": [
+      "BROWSE MY WORK FUN LOVE BEAUTY FASHION ART See More Work",
+      "BROWSE MY WORK FUN LOVE BEAUTY FASHION ART See More Work"
+     ]
+    },
+    {
+     "fontFamily": "\"Times New Roman\"",
+     "fontSize": "16px",
+     "fontWeight": "400",
+     "lineHeight": "0px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(0, 0, 0)",
+     "textAlign": "left",
+     "count": 20,
+     "samples": [
+      "\"Your talent is God's gift to you. What you do with it is yo",
+      "\"Your talent is God's gift to you. What you do with it is yo"
+     ]
+    },
+    {
+     "fontFamily": "\"Frank Ruhl Libre\", serif",
+     "fontSize": "16px",
+     "fontWeight": "400",
+     "lineHeight": "28.8px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "normal",
+     "color": "rgb(242, 242, 242)",
+     "textAlign": "center",
+     "count": 10,
+     "samples": [
+      "\"Your talent is God's gift to you. What you do with it is yo",
+      "\"Your talent is God's gift to you. What you do with it is yo"
+     ]
+    },
+    {
+     "fontFamily": "\"Frank Ruhl Libre\", serif",
+     "fontSize": "16px",
+     "fontWeight": "400",
+     "lineHeight": "28.8px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "italic",
+     "color": "rgb(216, 216, 216)",
+     "textAlign": "center",
+     "count": 10,
+     "samples": [
+      "\"Your talent is God's gift to you. What you do with it is yo",
+      "\"Your talent is God's gift to you. What you do with it is yo"
+     ]
+    },
+    {
+     "fontFamily": "\"Frank Ruhl Libre\", serif",
+     "fontSize": "16px",
+     "fontWeight": "400",
+     "lineHeight": "28.8px",
+     "letterSpacing": "normal",
+     "textTransform": "none",
+     "fontStyle": "italic",
+     "color": "rgb(191, 191, 191)",
+     "textAlign": "center",
+     "count": 10,
+     "samples": [
+      "\"Your talent is God's gift to you. What you do with it is yo",
+      "\"Your talent is God's gift to you. What you do with it is yo"
+     ]
+    }
+   ]
+  }
+ ],
+ "grids": [
+  {
+   "tag": "div",
+   "class": "swiper-wrapper",
+   "display": "flex",
+   "gridTemplateColumns": "none",
+   "gap": "normal",
+   "rowGap": "normal",
+   "columnGap": "normal",
+   "columnCount": "auto",
+   "flexWrap": "nowrap",
+   "justifyContent": "normal",
+   "alignItems": "normal",
+   "containerWidth": 390,
+   "childCount": 10,
+   "imgCount": 10,
+   "derivedColumns": 10,
+   "childAspectRatioCss": "auto",
+   "childAspectRatios": [
+    0.462,
+    0.462,
+    0.462,
+    0.462,
+    0.462,
+    0.462,
+    0.462,
+    0.462,
+    0.462,
+    0.462
+   ],
+   "childWidths": [
+    390,
+    390,
+    390,
+    390,
+    390,
+    390,
+    390,
+    390
+   ]
+  }
+ ],
+ "imageGrid": {
+  "tileCount": 17,
+  "columns": 2,
+  "columnX": [
+   0,
+   20
+  ],
+  "columnWidth": 390,
+  "horizontalGap": null,
+  "verticalGap": null,
+  "masonry": true,
+  "distinctHeights": 4,
+  "orientationMix": {
+   "landscape": 1,
+   "square-ish": 1,
+   "portrait": 15
+  },
+  "topAspectRatios": [
+   {
+    "value": 0.46,
+    "count": 10
+   },
+   {
+    "value": 0.67,
+    "count": 5
+   },
+   {
+    "value": 1.56,
+    "count": 1
+   },
+   {
+    "value": 1.01,
+    "count": 1
+   }
+  ],
+  "objectFit": [
+   "contain",
+   "fill",
+   "cover"
+  ],
+  "firstRowY": 0
+ },
+ "spacing": [
+  {
+   "value": "25px",
+   "count": 33
+  },
+  {
+   "value": "18px",
+   "count": 32
+  },
+  {
+   "value": "13px",
+   "count": 21
+  },
+  {
+   "value": "24px",
+   "count": 20
+  },
+  {
+   "value": "16px",
+   "count": 13
+  },
+  {
+   "value": "10px",
+   "count": 12
+  },
+  {
+   "value": "169px",
+   "count": 10
+  },
+  {
+   "value": "11px",
+   "count": 8
+  },
+  {
+   "value": "2px",
+   "count": 8
+  },
+  {
+   "value": "5px",
+   "count": 7
+  },
+  {
+   "value": "15px",
+   "count": 5
+  },
+  {
+   "value": "20px",
+   "count": 4
+  },
+  {
+   "value": "17px",
+   "count": 4
+  },
+  {
+   "value": "6px",
+   "count": 3
+  },
+  {
+   "value": "12px",
+   "count": 2
+  },
+  {
+   "value": "60px",
+   "count": 2
+  },
+  {
+   "value": "4px",
+   "count": 2
+  },
+  {
+   "value": "35px",
+   "count": 2
+  },
+  {
+   "value": "42px",
+   "count": 2
+  },
+  {
+   "value": "51px",
+   "count": 2
+  },
+  {
+   "value": "34px",
+   "count": 2
+  },
+  {
+   "value": "32px",
+   "count": 2
+  },
+  {
+   "value": "203px",
+   "count": 1
+  },
+  {
+   "value": "-15px",
+   "count": 1
+  },
+  {
+   "value": "8px",
+   "count": 1
+  }
+ ],
+ "borderRadius": [
+  {
+   "value": "22px",
+   "count": 10
+  },
+  {
+   "value": "50%",
+   "count": 2
+  },
+  {
+   "value": "3px",
+   "count": 1
+  }
+ ],
+ "motion": {
+  "transitions": [
+   {
+    "value": "all 0.25s ease-in-out 0s",
+    "count": 34
+   },
+   {
+    "value": "all 0.3s ease 0s",
+    "count": 9
+   },
+   {
+    "value": "transform 1s ease-out 0s",
+    "count": 5
+   },
+   {
+    "value": "transform 0.3s ease-in-out 0s",
+    "count": 4
+   },
+   {
+    "value": "all 0.5s ease-in-out 0s",
+    "count": 2
+   },
+   {
+    "value": "opacity 0.25s ease 0s",
+    "count": 1
+   },
+   {
+    "value": "all 0.8s ease 0s",
+    "count": 1
+   },
+   {
+    "value": "all 0.5s ease 0s",
+    "count": 1
+   }
+  ],
+  "animations": [],
+  "transforms": [
+   {
+    "value": "matrix(1, 0, 0, 1, 0, 0)",
+    "count": 6
+   },
+   {
+    "value": "matrix(1, 0, 0, 1, 0, -422)",
+    "count": 2
+   },
+   {
+    "value": "matrix(1, 0, 0, 1, -390, 0)",
+    "count": 1
+   }
+  ],
+  "keyframes": []
+ },
+ "mediaQueries": [
+  {
+   "value": "screen and (min-width: 1199px)",
+   "count": 1
+  },
+  {
+   "value": "screen and (min-width: 425px)",
+   "count": 1
+  },
+  {
+   "value": "screen and (max-width: 425px)",
+   "count": 1
+  }
+ ],
+ "blockedSheets": [
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/animation.css?id=5ca4bedc80057b11b07e93f8aa3306f5",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/js/swipper/swiper-bundle.min.css",
+  "https://px-themeassets.pixpa.com/assets/dynamic-bundle-css/42531/1948793.css?token=LvMrx0Z782c17ZvXRso5z2Sp&id=1784299245",
+  "https://fonts.googleapis.com/css?family=Frank%20Ruhl%20Libre:400|Yantramanav:400|Frank%20Ruhl%20Libre:300|Amita:400|Alice:300&display=swap",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/old_custom_page_assets.css?id=7ae28fb7f2c6653e741802e77e8567c6",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/themesv2.css?id=33c9fce290d274635a97489a7b272fcc",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/mixcss.css?id=e484bbc11785a6a1bfdf6e981832691e",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/common.css?id=42aec0ff4a852f5f57e752a3fa72865c",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/extended-footer.css?id=daf30ebe910ae34d728713faffafc59a",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/vendor/pixpalg_all_v2.css?id=5468c8f2f955e279c00000781b769d80",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/custom-page-v2/assets/minimalist-blocks/variable.css",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/builder_lists.css?id=c47792f8d9aa788766e8e4b474248c40",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/cover-design.css?id=21fe432c3a391c2418bca462feb44dcf",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/light-gallery-custom.css?id=e53da6b0a64350ddd1b0ade03861d79e",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/custom-page.css?id=b6d83829e3e9231143bb54d20debf841",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/instagram.css?id=abc7a299d05b2a520d825fa45f089e6b",
+  "https://px-themeassets.pixpa.com/user-css-create/999999/42531.css?id=1768311689&global_version=1783976410",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/vendor/before_after_slider.css?id=fa71975480af4abc6da8f58f692c7320",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/components/button-custom-colors.css?id=b38861599ea7d50220c346343cf5d239",
+  "https://px-themeassets.pixpa.com/build-20260919-032031-224/compiled/css/vendor/flexslider.css?id=15d83b0d3ce361490f6507aed600c1c1"
+ ],
+ "containerMaxWidths": [
+  {
+   "value": "1200px",
+   "count": 12
+  },
+  {
+   "value": "450px",
+   "count": 1
+  }
+ ],
+ "direction": {
+  "rtlSamples": [],
+  "ltrSamples": [
+   {
+    "tag": "body",
+    "text": "//pinterest script",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "start",
+    "unicodeBidi": "normal",
+    "fontFamily": "\"Times New Roman\"",
+    "fontSize": "16px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "p",
+    "text": "This website uses cookies to ensure you get the be",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "start",
+    "unicodeBidi": "isolate",
+    "fontFamily": "\"Frank Ruhl Libre\", serif",
+    "fontSize": "14px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "div",
+    "text": "BUY THIS IMAGE",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "start",
+    "unicodeBidi": "isolate",
+    "fontFamily": "\"Open Sans\", sans-serif",
+    "fontSize": "14px",
+    "fontWeight": "600"
+   },
+   {
+    "tag": "button",
+    "text": "view cart ()",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "center",
+    "unicodeBidi": "normal",
+    "fontFamily": "Arial",
+    "fontSize": "13px",
+    "fontWeight": "600"
+   },
+   {
+    "tag": "span",
+    "text": "0",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "center",
+    "unicodeBidi": "normal",
+    "fontFamily": "Arial",
+    "fontSize": "13px",
+    "fontWeight": "600"
+   },
+   {
+    "tag": "span",
+    "text": "\"Your talent is God's gift to you.What you do with",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "center",
+    "unicodeBidi": "normal",
+    "fontFamily": "\"Frank Ruhl Libre\", serif",
+    "fontSize": "16px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "span",
+    "text": "WWW.ORICHAYUN.COM",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "center",
+    "unicodeBidi": "normal",
+    "fontFamily": "\"Frank Ruhl Libre\", serif",
+    "fontSize": "16px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "span",
+    "text": "\"Your talent is God's gift to you.What you do with",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "center",
+    "unicodeBidi": "normal",
+    "fontFamily": "\"Frank Ruhl Libre\", serif",
+    "fontSize": "16px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "span",
+    "text": "WWW.ORICHAYUN.COM",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "center",
+    "unicodeBidi": "normal",
+    "fontFamily": "\"Frank Ruhl Libre\", serif",
+    "fontSize": "16px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "span",
+    "text": "\"Your talent is God's gift to you.What you do with",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "center",
+    "unicodeBidi": "normal",
+    "fontFamily": "\"Frank Ruhl Libre\", serif",
+    "fontSize": "16px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "span",
+    "text": "WWW.ORICHAYUN.COM",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "center",
+    "unicodeBidi": "normal",
+    "fontFamily": "\"Frank Ruhl Libre\", serif",
+    "fontSize": "16px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "span",
+    "text": "\"Your talent is God's gift to you.What you do with",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "center",
+    "unicodeBidi": "normal",
+    "fontFamily": "\"Frank Ruhl Libre\", serif",
+    "fontSize": "16px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "span",
+    "text": "WWW.ORICHAYUN.COM",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "center",
+    "unicodeBidi": "normal",
+    "fontFamily": "\"Frank Ruhl Libre\", serif",
+    "fontSize": "16px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "span",
+    "text": "\"Your talent is God's gift to you.What you do with",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "center",
+    "unicodeBidi": "normal",
+    "fontFamily": "\"Frank Ruhl Libre\", serif",
+    "fontSize": "16px",
+    "fontWeight": "400"
+   },
+   {
+    "tag": "span",
+    "text": "WWW.ORICHAYUN.COM",
+    "direction": "ltr",
+    "dirAttr": null,
+    "textAlign": "center",
+    "unicodeBidi": "normal",
+    "fontFamily": "\"Frank Ruhl Libre\", serif",
+    "fontSize": "16px",
+    "fontWeight": "400"
+   }
+  ],
+  "dirAttributes": [],
+  "hasRtlText": false
+ },
+ "images": [
+  {
+   "w": 250,
+   "h": 160,
+   "ratio": 1.56,
+   "objectFit": "contain",
+   "loading": "auto",
+   "natural": "0x0",
+   "alt": "",
+   "src": "https://www.orichayun.com/home"
+  },
+  {
+   "w": 102,
+   "h": 101,
+   "ratio": 1.01,
+   "objectFit": "fill",
+   "loading": "auto",
+   "natural": "661x654",
+   "alt": "Ori Chayun Wedding Photography",
+   "src": "https://px-web-images-v2.pixpa.com/pRISmsd2MQHPRuzEdxbT6Ci4qPYl01lgy_vlXmmUGo8/rs:fit:1000:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 390,
+   "h": 844,
+   "ratio": 0.46,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "312x175",
+   "alt": "Ori Chayun Wedding Photography",
+   "src": "https://px-web-images-v2.pixpa.com/wXax9Vd6-xG1EzrU565-q9CyNZtfeIG10OIbTJfQNto/rs:fit:2560:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 390,
+   "h": 844,
+   "ratio": 0.46,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "390x190",
+   "alt": "Ori Chayun Wedding Photography",
+   "src": "https://px-web-images-v2.pixpa.com/pb0BwFc-LFtXo2FRVPGYX0Cm_WSwZxxnDuoVs_uLIuQ/rs:fit:1200:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 390,
+   "h": 844,
+   "ratio": 0.46,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "390x259",
+   "alt": "Ori Chayun Wedding Photography",
+   "src": "https://px-web-images-v2.pixpa.com/xUgMsuZV698RnuHYu3W5N-DAMNxEQY_PQk4m1eNqS9c/rs:fit:1200:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 390,
+   "h": 844,
+   "ratio": 0.46,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "390x259",
+   "alt": "Ori Chayun Wedding Photography",
+   "src": "https://px-web-images-v2.pixpa.com/pcEOZ8av5Lr0gr2pKj59hu-zAq46Tyn6xB7qzu1szSA/rs:fit:1200:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 390,
+   "h": 844,
+   "ratio": 0.46,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "390x259",
+   "alt": "Ori Chayun Wedding Photography",
+   "src": "https://px-web-images-v2.pixpa.com/DGX0DOg4Ho_js65qAHv0YQuYUSfujjGKAVzR8lYxCcU/rs:fit:1200:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 390,
+   "h": 844,
+   "ratio": 0.46,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "390x219",
+   "alt": "Ori Chayun Wedding Photography",
+   "src": "https://px-web-images-v2.pixpa.com/4g_BDWrsOw1ouPBimsju2kebURPiKCUOfzebsFzdHs0/rs:fit:1200:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 390,
+   "h": 844,
+   "ratio": 0.46,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "390x259",
+   "alt": "Ori Chayun Wedding Photography",
+   "src": "https://px-web-images-v2.pixpa.com/p1UDsi1YfJs-fCQGw4Gklf1YakbDxVToMEwKz3oPJiU/rs:fit:1200:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 390,
+   "h": 844,
+   "ratio": 0.46,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "390x259",
+   "alt": "Ori Chayun Wedding Photography",
+   "src": "https://px-web-images-v2.pixpa.com/D5ZFsHiPpn98SqRBTbhoOotx3NPSNFP1kgpXc9_Ljcs/rs:fit:1200:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 390,
+   "h": 844,
+   "ratio": 0.46,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "390x259",
+   "alt": "Ori Chayun Wedding Photography",
+   "src": "https://px-web-images-v2.pixpa.com/HNYzFKimrK1lW9OP33GxmvezYvzkcsYZnWHhtMTQfnw/rs:fit:1200:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 390,
+   "h": 844,
+   "ratio": 0.46,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "390x259",
+   "alt": "Ori Chayun Wedding Photography",
+   "src": "https://px-web-images-v2.pixpa.com/yeayVsXU0EeAky71oVmB9-x9qOzhjVO2Ap_aIqmXenk/rs:fit:1200:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS"
+  },
+  {
+   "w": 355,
+   "h": 532,
+   "ratio": 0.67,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "355x443",
+   "alt": "FUN",
+   "src": "https://px-web-images-v2.pixpa.com/3Lj6RJXpifuQUk1iRc8sXzPvlpeWEnW4EBX6XaNqGc8/rs:fit:800:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 355,
+   "h": 532,
+   "ratio": 0.67,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "355x370",
+   "alt": "LOVE",
+   "src": "https://px-web-images-v2.pixpa.com/Mi_IngSwMXmfUy3vHImDV6wgAPd_f9wVSlK-8XvR2LU/rs:fit:800:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 355,
+   "h": 532,
+   "ratio": 0.67,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "355x532",
+   "alt": "BEAUTY",
+   "src": "https://px-web-images-v2.pixpa.com/lYQC0NXHBvDu2qoBRPP0b02aQtMr_Pl4k0Q2Zka01VU/rs:fit:800:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 355,
+   "h": 532,
+   "ratio": 0.67,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "355x532",
+   "alt": "FASHION",
+   "src": "https://px-web-images-v2.pixpa.com/oFykk5AoFI8i-9zOw4IOkhWnXI-P-gvXa5HxIbJQWJs/rs:fit:800:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  },
+  {
+   "w": 355,
+   "h": 532,
+   "ratio": 0.67,
+   "objectFit": "cover",
+   "loading": "eager",
+   "natural": "355x485",
+   "alt": "ART",
+   "src": "https://px-web-images-v2.pixpa.com/8OlyZ6TTwv8XYVkIRGfzMz9GbZOiR5_bao_2mp_yYyk/rs:fit:800:0/q:80/czM6Ly9waXhwYS10ZXN0L2NvbS9sYXJnZS80MjUzMS8"
+  }
+ ],
+ "imageCount": 17,
+ "outline": [
+  {
+   "tag": "header",
+   "id": "header",
+   "class": "inside_header-1 4    full-header js-full-header header header-scale u42531-header-bg-color",
+   "height": 152,
+   "top": 0,
+   "background": "rgba(254, 250, 250, 0)",
+   "paddingTop": "0px",
+   "paddingBottom": "0px",
+   "imgCount": 4,
+   "text": ""
+  },
+  {
+   "tag": "nav",
+   "id": "",
+   "class": "header-nav-list",
+   "height": 356,
+   "top": 197,
+   "background": "rgba(0, 0, 0, 0)",
+   "paddingTop": "0px",
+   "paddingBottom": "0px",
+   "imgCount": 0,
+   "text": ""
+  },
+  {
+   "tag": "div",
+   "id": "",
+   "class": "is-section is-section-banner is-section-banner is-section-fit2width-container is-align-lef",
+   "height": 844,
+   "top": 0,
+   "background": "rgba(255, 255, 255, 0)",
+   "paddingTop": "0px",
+   "paddingBottom": "0px",
+   "imgCount": 10,
+   "text": "\"Your talent is God's gift to you. What you do with it is your gift to God\" WWW.ORICHAYUN.COM \"Your talent is God's gift to you. What you do"
+  },
+  {
+   "tag": "section",
+   "id": "cover-section-642503",
+   "class": "fade fullbleed wysiwyg-editor cover_slider_lightgallery navigation_style-1 cover-banner-h-",
+   "height": 844,
+   "top": 0,
+   "background": "rgba(0, 0, 0, 0.06)",
+   "paddingTop": "0px",
+   "paddingBottom": "0px",
+   "imgCount": 10,
+   "text": "\"Your talent is God's gift to you. What you do with it is your gift to God\" WWW.ORICHAYUN.COM \"Your talent is God's gift to you. What you do"
+  },
+  {
+   "tag": "div",
+   "id": "",
+   "class": "is-section is-section-imagelist is-section-imagelist is-section-fit2width-container is-sec",
+   "height": 2872,
+   "top": 844,
+   "background": "rgb(247, 247, 247)",
+   "paddingTop": "0px",
+   "paddingBottom": "0px",
+   "imgCount": 5,
+   "text": "BROWSE MY WORK FUN LOVE BEAUTY FASHION ART See More Work"
+  },
+  {
+   "tag": "div",
+   "id": "",
+   "class": "is-section is-section-text is-section-text is-section-fit2width-container is-align-center ",
+   "height": 422,
+   "top": 3716,
+   "background": "rgb(17, 17, 17)",
+   "paddingTop": "0px",
+   "paddingBottom": "0px",
+   "imgCount": 0,
+   "text": "\" Find a job you love and you’ll never work a day in your life ” My name is Ori and taking pictures is my passion and my biggest privilege, "
+  },
+  {
+   "tag": "div",
+   "id": "",
+   "class": "is-section is-section-basic is-section-everywhere is-section-fit2width-container is-align-",
+   "height": 1328,
+   "top": 4138,
+   "background": "rgba(255, 255, 255, 0)",
+   "paddingTop": "0px",
+   "paddingBottom": "0px",
+   "imgCount": 0,
+   "text": ""
+  },
+  {
+   "tag": "div",
+   "id": "",
+   "class": "is-section is-section-social is-section-everywhere is-section-fit2width-container is-align",
+   "height": 279,
+   "top": 5466,
+   "background": "rgba(255, 255, 255, 0)",
+   "paddingTop": "0px",
+   "paddingBottom": "0px",
+   "imgCount": 0,
+   "text": "Follow me on Instagram"
+  }
+ ],
+ "headings": [
+  {
+   "level": "H4",
+   "text": "BROWSE MY WORK"
+  },
+  {
+   "level": "H4",
+   "text": "FUN"
+  },
+  {
+   "level": "H4",
+   "text": "LOVE"
+  },
+  {
+   "level": "H4",
+   "text": "BEAUTY"
+  },
+  {
+   "level": "H4",
+   "text": "FASHION"
+  },
+  {
+   "level": "H4",
+   "text": "ART"
+  },
+  {
+   "level": "H3",
+   "text": "\" Find a job you love and you’ll never work a day in your life ”"
+  },
+  {
+   "level": "H4",
+   "text": "My name is Ori and taking pictures is my passion and my biggest privilege, as I believe that if you'"
+  },
+  {
+   "level": "H3",
+   "text": "Follow me on Instagram"
+  }
+ ],
+ "links": [
+  {
+   "text": "",
+   "href": "https://www.orichayun.com/getjsassets"
+  },
+  {
+   "text": "Continue Shopping",
+   "href": "/store"
+  },
+  {
+   "text": "",
+   "href": "/"
+  },
+  {
+   "text": "Home",
+   "href": "/home"
+  },
+  {
+   "text": "Romantic",
+   "href": "/"
+  },
+  {
+   "text": "Fun",
+   "href": "/galleries/fun"
+  },
+  {
+   "text": "Fashion",
+   "href": "/galleries/fashion"
+  },
+  {
+   "text": "Brides",
+   "href": "/galleries/brides"
+  },
+  {
+   "text": "Beauty",
+   "href": "/galleries/beauty"
+  },
+  {
+   "text": "Truth",
+   "href": "/galleries/truth"
+  },
+  {
+   "text": "Design",
+   "href": "/galleries/style"
+  },
+  {
+   "text": "Art",
+   "href": "/galleries/art"
+  },
+  {
+   "text": "Dance Floor",
+   "href": "/galleries/dancefloor"
+  },
+  {
+   "text": "Lake Como Wedding",
+   "href": "/galleries/lake-como-wedding"
+  },
+  {
+   "text": "Judean Desert Elopement",
+   "href": "/galleries/judean-desert-elopement"
+  },
+  {
+   "text": "Jaffa Hotel by Ori Chayun",
+   "href": "/galleries/jaffa"
+  },
+  {
+   "text": "Wedding Gallery",
+   "href": "/gallery"
+  },
+  {
+   "text": "Vogue",
+   "href": "/vogue"
+  },
+  {
+   "text": "B&W",
+   "href": "/bw"
+  },
+  {
+   "text": "Pregnancy",
+   "href": "/pregnancy"
+  },
+  {
+   "text": "Instagram",
+   "href": "/instagram"
+  },
+  {
+   "text": "Reviews",
+   "href": "/reviews"
+  },
+  {
+   "text": "Contact",
+   "href": "/contact"
+  },
+  {
+   "text": "",
+   "href": "https://wa.me/972548169111"
+  },
+  {
+   "text": "",
+   "href": "https://www.facebook.com/orichayunwedding"
+  },
+  {
+   "text": "",
+   "href": "https://www.instagram.com/orichayun"
+  },
+  {
+   "text": "",
+   "href": "/"
+  },
+  {
+   "text": "",
+   "href": "/home"
+  },
+  {
+   "text": "Romantic",
+   "href": "/"
+  },
+  {
+   "text": "Fun",
+   "href": "/galleries/fun"
+  },
+  {
+   "text": "Fashion",
+   "href": "/galleries/fashion"
+  },
+  {
+   "text": "Brides",
+   "href": "/galleries/brides"
+  },
+  {
+   "text": "Beauty",
+   "href": "/galleries/beauty"
+  },
+  {
+   "text": "Truth",
+   "href": "/galleries/truth"
+  },
+  {
+   "text": "Design",
+   "href": "/galleries/style"
+  },
+  {
+   "text": "Art",
+   "href": "/galleries/art"
+  },
+  {
+   "text": "Dance Floor",
+   "href": "/galleries/dancefloor"
+  },
+  {
+   "text": "Lake Como Wedding",
+   "href": "/galleries/lake-como-wedding"
+  },
+  {
+   "text": "Judean Desert Elopement",
+   "href": "/galleries/judean-desert-elopement"
+  },
+  {
+   "text": "Jaffa Hotel by Ori Chayun",
+   "href": "/galleries/jaffa"
+  },
+  {
+   "text": "",
+   "href": "/gallery"
+  },
+  {
+   "text": "",
+   "href": "/vogue"
+  },
+  {
+   "text": "",
+   "href": "/bw"
+  },
+  {
+   "text": "",
+   "href": "/pregnancy"
+  },
+  {
+   "text": "",
+   "href": "/instagram"
+  },
+  {
+   "text": "",
+   "href": "/reviews"
+  },
+  {
+   "text": "",
+   "href": "/contact"
+  },
+  {
+   "text": "",
+   "href": "https://wa.me/972548169111"
+  },
+  {
+   "text": "",
+   "href": "https://www.facebook.com/orichayunwedding"
+  },
+  {
+   "text": "",
+   "href": "https://www.instagram.com/orichayun"
+  },
+  {
+   "text": "Home",
+   "href": "/home"
+  },
+  {
+   "text": "Romantic",
+   "href": "/"
+  },
+  {
+   "text": "Fun",
+   "href": "/galleries/fun"
+  },
+  {
+   "text": "Fashion",
+   "href": "/galleries/fashion"
+  },
+  {
+   "text": "Brides",
+   "href": "/galleries/brides"
+  },
+  {
+   "text": "Beauty",
+   "href": "/galleries/beauty"
+  },
+  {
+   "text": "Truth",
+   "href": "/galleries/truth"
+  },
+  {
+   "text": "Design",
+   "href": "/galleries/style"
+  },
+  {
+   "text": "Art",
+   "href": "/galleries/art"
+  },
+  {
+   "text": "Dance Floor",
+   "href": "/galleries/dancefloor"
+  },
+  {
+   "text": "Lake Como Wedding",
+   "href": "/galleries/lake-como-wedding"
+  },
+  {
+   "text": "Judean Desert Elopement",
+   "href": "/galleries/judean-desert-elopement"
+  },
+  {
+   "text": "Jaffa Hotel by Ori Chayun",
+   "href": "/galleries/jaffa"
+  },
+  {
+   "text": "Wedding Gallery",
+   "href": "/gallery"
+  },
+  {
+   "text": "Vogue",
+   "href": "/vogue"
+  },
+  {
+   "text": "B&W",
+   "href": "/bw"
+  },
+  {
+   "text": "Pregnancy",
+   "href": "/pregnancy"
+  },
+  {
+   "text": "Instagram",
+   "href": "/instagram"
+  },
+  {
+   "text": "Reviews",
+   "href": "/reviews"
+  },
+  {
+   "text": "Contact",
+   "href": "/contact"
+  },
+  {
+   "text": "WWW.ORICHAYUN.COM",
+   "href": "http://WWW.ORICHAYUN.COM"
+  },
+  {
+   "text": "WWW.ORICHAYUN.COM",
+   "href": "http://WWW.ORICHAYUN.COM"
+  },
+  {
+   "text": "WWW.ORICHAYUN.COM",
+   "href": "http://WWW.ORICHAYUN.COM"
+  },
+  {
+   "text": "WWW.ORICHAYUN.COM",
+   "href": "http://WWW.ORICHAYUN.COM"
+  },
+  {
+   "text": "WWW.ORICHAYUN.COM",
+   "href": "http://WWW.ORICHAYUN.COM"
+  },
+  {
+   "text": "WWW.ORICHAYUN.COM",
+   "href": "http://WWW.ORICHAYUN.COM"
+  },
+  {
+   "text": "WWW.ORICHAYUN.COM",
+   "href": "http://WWW.ORICHAYUN.COM"
+  },
+  {
+   "text": "WWW.ORICHAYUN.COM",
+   "href": "http://WWW.ORICHAYUN.COM"
+  },
+  {
+   "text": "WWW.ORICHAYUN.COM",
+   "href": "http://WWW.ORICHAYUN.COM"
+  },
+  {
+   "text": "WWW.ORICHAYUN.COM",
+   "href": "http://WWW.ORICHAYUN.COM"
+  },
+  {
+   "text": "See More Work",
+   "href": "/more-work"
+  },
+  {
+   "text": "",
+   "href": "https://wa.me/972548169111"
+  },
+  {
+   "text": "",
+   "href": "https://www.facebook.com/orichayunwedding"
+  },
+  {
+   "text": "",
+   "href": "https://www.instagram.com/orichayun"
+  },
+  {
+   "text": "",
+   "href": "https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.orichayun.com%2Fhome"
+  },
+  {
+   "text": "",
+   "href": "https://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.orichayun.com%2Fhome"
+  },
+  {
+   "text": "",
+   "href": "https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.orichayun.com%2Fhome"
+  },
+  {
+   "text": "",
+   "href": "https://www.tumblr.com/widgets/share/tool?posttype=link&canonicalUrl=http%3A%2F%2Fwww.orichayun.com%2Fhome"
+  },
+  {
+   "text": "",
+   "href": "https://api.whatsapp.com/send?phone=&text=http%3A%2F%2Fwww.orichayun.com%2Fhome"
+  },
+  {
+   "text": "",
+   "href": "mailto:?body=http%3A%2F%2Fwww.orichayun.com%2Fhome"
+  },
+  {
+   "text": "",
+   "href": "https://wa.me/972548169111?&text=Hi+there%21+This+is+an+inquiry+from+the+WhatsApp+Chat+on+your+website."
+  }
+ ],
+ "cssBreakpoints": {
+  "sheets": 22,
+  "conditions": [
+   {
+    "value": "screen and (max-width:767px)",
+    "count": 381
+   },
+   {
+    "value": "screen and (max-width:768px)",
+    "count": 125
+   },
+   {
+    "value": "screen and (max-width:1024px)",
+    "count": 122
+   },
+   {
+    "value": "screen and (min-width:768px)",
+    "count": 29
+   },
+   {
+    "value": "screen and (max-width:640px)",
+    "count": 23
+   },
+   {
+    "value": "screen and (min-width:1025px)",
+    "count": 16
+   },
+   {
+    "value": "screen and (max-width:980px)",
+    "count": 15
+   },
+   {
+    "value": "screen and (max-width:425px)",
+    "count": 15
+   },
+   {
+    "value": "screen and (min-width:767px)",
+    "count": 13
+   },
+   {
+    "value": "screen and (min-width:1024px)",
+    "count": 10
+   },
+   {
+    "value": "screen and (max-width:680px)",
+    "count": 7
+   },
+   {
+    "value": "screen and (max-width:1199px)",
+    "count": 7
+   },
+   {
+    "value": "all and (max-width:1024px)",
+    "count": 6
+   },
+   {
+    "value": "screen and (min-width:769px)",
+    "count": 6
+   },
+   {
+    "value": "all and (max-width:540px)",
+    "count": 5
+   },
+   {
+    "value": "all and (max-width:960px)",
+    "count": 5
+   },
+   {
+    "value": "(min-width:768px)",
+    "count": 4
+   },
+   {
+    "value": "screen and (max-width:960px)",
+    "count": 4
+   },
+   {
+    "value": "all and (max-width:767px)",
+    "count": 3
+   },
+   {
+    "value": "screen and (min-width:1199px)",
+    "count": 3
+   },
+   {
+    "value": "screen and (max-width:1023px)",
+    "count": 3
+   },
+   {
+    "value": "only screen and (max-width:1024px) and (orientation:landscape)",
+    "count": 3
+   },
+   {
+    "value": "screen and (max-width:480px)",
+    "count": 3
+   },
+   {
+    "value": "screen and (min-width:1900px)",
+    "count": 3
+   },
+   {
+    "value": "all and (min-width:1280px)",
+    "count": 2
+   },
+   {
+    "value": "screen and (max-width:990px)",
+    "count": 2
+   },
+   {
+    "value": "screen and (min-width:768px) and (max-width:1024px)",
+    "count": 2
+   },
+   {
+    "value": "screen and (max-width:768px) and (max-width:1024px)",
+    "count": 2
+   },
+   {
+    "value": "screen and (max-width:1199px) and (max-width:1024px)",
+    "count": 2
+   },
+   {
+    "value": "screen and (max-width:769px)",
+    "count": 2
+   },
+   {
+    "value": "screen and (max-width:1440px)",
+    "count": 2
+   },
+   {
+    "value": "screen and (max-width:1280px)",
+    "count": 2
+   },
+   {
+    "value": "(max-width:640px)",
+    "count": 1
+   },
+   {
+    "value": "all and (max-width:480px)",
+    "count": 1
+   },
+   {
+    "value": "all and (max-width:768px)",
+    "count": 1
+   },
+   {
+    "value": "all and (max-width:1280px)",
+    "count": 1
+   },
+   {
+    "value": "all and (max-width:1025px)",
+    "count": 1
+   },
+   {
+    "value": "all and (max-width:1200px)",
+    "count": 1
+   },
+   {
+    "value": "all and (max-width:1024px) and (min-width:768px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:1024px) and (orientation:landscape)",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:425px),screen and (min-width:425px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (min-width:768px) and (max-width:1199px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:400px)",
+    "count": 1
+   },
+   {
+    "value": "only screen and (max-width:1024px)",
+    "count": 1
+   },
+   {
+    "value": "print",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:500px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:300px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:991px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width: 1024px)",
+    "count": 1
+   },
+   {
+    "value": "(max-width:767px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:1200px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:40rem)",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:768px) and (max-width:640px)",
+    "count": 1
+   },
+   {
+    "value": "only screen and (min-device-width:1024px) and (max-device-width:1365px) and (orientation:landscape)",
+    "count": 1
+   },
+   {
+    "value": "screen and (min-width:991px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (min-width:1025px) and (max-width:1200px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (min-width:768px) and (max-width:1200px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (min-width:425px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:800px)",
+    "count": 1
+   },
+   {
+    "value": "screen and (max-width:860px)",
+    "count": 1
+   }
+  ],
+  "widths": [
+   {
+    "value": "max-width: 767px",
+    "count": 385
+   },
+   {
+    "value": "max-width: 1024px",
+    "count": 141
+   },
+   {
+    "value": "max-width: 768px",
+    "count": 129
+   },
+   {
+    "value": "min-width: 768px",
+    "count": 38
+   },
+   {
+    "value": "max-width: 640px",
+    "count": 25
+   },
+   {
+    "value": "min-width: 1025px",
+    "count": 17
+   },
+   {
+    "value": "max-width: 425px",
+    "count": 16
+   },
+   {
+    "value": "max-width: 980px",
+    "count": 15
+   },
+   {
+    "value": "min-width: 767px",
+    "count": 13
+   },
+   {
+    "value": "min-width: 1024px",
+    "count": 10
+   },
+   {
+    "value": "max-width: 1199px",
+    "count": 10
+   },
+   {
+    "value": "max-width: 960px",
+    "count": 9
+   },
+   {
+    "value": "max-width: 680px",
+    "count": 7
+   },
+   {
+    "value": "min-width: 769px",
+    "count": 6
+   },
+   {
+    "value": "max-width: 540px",
+    "count": 5
+   },
+   {
+    "value": "max-width: 480px",
+    "count": 4
+   },
+   {
+    "value": "max-width: 1200px",
+    "count": 4
+   },
+   {
+    "value": "max-width: 1280px",
+    "count": 3
+   },
+   {
+    "value": "min-width: 1199px",
+    "count": 3
+   },
+   {
+    "value": "max-width: 1023px",
+    "count": 3
+   },
+   {
+    "value": "min-width: 1900px",
+    "count": 3
+   },
+   {
+    "value": "min-width: 1280px",
+    "count": 2
+   },
+   {
+    "value": "max-width: 990px",
+    "count": 2
+   },
+   {
+    "value": "min-width: 425px",
+    "count": 2
+   },
+   {
+    "value": "max-width: 769px",
+    "count": 2
+   },
+   {
+    "value": "max-width: 1440px",
+    "count": 2
+   },
+   {
+    "value": "max-width: 1025px",
+    "count": 1
+   },
+   {
+    "value": "max-width: 400px",
+    "count": 1
+   },
+   {
+    "value": "max-width: 500px",
+    "count": 1
+   },
+   {
+    "value": "max-width: 300px",
+    "count": 1
+   },
+   {
+    "value": "max-width: 991px",
+    "count": 1
+   },
+   {
+    "value": "max-width: 40rem",
+    "count": 1
+   },
+   {
+    "value": "min-width: 991px",
+    "count": 1
+   },
+   {
+    "value": "max-width: 800px",
+    "count": 1
+   },
+   {
+    "value": "max-width: 860px",
+    "count": 1
+   }
+  ]
+ }
+}
