@@ -1,0 +1,29 @@
+# --- pages you listed ---
+/
+/home
+/gallery
+/pregnancy
+/reviews
+/contact
+# these four were in your list but are NOT in the site nav - crawling to confirm
+/fullweddings
+/romantic
+/brides
+/reels
+# --- real nav: style categories ---
+/galleries/fun
+/galleries/fashion
+/galleries/brides
+/galleries/beauty
+/galleries/truth
+/galleries/style
+/galleries/art
+/galleries/dancefloor
+# --- real nav: full wedding stories ---
+/galleries/lake-como-wedding
+/galleries/judean-desert-elopement
+/galleries/jaffa
+# --- real nav: other top-level ---
+/vogue
+/bw
+/instagram
