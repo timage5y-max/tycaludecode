@@ -21,7 +21,7 @@ function parseArgs(argv) {
                 { name: 'mobile', width: 390, height: 844, mobile: true }],
     concurrency: 5, retries: 4, timeout: 60000, quality: 70, format: 'jpeg',
     cache: true, blockAnalytics: true, fullPage: true, scrollPasses: 60,
-    chromium: null, ua: null, locale: null, browserProxy: false, verbose: false,
+    chromium: null, ua: null, locale: null, browserProxy: false, verbose: false, force: false,
   };
   const rest = [];
   for (let i = 0; i < argv.length; i++) {
@@ -46,6 +46,7 @@ function parseArgs(argv) {
       case '--no-block-analytics': o.blockAnalytics = false; break;
       case '--no-full-page': o.fullPage = false; break;
       case '--browser-proxy': o.browserProxy = true; break;
+      case '--force': o.force = true; break;
       case '--verbose': o.verbose = true; break;
       case '--help': case '-h': o.help = true; break;
       default:
@@ -98,6 +99,7 @@ Options
   --no-block-analytics    Load trackers too (they are blocked by default)
   --no-full-page          Capture only the viewport
   --browser-proxy         Also point Chromium itself at HTTPS_PROXY
+  --force                 Run even if another crawl holds this --out directory
   --verbose               Log every asset fetch
 
 Outputs <out>/shots/<page>__<viewport>.<ext>, <out>/data/<page>__<viewport>.json
@@ -161,6 +163,31 @@ function breakpointsFromCss(cssTexts) {
   return { sheets: cssTexts.size, conditions: sort(conditions, 60), widths: sort(widths, 40) };
 }
 
+/**
+ * Guard the output directory. Two crawls sharing one --out overwrite each other's
+ * summary.json and interleave screenshots, so refuse unless --force.
+ */
+function acquireLock(outDir, force) {
+  const lockPath = path.join(outDir, '.crawl.lock');
+  if (fs.existsSync(lockPath) && !force) {
+    const prev = Number(fs.readFileSync(lockPath, 'utf8').trim());
+    let alive = false;
+    try { process.kill(prev, 0); alive = true; } catch { alive = false; }
+    if (alive) {
+      throw new Error(
+        `another crawl (pid ${prev}) is writing to ${path.resolve(outDir)}.\n` +
+        'Use a different --out, wait for it to finish, or pass --force.');
+    }
+  }
+  fs.writeFileSync(lockPath, String(process.pid));
+  const release = () => { try { fs.unlinkSync(lockPath); } catch {} };
+  process.once('exit', release);
+  for (const sig of ['SIGINT', 'SIGTERM']) {
+    process.once(sig, () => { release(); process.exit(130); });
+  }
+  return release;
+}
+
 const slug = (p) => {
   const s = p.replace(/^\/+|\/+$/g, '').replace(/[^a-zA-Z0-9._-]+/g, '_');
   return s || 'root';
@@ -202,6 +229,8 @@ async function main() {
   const dataDir = path.join(opts.out, 'data');
   fs.mkdirSync(shotsDir, { recursive: true });
   fs.mkdirSync(dataDir, { recursive: true });
+
+  acquireLock(opts.out, opts.force);
 
   const extractSrc = fs.readFileSync(new URL('./lib/extract.js', import.meta.url), 'utf8');
   const fetcher = createFetcher({

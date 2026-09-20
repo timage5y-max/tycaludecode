@@ -68,6 +68,7 @@ node crawl.mjs --base https://example.com \
 | `--no-block-analytics` | off | Load trackers too (blocked by default). |
 | `--no-full-page` | off | Capture only the viewport. |
 | `--browser-proxy` | off | Also point Chromium itself at `HTTPS_PROXY`. Rarely needed — interception already covers the network. |
+| `--force` | off | Run even if another crawl holds the `--out` directory. |
 | `--verbose` | off | Log every asset fetch and retry. |
 
 ### Output
@@ -134,6 +135,10 @@ as fatal so egress-policy denials fail fast instead of burning retries.
   site gates content behind a tag manager, pass `--no-block-analytics`.
 - **The cache is keyed by URL only**, with no revalidation. Delete `<out>/.cache`
   to force a fresh pull.
+- **One crawl per `--out`.** Two runs sharing an output directory overwrite each
+  other's `summary.json`, so the directory is locked by a `.crawl.lock` file
+  holding the owning PID. A stale lock from a killed run is detected and cleared
+  automatically; `--force` overrides regardless.
 - **A 200 is not a render.** Check `bodyFontFamily` and `loadedWebFonts` in the
   audit: a fallback serif plus zero webfonts means the CSS did not land, whatever
   the status code said.
