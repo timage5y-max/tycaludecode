@@ -88,9 +88,15 @@ Each audit JSON contains:
 - `fontFamilies`, `fontSizes`, `fontWeights`, `lineHeights`, `letterSpacings`,
   `loadedWebFonts`, and `typography` broken down per level (h1…h6, paragraph,
   nav, button, form field, inline) with sample strings.
-- `grids` — gallery containers: `display`, `gridTemplateColumns`, `gap`,
-  `derivedColumns` (measured from children sharing a top edge), child aspect
-  ratios and widths.
+- `grids` — gallery containers that are real CSS flex/grid/multicol: `display`,
+  `gridTemplateColumns`, `gap`, `derivedColumns` (measured from children sharing
+  a top edge), child aspect ratios and widths.
+- `imageGrid` — the same question answered **geometrically**, by clustering where
+  images actually land: `columns`, `columnX`, `columnWidth`, `horizontalGap`,
+  `verticalGap`, `masonry`, `orientationMix` (landscape/portrait/square-ish) and
+  `topAspectRatios`. This is the one that works for JS-positioned masonry
+  (Pixpa, Squarespace, Isotope), where `grids` finds nothing because the
+  container is not a flex/grid box. Tiles parked off-canvas are excluded.
 - `spacing` / `borderRadius` — the repeating scale, by frequency.
 - `cssBreakpoints` — `@media` conditions and `min/max-width` values parsed from
   the **downloaded CSS text**, which recovers the cross-origin sheets CSSOM

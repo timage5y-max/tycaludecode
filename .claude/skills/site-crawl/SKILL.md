@@ -61,6 +61,10 @@ If either looks wrong, re-run with `--verbose --concurrency 2` and read the
 For breakpoints read `cssBreakpoints` (parsed from downloaded CSS text, so it
 covers cross-origin sheets), not `mediaQueries` (same-origin CSSOM only).
 
+For gallery layout read `imageGrid` (measured from where images land, so it works
+for JS-positioned masonry), not `grids` (CSS flex/grid containers only) — on a
+masonry site `grids` is often empty while `imageGrid` is correct.
+
 ## Reusing the fetcher
 
 `lib/proxy-fetch.mjs` is standalone and dependency-free — import `createFetcher`

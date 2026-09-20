@@ -122,6 +122,81 @@ window.__siteCrawlAudit = function () {
   }
   grids.sort((a, b) => b.imgCount - a.imgCount);
 
+  // ---------------------------------------------------------------- image grid (geometric)
+  // JS-positioned masonry (Pixpa, Squarespace, Isotope…) is not a flex/grid
+  // container, so the layout is measured from where the images actually land.
+  function imageGridGeometry() {
+    const tiles = [...document.querySelectorAll('img')]
+      .map((i) => ({ el: i, r: rect(i) }))
+      // Drop tiles parked far off-canvas (a common hide trick: left: -1000000px).
+      .filter(({ r }) => r.width > 100 && r.height > 60
+        && r.left > -500 && r.left < window.innerWidth + 500)
+      .map(({ el, r }) => ({
+        x: Math.round(r.left), y: Math.round(r.top + window.scrollY),
+        w: Math.round(r.width), h: Math.round(r.height),
+        ratio: +(r.width / r.height).toFixed(3),
+        fit: getComputedStyle(el).objectFit,
+      }));
+    if (tiles.length < 4) return null;
+
+    // Cluster left edges (snapped) into columns.
+    const byX = {};
+    for (const t of tiles) { const k = Math.round(t.x / 4) * 4; (byX[k] = byX[k] || []).push(t); }
+    const columns = Object.entries(byX)
+      .map(([x, items]) => ({ x: +x, count: items.length, width: median(items.map((i) => i.w)) }))
+      .filter((c) => c.count >= 2)
+      .sort((a, b) => a.x - b.x);
+    if (!columns.length) return null;
+
+    // Horizontal gap between adjacent columns.
+    const gaps = [];
+    for (let i = 1; i < columns.length; i++) {
+      const gap = columns[i].x - (columns[i - 1].x + columns[i - 1].width);
+      if (gap >= 0 && gap < 400) gaps.push(gap);
+    }
+    // Vertical gap between stacked tiles in the widest column.
+    const main = columns.reduce((a, b) => (b.count > a.count ? b : a), columns[0]);
+    const stack = byX[Math.round(main.x / 4) * 4].slice().sort((a, b) => a.y - b.y);
+    // Only non-overlapping neighbours describe a real gutter; absolutely
+    // positioned overlays otherwise produce large negative values.
+    const vGaps = [];
+    for (let i = 1; i < stack.length; i++) {
+      const gap = stack[i].y - (stack[i - 1].y + stack[i - 1].h);
+      if (gap >= 0 && gap < 400) vGaps.push(gap);
+    }
+
+    // Masonry = tiles in a column have varying heights.
+    const heights = [...new Set(tiles.map((t) => t.h))];
+    const ratios = {};
+    tiles.forEach((t) => {
+      const label = t.ratio > 1.25 ? 'landscape' : t.ratio < 0.85 ? 'portrait' : 'square-ish';
+      ratios[label] = (ratios[label] || 0) + 1;
+    });
+    const ratioBuckets = {};
+    tiles.forEach((t) => { const k = t.ratio.toFixed(2); ratioBuckets[k] = (ratioBuckets[k] || 0) + 1; });
+
+    return {
+      tileCount: tiles.length,
+      columns: columns.length,
+      columnX: columns.map((c) => c.x),
+      columnWidth: median(columns.map((c) => c.width)),
+      horizontalGap: gaps.length ? median(gaps) : null,
+      verticalGap: vGaps.length ? median(vGaps) : null,
+      masonry: heights.length > 3,
+      distinctHeights: heights.length,
+      orientationMix: ratios,
+      topAspectRatios: Object.entries(ratioBuckets).sort((a, b) => b[1] - a[1]).slice(0, 6)
+        .map(([value, count]) => ({ value: +value, count })),
+      objectFit: [...new Set(tiles.map((t) => t.fit))],
+      firstRowY: Math.min(...tiles.map((t) => t.y)),
+    };
+  }
+  function median(arr) {
+    if (!arr.length) return null;
+    const s = [...arr].sort((a, b) => a - b);
+    return s[Math.floor(s.length / 2)];
+  }
+
   // ---------------------------------------------------------------- spacing scale
   const spacing = {}, radius = {};
   const BOX = ['marginTop', 'marginBottom', 'marginLeft', 'marginRight',
@@ -234,6 +309,7 @@ window.__siteCrawlAudit = function () {
     loadedWebFonts: webfonts,
     typography,
     grids: grids.slice(0, 10),
+    imageGrid: imageGridGeometry(),
     spacing: top(spacing, 30), borderRadius: top(radius, 10),
     motion: { transitions: top(transition, 20), animations: top(animation, 15), transforms: top(transform, 10), keyframes },
     mediaQueries: top(media, 40),
