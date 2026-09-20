@@ -1,0 +1,15 @@
+{
+  "name": "site-crawl",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Screenshot pages and extract design tokens from the rendered DOM, behind a CONNECT-only egress proxy.",
+  "bin": { "site-crawl": "./crawl.mjs" },
+  "scripts": {
+    "crawl": "node crawl.mjs",
+    "fetch": "node lib/proxy-fetch.mjs"
+  },
+  "dependencies": {
+    "playwright-core": "^1.55.0"
+  }
+}

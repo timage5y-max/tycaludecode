@@ -1,0 +1,5 @@
+# One path per line. Blank lines and # comments are ignored.
+/
+/about
+/gallery
+/contact
